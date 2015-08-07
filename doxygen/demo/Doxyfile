@@ -1,0 +1,9 @@
+OUTPUT_DIRECTORY = /root/workspace/doxygen/docs
+EXTRACT_ALL = yes
+EXTRACT_PRIVATE = yes
+EXTRACT_STATIC = yes
+INPUT = /root/workspace/doxygen/
+#Do not add anything here unless you need to. Doxygen already covers all 
+#common formats like .c/.cc/.cxx/.c++/.cpp/.inl/.h/.hpp
+FILE_PATTERNS = 
+RECURSIVE = yes

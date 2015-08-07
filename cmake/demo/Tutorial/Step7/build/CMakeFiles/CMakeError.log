@@ -1,0 +1,42 @@
+Determining if the function log exists failed with the following output:
+Change Dir: /root/srcpkg/cmake-2.6.4/Tests/Tutorial/Step7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake[1]: Entering directory `/root/srcpkg/cmake-2.6.4/Tests/Tutorial/Step7/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/srcpkg/cmake-2.6.4/Tests/Tutorial/Step7/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=log   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+/usr/share/cmake/Modules/CheckFunctionExists.c:3: 警告：与内建函数‘log’类型冲突
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/usr/bin/gcc     -DCHECK_FUNCTION_EXISTS=log  -fPIC CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o  -o cmTryCompileExec -rdynamic 
+CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `log'
+collect2: ld 返回 1
+gmake[1]: Leaving directory `/root/srcpkg/cmake-2.6.4/Tests/Tutorial/Step7/build/CMakeFiles/CMakeTmp'
+gmake[1]: *** [cmTryCompileExec] 错误 1
+gmake: *** [cmTryCompileExec/fast] 错误 2
+
+
+Determining if the function exp exists failed with the following output:
+Change Dir: /root/srcpkg/cmake-2.6.4/Tests/Tutorial/Step7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake[1]: Entering directory `/root/srcpkg/cmake-2.6.4/Tests/Tutorial/Step7/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/srcpkg/cmake-2.6.4/Tests/Tutorial/Step7/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=exp   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+/usr/share/cmake/Modules/CheckFunctionExists.c:3: 警告：与内建函数‘exp’类型冲突
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/usr/bin/gcc     -DCHECK_FUNCTION_EXISTS=exp  -fPIC CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o  -o cmTryCompileExec -rdynamic 
+CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `exp'
+collect2: ld 返回 1
+gmake[1]: Leaving directory `/root/srcpkg/cmake-2.6.4/Tests/Tutorial/Step7/build/CMakeFiles/CMakeTmp'
+gmake[1]: *** [cmTryCompileExec] 错误 1
+gmake: *** [cmTryCompileExec/fast] 错误 2
+
+
