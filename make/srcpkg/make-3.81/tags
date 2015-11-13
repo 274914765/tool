@@ -1,0 +1,2697 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run aclocal-1.9$/;"	m
+ACLOCAL	config/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run aclocal-1.9$/;"	m
+ACLOCAL	doc/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run aclocal-1.9$/;"	m
+ACLOCAL	glob/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run aclocal-1.9$/;"	m
+ACLOCAL	w32/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run aclocal-1.9$/;"	m
+ACLOCAL_AMFLAGS	Makefile	/^ACLOCAL_AMFLAGS = -I config$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	config/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	doc/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	glob/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	w32/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ADDRESS_COMPARE	hash.h	224;"	d
+ADDRESS_FUNCTION	alloca.c	61;"	d	file:
+ADDRESS_HASH_1	hash.h	222;"	d
+ADDRESS_HASH_2	hash.h	223;"	d
+ADD_FLAG	main.c	2594;"	d	file:
+ADD_FLAG	main.c	2682;"	d	file:
+ADD_SIG	main.c	929;"	d	file:
+ALIGN_SIZE	alloca.c	144;"	d	file:
+ALLOCA	Makefile	/^ALLOCA = $/;"	m
+ALLOCA	config/Makefile	/^ALLOCA = $/;"	m
+ALLOCA	doc/Makefile	/^ALLOCA = $/;"	m
+ALLOCA	glob/Makefile	/^ALLOCA = $/;"	m
+ALLOCA	w32/Makefile	/^ALLOCA = $/;"	m
+AMDEP_FALSE	Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_FALSE	config/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_FALSE	doc/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_FALSE	glob/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_FALSE	w32/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	Makefile	/^AMDEP_TRUE = $/;"	m
+AMDEP_TRUE	config/Makefile	/^AMDEP_TRUE = $/;"	m
+AMDEP_TRUE	doc/Makefile	/^AMDEP_TRUE = $/;"	m
+AMDEP_TRUE	glob/Makefile	/^AMDEP_TRUE = $/;"	m
+AMDEP_TRUE	w32/Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run tar$/;"	m
+AMTAR	config/Makefile	/^AMTAR = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run tar$/;"	m
+AMTAR	doc/Makefile	/^AMTAR = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run tar$/;"	m
+AMTAR	glob/Makefile	/^AMTAR = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run tar$/;"	m
+AMTAR	w32/Makefile	/^AMTAR = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run tar$/;"	m
+AM_CPPFLAGS	Makefile	/^AM_CPPFLAGS = $(GLOBINC) $(am__append_2)$/;"	m
+AM_MAKEINFOHTMLFLAGS	doc/Makefile	/^AM_MAKEINFOHTMLFLAGS = $(AM_MAKEINFOFLAGS)$/;"	m
+ANSI2KNR	Makefile	/^ANSI2KNR = $/;"	m
+ANSI_STRING	glob/glob.c	131;"	d	file:
+ANSI_STRING	glob/glob.c	138;"	d	file:
+ANSI_STRING	make.h	214;"	d
+ANSI_STRING	make.h	218;"	d
+ANSI_STRING	make.h	282;"	d
+AR	Makefile	/^AR = ar$/;"	m
+AR	config/Makefile	/^AR = ar$/;"	m
+AR	doc/Makefile	/^AR = ar$/;"	m
+AR	glob/Makefile	/^AR = ar$/;"	m
+AR	w32/Makefile	/^AR = ar$/;"	m
+ARFLAGS	glob/Makefile	/^ARFLAGS = cru$/;"	m
+ARFLAGS	w32/Makefile	/^ARFLAGS = cru$/;"	m
+ARFMAG	arscan.c	234;"	d	file:
+ARMAG	arscan.c	231;"	d	file:
+ARMAG	arscan.c	253;"	d	file:
+AR_HDR_SIZE	arscan.c	266;"	d	file:
+AR_MEMHDR_SZ	arscan.c	445;"	d	file:
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoconf$/;"	m
+AUTOCONF	config/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoconf$/;"	m
+AUTOCONF	doc/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoconf$/;"	m
+AUTOCONF	glob/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoconf$/;"	m
+AUTOCONF	w32/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoheader$/;"	m
+AUTOHEADER	config/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoheader$/;"	m
+AUTOHEADER	doc/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoheader$/;"	m
+AUTOHEADER	glob/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoheader$/;"	m
+AUTOHEADER	w32/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run automake-1.9$/;"	m
+AUTOMAKE	config/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run automake-1.9$/;"	m
+AUTOMAKE	doc/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run automake-1.9$/;"	m
+AUTOMAKE	glob/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run automake-1.9$/;"	m
+AUTOMAKE	w32/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run automake-1.9$/;"	m
+AUTOMAKE_OPTIONS	Makefile	/^AUTOMAKE_OPTIONS = 1.8 dist-bzip2 check-news ansi2knr$/;"	m
+AUTOMAKE_OPTIONS	glob/Makefile	/^AUTOMAKE_OPTIONS = foreign$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	config/Makefile	/^AWK = gawk$/;"	m
+AWK	doc/Makefile	/^AWK = gawk$/;"	m
+AWK	glob/Makefile	/^AWK = gawk$/;"	m
+AWK	w32/Makefile	/^AWK = gawk$/;"	m
+Amiga_version	amiga.c	/^static const char Amiga_version[] = "$VER: Make 3.74.3 (12.05.96) \\n" "Amiga Port by A. Digulla (digulla@home.lake.de)";$/;"	v	file:
+BOGUS_UPDATE_STATUS	main.c	2046;"	d	file:
+BSD	getloadavg.c	126;"	d	file:
+BSD	getloadavg.c	133;"	d	file:
+BSD	getloadavg.c	142;"	d	file:
+BuildEnd	build_w32.bat	/^:BuildEnd$/;"	l
+BuildEnd	w32/subproc/build.bat	/^:BuildEnd$/;"	l
+CACHE_BUFFER_SIZE	strcache.c	24;"	d	file:
+CALLOC	hash.c	22;"	d	file:
+CATALOGS	po/Makefile	/^CATALOGS =  be.gmo da.gmo de.gmo es.gmo fi.gmo fr.gmo ga.gmo gl.gmo he.gmo hr.gmo id.gmo ja.gmo ko.gmo nl.gmo pl.gmo pt_BR.gmo ru.gmo rw.gmo sv.gmo tr.gmo uk.gmo vi.gmo zh_CN.gmo$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CC	config/Makefile	/^CC = gcc$/;"	m
+CC	doc/Makefile	/^CC = gcc$/;"	m
+CC	glob/Makefile	/^CC = gcc$/;"	m
+CC	w32/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	config/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	doc/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	glob/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	w32/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+CCLD	glob/Makefile	/^CCLD = $(CC)$/;"	m
+CCLD	w32/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	config/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	doc/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	glob/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	w32/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CHAR_BIT	make.h	156;"	d
+CHAR_CLASS_MAX_LENGTH	glob/fnmatch.c	107;"	d	file:
+CHAR_CLASS_MAX_LENGTH	glob/fnmatch.c	94;"	d	file:
+CHAR_CLASS_MAX_LENGTH	glob/fnmatch.c	98;"	d	file:
+CHAR_MAX	make.h	169;"	d
+CLEANFILES	doc/Makefile	/^CLEANFILES = make*.html$/;"	m
+CLONE	hash.c	25;"	d	file:
+CLOSE_ON_EXEC	job.h	30;"	d
+CLOSE_ON_EXEC	job.h	35;"	d
+COMMANDS_NOERROR	commands.h	36;"	d
+COMMANDS_RECURSE	commands.h	34;"	d
+COMMANDS_SILENT	commands.h	35;"	d
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPILE	glob/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPILE	w32/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	config/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	doc/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	glob/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	w32/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CONFIG_HEADER	config/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	doc/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	glob/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	w32/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+COPYRIGHT_HOLDER	po/Makefile	/^COPYRIGHT_HOLDER = Free Software Foundation, Inc.$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	config/Makefile	/^CPP = gcc -E$/;"	m
+CPP	doc/Makefile	/^CPP = gcc -E$/;"	m
+CPP	glob/Makefile	/^CPP = gcc -E$/;"	m
+CPP	w32/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	config/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	doc/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	glob/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	w32/Makefile	/^CPPFLAGS = $/;"	m
+CRAY_STACK	alloca.c	235;"	d	file:
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	glob/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	w32/Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	config/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	doc/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	glob/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	w32/Makefile	/^CYGPATH_W = echo$/;"	m
+DB	debug.h	38;"	d
+DBF	debug.h	34;"	d
+DBS	debug.h	31;"	d
+DB_ALL	debug.h	25;"	d
+DB_BASIC	debug.h	19;"	d
+DB_IMPLICIT	debug.h	22;"	d
+DB_JOBS	debug.h	21;"	d
+DB_MAKEFILES	debug.h	23;"	d
+DB_NONE	debug.h	18;"	d
+DB_VERBOSE	debug.h	20;"	d
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I.$/;"	m
+DEFAULT_INCLUDES	glob/Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I$(top_builddir)$/;"	m
+DEFAULT_INCLUDES	w32/Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I$(top_builddir)$/;"	m
+DEFAULT_TMPDIR	main.c	1423;"	d	file:
+DEFAULT_TMPFILE	main.c	1431;"	d	file:
+DEFINE_VARIABLE	commands.c	125;"	d	file:
+DEFINE_VARIABLE	commands.c	261;"	d	file:
+DEFS	Makefile	/^DEFS = -DLOCALEDIR=\\"$(localedir)\\" -DLIBDIR=\\"$(libdir)\\" -DINCLUDEDIR=\\"$(includedir)\\" -DHAVE_CONFIG_H$/;"	m
+DEFS	config/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	doc/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	glob/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	w32/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	config/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	doc/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	glob/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	w32/Makefile	/^DEPDIR = .deps$/;"	m
+DIR	vmsdir.h	/^typedef struct DIR$/;"	s
+DIR	vmsdir.h	/^} DIR;$/;"	t	typeref:struct:DIR
+DIR	w32/include/dirent.h	/^} DIR;$/;"	t	typeref:struct:dir_struct
+DIRECTORY_BUCKETS	dir.c	206;"	d	file:
+DIRFILE_BUCKETS	dir.c	390;"	d	file:
+DIRSEP_CHAR	glob/glob.c	1042;"	d	file:
+DIRSIZ	vmsdir.h	41;"	d
+DIRSIZ	vmsdir.h	42;"	d
+DISTCLEANFILES	Makefile	/^DISTCLEANFILES = build.sh$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	config/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	doc/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	glob/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	po/Makefile	/^DISTFILES = $(DISTFILES.common) Makevars POTFILES.in $(DOMAIN).pot stamp-po \\$/;"	m
+DISTFILES	w32/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES.common	po/Makefile	/^DISTFILES.common = Makefile.in.in remove-potcdate.sin \\$/;"	m
+DISTFILES.common.extra1	po/Makefile	/^DISTFILES.common.extra1 = quot.sed boldquot.sed en@quot.header en@boldquot.header insert-header.sin Rules-quot$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz $(distdir).tar.bz2$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = README $(am__configure_deps) $(noinst_HEADERS) \\$/;"	m
+DIST_COMMON	config/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in ChangeLog \\$/;"	m
+DIST_COMMON	doc/Makefile	/^DIST_COMMON = $(make_TEXINFOS) $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	glob/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in COPYING.LIB \\$/;"	m
+DIST_COMMON	w32/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(am__make_SOURCES_DIST) $(EXTRA_make_SOURCES)$/;"	m
+DIST_SOURCES	config/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	doc/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	glob/Makefile	/^DIST_SOURCES = $(libglob_a_SOURCES)$/;"	m
+DIST_SOURCES	w32/Makefile	/^DIST_SOURCES = $(libw32_a_SOURCES)$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = glob config po doc w32$/;"	m
+DOMAIN	po/Makefile	/^DOMAIN = $(PACKAGE)$/;"	m
+DUMMYPOFILES	po/Makefile	/^DUMMYPOFILES =  be.nop da.nop de.nop es.nop fi.nop fr.nop ga.nop gl.nop he.nop hr.nop id.nop ja.nop ko.nop nl.nop pl.nop pt_BR.nop ru.nop rw.nop sv.nop tr.nop uk.nop vi.nop zh_CN.nop$/;"	m
+DVIPS	doc/Makefile	/^DVIPS = dvips$/;"	m
+DVIS	doc/Makefile	/^DVIS = make.dvi$/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	config/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	doc/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	glob/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	w32/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	config/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	doc/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	glob/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	w32/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	config/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	doc/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	glob/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	w32/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = grep -E$/;"	m
+EGREP	config/Makefile	/^EGREP = grep -E$/;"	m
+EGREP	doc/Makefile	/^EGREP = grep -E$/;"	m
+EGREP	glob/Makefile	/^EGREP = grep -E$/;"	m
+EGREP	w32/Makefile	/^EGREP = grep -E$/;"	m
+EINTRLOOP	make.h	591;"	d
+ELIDE_CODE	getopt.c	59;"	d	file:
+ELIDE_CODE	getopt1.c	51;"	d	file:
+ELIDE_CODE	glob/glob.c	54;"	d	file:
+ENABLE_NLS	config.h	23;"	d
+ENULLLOOP	make.h	600;"	d
+ENUM_BITFIELD	make.h	328;"	d
+ENUM_BITFIELD	make.h	330;"	d
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	glob/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	w32/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	config/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	doc/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	glob/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	w32/Makefile	/^EXEEXT = $/;"	m
+EXIT_FAILURE	make.h	243;"	d
+EXIT_SUCCESS	make.h	240;"	d
+EXPANSION_INCREMENT	file.c	954;"	d	file:
+EXPANSION_INCREMENT	variable.c	238;"	d	file:
+EXPORT_COMMAND	remote-cstms.c	39;"	d	file:
+EXP_COUNT_BITS	variable.h	48;"	d
+EXP_COUNT_MAX	variable.h	49;"	d
+EXTERN_DECL	w32/include/sub_proc.h	31;"	d
+EXTERN_DECL	w32/include/w32err.h	22;"	d
+EXTRANEOUS	read.c	1408;"	d	file:
+EXTRA_DIST	Makefile	/^EXTRA_DIST = README build.sh.in $(man_MANS) \\$/;"	m
+EXTRA_DIST	config/Makefile	/^EXTRA_DIST = codeset.m4 gettext.m4 glibc21.m4 iconv.m4 isc-posix.m4 nls.m4 \\$/;"	m
+EXTRA_DIST	glob/Makefile	/^EXTRA_DIST = COPYING.LIB Makefile.ami SCOPTIONS SMakefile \\$/;"	m
+EXTRA_LOCALE_CATEGORIES	po/Makefile	/^EXTRA_LOCALE_CATEGORIES =$/;"	m
+EXTRA_make_SOURCES	Makefile	/^EXTRA_make_SOURCES = vmsjobs.c remote-stub.c remote-cstms.c$/;"	m
+E_FORK	w32/subproc/proc.h	25;"	d
+E_IO	w32/subproc/proc.h	23;"	d
+E_NO_MEM	w32/subproc/proc.h	24;"	d
+E_SCALL	w32/subproc/proc.h	22;"	d
+End	configure.bat	/^:End$/;"	l
+FAKE_DIR_ENTRY	dir.c	55;"	d	file:
+FAKE_DIR_ENTRY	dir.c	58;"	d	file:
+FATAL_SIG	main.c	939;"	d	file:
+FATAL_SIG	main.c	971;"	d	file:
+FAT_ADJ_OFFSET	remake.c	1232;"	d	file:
+FD_CLOEXEC	getloadavg.c	899;"	d	file:
+FD_CLOEXEC	job.h	33;"	d
+FILE_BUCKETS	file.c	58;"	d	file:
+FILE_LIST_SEPARATOR	commands.c	31;"	d	file:
+FILE_LIST_SEPARATOR	commands.c	33;"	d	file:
+FILE_TIMESTAMP	make.h	287;"	d
+FILE_TIMESTAMPS_PER_S	filedef.h	126;"	d
+FILE_TIMESTAMP_HI_RES	config.h	26;"	d
+FILE_TIMESTAMP_LO_BITS	filedef.h	127;"	d
+FILE_TIMESTAMP_NS	filedef.h	131;"	d
+FILE_TIMESTAMP_PRINT_LEN_BOUND	filedef.h	147;"	d
+FILE_TIMESTAMP_S	filedef.h	129;"	d
+FILE_TIMESTAMP_STAT_MODTIME	filedef.h	114;"	d
+FILE_TIMESTAMP_STAT_MODTIME	filedef.h	117;"	d
+FIXUP_KERNEL_SYMBOL_ADDR	getloadavg.c	322;"	d	file:
+FLOOR_LOG2_SECONDS_PER_YEAR	filedef.h	146;"	d
+FNM_CASEFOLD	glob/fnmatch.h	64;"	d
+FNM_FILE_NAME	glob/fnmatch.h	60;"	d
+FNM_LEADING_DIR	glob/fnmatch.h	62;"	d
+FNM_NOESCAPE	glob/fnmatch.h	51;"	d
+FNM_NOESCAPE	glob/fnmatch.h	56;"	d
+FNM_NOESCAPE	glob/glob.c	260;"	d	file:
+FNM_NOMATCH	glob/fnmatch.h	69;"	d
+FNM_NOSYS	glob/fnmatch.h	76;"	d
+FNM_PATHNAME	glob/fnmatch.h	50;"	d
+FNM_PATHNAME	glob/fnmatch.h	55;"	d
+FNM_PATHNAME	glob/glob.c	259;"	d	file:
+FNM_PERIOD	glob/fnmatch.h	52;"	d
+FNM_PERIOD	glob/fnmatch.h	57;"	d
+FNM_PERIOD	glob/glob.c	261;"	d	file:
+FOLD	glob/fnmatch.c	164;"	d	file:
+FOLD	glob/fnmatch.c	442;"	d	file:
+FSCALE	getloadavg.c	137;"	d	file:
+FSCALE	getloadavg.c	143;"	d	file:
+FSCALE	getloadavg.c	272;"	d	file:
+FSCALE	getloadavg.c	273;"	d	file:
+FSCALE	getloadavg.c	280;"	d	file:
+FSCALE	getloadavg.c	281;"	d	file:
+FSCALE	getloadavg.c	289;"	d	file:
+FSCALE	getloadavg.c	293;"	d	file:
+FSCALE	getloadavg.c	299;"	d	file:
+FSCALE	getloadavg.c	300;"	d	file:
+FSCALE	getloadavg.c	304;"	d	file:
+FSCALE	getloadavg.c	308;"	d	file:
+FSCALE	getloadavg.c	312;"	d	file:
+FS_FAT	dir.c	225;"	d	file:
+FS_NTFS	dir.c	226;"	d	file:
+FS_UNKNOWN	dir.c	227;"	d	file:
+FUNCTION_TABLE_ENTRIES	function.c	1969;"	d	file:
+GCCBuild	build_w32.bat	/^:GCCBuild$/;"	l
+GCCBuild	w32/subproc/build.bat	/^:GCCBuild$/;"	l
+GCC_IS_NATIVE	default.c	30;"	d	file:
+GETLOADAVG_LIBS	Makefile	/^GETLOADAVG_LIBS = $/;"	m
+GETLOADAVG_LIBS	config/Makefile	/^GETLOADAVG_LIBS = $/;"	m
+GETLOADAVG_LIBS	doc/Makefile	/^GETLOADAVG_LIBS = $/;"	m
+GETLOADAVG_LIBS	glob/Makefile	/^GETLOADAVG_LIBS = $/;"	m
+GETLOADAVG_LIBS	w32/Makefile	/^GETLOADAVG_LIBS = $/;"	m
+GETOPT_INTERFACE_VERSION	getopt.c	55;"	d	file:
+GETOPT_INTERFACE_VERSION	getopt1.c	47;"	d	file:
+GET_PATH_MAX	make.h	146;"	d
+GET_PATH_MAX	make.h	150;"	d
+GLOBINC	Makefile	/^GLOBINC = $/;"	m
+GLOBINC	config/Makefile	/^GLOBINC = $/;"	m
+GLOBINC	doc/Makefile	/^GLOBINC = $/;"	m
+GLOBINC	glob/Makefile	/^GLOBINC = $/;"	m
+GLOBINC	w32/Makefile	/^GLOBINC = $/;"	m
+GLOBLIB	Makefile	/^GLOBLIB = $/;"	m
+GLOBLIB	config/Makefile	/^GLOBLIB = $/;"	m
+GLOBLIB	doc/Makefile	/^GLOBLIB = $/;"	m
+GLOBLIB	glob/Makefile	/^GLOBLIB = $/;"	m
+GLOBLIB	w32/Makefile	/^GLOBLIB = $/;"	m
+GLOB_ABEND	glob/glob.h	121;"	d
+GLOB_ABORTED	glob/glob.h	115;"	d
+GLOB_ALTDIRFUNC	glob/glob.h	90;"	d
+GLOB_APPEND	glob/glob.c	273;"	d	file:
+GLOB_APPEND	glob/glob.h	82;"	d
+GLOB_BRACE	glob/glob.h	92;"	d
+GLOB_DOOFFS	glob/glob.c	271;"	d	file:
+GLOB_DOOFFS	glob/glob.h	80;"	d
+GLOB_ERR	glob/glob.c	268;"	d	file:
+GLOB_ERR	glob/glob.h	77;"	d
+GLOB_INTERFACE_VERSION	glob/glob.c	50;"	d	file:
+GLOB_MAGCHAR	glob/glob.h	88;"	d
+GLOB_MARK	glob/glob.c	269;"	d	file:
+GLOB_MARK	glob/glob.h	78;"	d
+GLOB_NOCHECK	glob/glob.c	272;"	d	file:
+GLOB_NOCHECK	glob/glob.h	81;"	d
+GLOB_NOESCAPE	glob/glob.c	274;"	d	file:
+GLOB_NOESCAPE	glob/glob.h	83;"	d
+GLOB_NOMAGIC	glob/glob.h	94;"	d
+GLOB_NOMATCH	glob/glob.h	116;"	d
+GLOB_NOSORT	glob/glob.c	270;"	d	file:
+GLOB_NOSORT	glob/glob.h	79;"	d
+GLOB_NOSPACE	glob/glob.h	114;"	d
+GLOB_NOSYS	glob/glob.h	117;"	d
+GLOB_ONLYDIR	glob/glob.h	98;"	d
+GLOB_PERIOD	glob/glob.c	275;"	d	file:
+GLOB_PERIOD	glob/glob.h	84;"	d
+GLOB_TILDE	glob/glob.h	96;"	d
+GLOB_TILDE_CHECK	glob/glob.h	100;"	d
+GMOFILES	po/Makefile	/^GMOFILES =  be.gmo da.gmo de.gmo es.gmo fi.gmo fr.gmo ga.gmo gl.gmo he.gmo hr.gmo id.gmo ja.gmo ko.gmo nl.gmo pl.gmo pt_BR.gmo ru.gmo rw.gmo sv.gmo tr.gmo uk.gmo vi.gmo zh_CN.gmo$/;"	m
+GMSGFMT	Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	config/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	doc/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	glob/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	po/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	w32/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+HASH_VACANT	hash.h	77;"	d
+HAVE_ALLOCA	config.h	33;"	d
+HAVE_ALLOCA_H	config.h	37;"	d
+HAVE_ANSI_COMPILER	config.h	40;"	d
+HAVE_ATEXIT	config.h	43;"	d
+HAVE_BSD_SIGNAL	config.h	46;"	d
+HAVE_CLOCK_GETTIME	config.h	52;"	d
+HAVE_CONFIG_H	make.h	23;"	d
+HAVE_CONFIG_H	make.h	24;"	d
+HAVE_DCGETTEXT	config.h	56;"	d
+HAVE_DECL_SYS_SIGLIST	config.h	60;"	d
+HAVE_DECL__SYS_SIGLIST	config.h	64;"	d
+HAVE_DECL___SYS_SIGLIST	config.h	68;"	d
+HAVE_DIRENT_H	config.h	72;"	d
+HAVE_DUP2	config.h	81;"	d
+HAVE_D_TYPE	glob/glob.c	117;"	d	file:
+HAVE_FCNTL_H	config.h	84;"	d
+HAVE_FDOPEN	config.h	87;"	d
+HAVE_FORK	config.h	90;"	d
+HAVE_GETCWD	config.h	93;"	d
+HAVE_GETGROUPS	config.h	96;"	d
+HAVE_GETLOADAVG	config.h	105;"	d
+HAVE_GETRLIMIT	config.h	108;"	d
+HAVE_GETTEXT	config.h	111;"	d
+HAVE_GETTIMEOFDAY	config.h	114;"	d
+HAVE_INTTYPES_H	config.h	120;"	d
+HAVE_ISASCII	ansi2knr.c	201;"	d	file:
+HAVE_ISASCII	ansi2knr.c	202;"	d	file:
+HAVE_LIMITS_H	config.h	129;"	d
+HAVE_LOCALE_H	config.h	132;"	d
+HAVE_LSTAT	config.h	135;"	d
+HAVE_MEMCPY	config.h	141;"	d
+HAVE_MEMMOVE	config.h	144;"	d
+HAVE_MEMORY_H	config.h	147;"	d
+HAVE_MEMPCPY	glob/glob.c	175;"	d	file:
+HAVE_MKSTEMP	config.h	150;"	d
+HAVE_MKTEMP	config.h	153;"	d
+HAVE_PIPE	config.h	162;"	d
+HAVE_READLINK	config.h	168;"	d
+HAVE_REALPATH	config.h	171;"	d
+HAVE_SA_RESTART	config.h	174;"	d
+HAVE_SETEGID	config.h	177;"	d
+HAVE_SETEGID	misc.c	575;"	d	file:
+HAVE_SETEUID	config.h	180;"	d
+HAVE_SETEUID	misc.c	574;"	d	file:
+HAVE_SETLINEBUF	config.h	183;"	d
+HAVE_SETREGID	config.h	189;"	d
+HAVE_SETREGID	misc.c	565;"	d	file:
+HAVE_SETREUID	config.h	192;"	d
+HAVE_SETREUID	misc.c	564;"	d	file:
+HAVE_SETRLIMIT	config.h	195;"	d
+HAVE_SETVBUF	config.h	198;"	d
+HAVE_SIGACTION	config.h	201;"	d
+HAVE_SIGSETMASK	config.h	204;"	d
+HAVE_STDARG_H	config.h	210;"	d
+HAVE_STDINT_H	config.h	213;"	d
+HAVE_STDLIB_H	config.h	216;"	d
+HAVE_STRCHR	config.h	222;"	d
+HAVE_STRCOLL	config.h	226;"	d
+HAVE_STRDUP	config.h	229;"	d
+HAVE_STRERROR	config.h	232;"	d
+HAVE_STRINGS_H	config.h	235;"	d
+HAVE_STRING_H	config.h	238;"	d
+HAVE_STRSIGNAL	config.h	241;"	d
+HAVE_SYS_PARAM_H	config.h	255;"	d
+HAVE_SYS_RESOURCE_H	config.h	258;"	d
+HAVE_SYS_STAT_H	config.h	261;"	d
+HAVE_SYS_TIMEB_H	config.h	264;"	d
+HAVE_SYS_TIME_H	config.h	267;"	d
+HAVE_SYS_TYPES_H	config.h	270;"	d
+HAVE_SYS_WAIT_H	config.h	273;"	d
+HAVE_UNISTD_H	config.h	279;"	d
+HAVE_VFORK	config.h	285;"	d
+HAVE_VPRINTF	config.h	291;"	d
+HAVE_WAIT3	config.h	294;"	d
+HAVE_WAITPID	config.h	297;"	d
+HAVE_WAIT_NOHANG	main.c	71;"	d	file:
+HAVE_WORKING_FORK	config.h	300;"	d
+HAVE_WORKING_VFORK	config.h	303;"	d
+HEADERS	Makefile	/^HEADERS = $(noinst_HEADERS)$/;"	m
+HTMLS	doc/Makefile	/^HTMLS = make.html$/;"	m
+INCLUDEDIR	read.c	94;"	d	file:
+INFO_DEPS	doc/Makefile	/^INFO_DEPS = $(srcdir)\/make.info$/;"	m
+INIT_DSC_CSTRING	vmsify.c	49;"	d	file:
+INIT_DSC_S	vmsify.c	38;"	d	file:
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	config/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	doc/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	glob/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	po/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	w32/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	config/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	doc/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	glob/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	po/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	w32/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	config/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	doc/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	glob/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	w32/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	config/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	doc/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	glob/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	w32/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	config/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	doc/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	glob/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	w32/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	config/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	doc/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	glob/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	w32/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INTEGER_COMPARE	hash.h	211;"	d
+INTEGER_HASH_1	hash.h	193;"	d
+INTEGER_HASH_2	hash.h	202;"	d
+INTEGER_TYPE_MAXIMUM	make.h	166;"	d
+INTEGER_TYPE_MINIMUM	make.h	164;"	d
+INTEGER_TYPE_SIGNED	make.h	160;"	d
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	config/Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	doc/Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	glob/Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	w32/Makefile	/^INTLLIBS = $/;"	m
+ISALNUM	glob/fnmatch.c	79;"	d	file:
+ISALPHA	glob/fnmatch.c	80;"	d	file:
+ISASCII	glob/fnmatch.c	61;"	d	file:
+ISASCII	glob/fnmatch.c	63;"	d	file:
+ISBLANK	glob/fnmatch.c	67;"	d	file:
+ISBLANK	glob/fnmatch.c	69;"	d	file:
+ISCNTRL	glob/fnmatch.c	81;"	d	file:
+ISDB	debug.h	29;"	d
+ISDIGIT	glob/fnmatch.c	78;"	d	file:
+ISDIGIT	make.h	302;"	d
+ISGRAPH	glob/fnmatch.c	72;"	d	file:
+ISGRAPH	glob/fnmatch.c	74;"	d	file:
+ISLOWER	glob/fnmatch.c	82;"	d	file:
+ISPRINT	glob/fnmatch.c	77;"	d	file:
+ISPUNCT	glob/fnmatch.c	83;"	d	file:
+ISSPACE	glob/fnmatch.c	84;"	d	file:
+ISTRING_COMPARE	hash.h	171;"	d
+ISTRING_COMPARE	hash.h	186;"	d
+ISTRING_HASH_1	hash.h	149;"	d
+ISTRING_HASH_1	hash.h	180;"	d
+ISTRING_HASH_2	hash.h	160;"	d
+ISTRING_HASH_2	hash.h	183;"	d
+ISUPPER	glob/fnmatch.c	85;"	d	file:
+ISXDIGIT	glob/fnmatch.c	86;"	d	file:
+IS_CHAR_CLASS	glob/fnmatch.c	102;"	d	file:
+IS_CHAR_CLASS	glob/fnmatch.c	104;"	d	file:
+IS_CHAR_CLASS	glob/fnmatch.c	110;"	d	file:
+IS_PATHSEP	function.c	467;"	d	file:
+IS_PATHSEP	function.c	470;"	d	file:
+IS_PATHSEP	function.c	472;"	d	file:
+KERNEL_FILE	getloadavg.c	326;"	d	file:
+KERNEL_FILE	getloadavg.c	330;"	d	file:
+KERNEL_FILE	getloadavg.c	334;"	d	file:
+KERNEL_FILE	getloadavg.c	378;"	d	file:
+KMEM_GROUP	Makefile	/^KMEM_GROUP = $/;"	m
+KMEM_GROUP	config/Makefile	/^KMEM_GROUP = $/;"	m
+KMEM_GROUP	doc/Makefile	/^KMEM_GROUP = $/;"	m
+KMEM_GROUP	glob/Makefile	/^KMEM_GROUP = $/;"	m
+KMEM_GROUP	w32/Makefile	/^KMEM_GROUP = $/;"	m
+LDAV_CVT	getloadavg.c	121;"	d	file:
+LDAV_CVT	getloadavg.c	263;"	d	file:
+LDAV_CVT	getloadavg.c	318;"	d	file:
+LDAV_CVT	getloadavg.c	397;"	d	file:
+LDAV_DONE	getloadavg.c	499;"	d	file:
+LDAV_DONE	getloadavg.c	508;"	d	file:
+LDAV_DONE	getloadavg.c	554;"	d	file:
+LDAV_DONE	getloadavg.c	570;"	d	file:
+LDAV_DONE	getloadavg.c	604;"	d	file:
+LDAV_DONE	getloadavg.c	631;"	d	file:
+LDAV_DONE	getloadavg.c	664;"	d	file:
+LDAV_DONE	getloadavg.c	734;"	d	file:
+LDAV_DONE	getloadavg.c	749;"	d	file:
+LDAV_DONE	getloadavg.c	774;"	d	file:
+LDAV_DONE	getloadavg.c	782;"	d	file:
+LDAV_DONE	getloadavg.c	792;"	d	file:
+LDAV_DONE	getloadavg.c	950;"	d	file:
+LDAV_PRIVILEGED	getloadavg.c	842;"	d	file:
+LDAV_SYMBOL	getloadavg.c	338;"	d	file:
+LDAV_SYMBOL	getloadavg.c	342;"	d	file:
+LDAV_SYMBOL	getloadavg.c	382;"	d	file:
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	config/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	doc/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	glob/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	w32/Makefile	/^LDFLAGS = $/;"	m
+LIBDIR	remake.c	1399;"	d	file:
+LIBICONV	Makefile	/^LIBICONV = -liconv$/;"	m
+LIBICONV	config/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBICONV	doc/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBICONV	glob/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBICONV	w32/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	Makefile	/^LIBINTL = $/;"	m
+LIBINTL	config/Makefile	/^LIBINTL = $/;"	m
+LIBINTL	doc/Makefile	/^LIBINTL = $/;"	m
+LIBINTL	glob/Makefile	/^LIBINTL = $/;"	m
+LIBINTL	w32/Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	config/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	doc/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	glob/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	w32/Makefile	/^LIBOBJS = $/;"	m
+LIBRARIES	glob/Makefile	/^LIBRARIES = $(noinst_LIBRARIES)$/;"	m
+LIBRARIES	w32/Makefile	/^LIBRARIES = $(noinst_LIBRARIES)$/;"	m
+LIBS	Makefile	/^LIBS = -lrt $/;"	m
+LIBS	config/Makefile	/^LIBS = -lrt $/;"	m
+LIBS	doc/Makefile	/^LIBS = -lrt $/;"	m
+LIBS	glob/Makefile	/^LIBS = -lrt $/;"	m
+LIBS	w32/Makefile	/^LIBS = -lrt $/;"	m
+LINK	Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LINK	glob/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LINK	w32/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LINUX_LDAV_FILE	getloadavg.c	574;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	208;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	212;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	216;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	220;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	224;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	228;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	232;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	236;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	240;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	244;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	248;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	253;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	257;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	261;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	354;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	555;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	571;"	d	file:
+LOAD_AVE_TYPE	getloadavg.c	605;"	d	file:
+LOAD_WEIGHT_A	job.c	1737;"	d	file:
+LOAD_WEIGHT_B	job.c	1738;"	d	file:
+LTLIBICONV	Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBICONV	config/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBICONV	doc/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBICONV	glob/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBICONV	w32/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	config/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	doc/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	glob/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	w32/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	config/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	doc/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	glob/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	w32/Makefile	/^LTLIBOBJS = $/;"	m
+MAKE	subproc.bat	/^if x%2 == x set MAKE=nmake$/;"	v
+MAKE	subproc.bat	/^set MAKE=%2$/;"	v
+MAKECMP	dir.c	287;"	d	file:
+MAKEFILE	subproc.bat	/^set MAKEFILE=%1$/;"	v
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run makeinfo$/;"	m
+MAKEINFO	config/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run makeinfo$/;"	m
+MAKEINFO	doc/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run makeinfo$/;"	m
+MAKEINFO	glob/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run makeinfo$/;"	m
+MAKEINFO	w32/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/missing --run makeinfo$/;"	m
+MAKEINFOHTML	doc/Makefile	/^MAKEINFOHTML = $(MAKEINFO) --html$/;"	m
+MAKELEVEL_LENGTH	variable.h	189;"	d
+MAKELEVEL_NAME	variable.h	188;"	d
+MAKETESTFLAGS	Makefile	/^MAKETESTFLAGS = $/;"	m
+MAKE_FAILURE	make.h	536;"	d
+MAKE_FAILURE	make.h	540;"	d
+MAKE_HOST	Makefile	/^MAKE_HOST = x86_64-unknown-linux-gnu$/;"	m
+MAKE_HOST	config.h	306;"	d
+MAKE_HOST	config/Makefile	/^MAKE_HOST = x86_64-unknown-linux-gnu$/;"	m
+MAKE_HOST	doc/Makefile	/^MAKE_HOST = x86_64-unknown-linux-gnu$/;"	m
+MAKE_HOST	glob/Makefile	/^MAKE_HOST = x86_64-unknown-linux-gnu$/;"	m
+MAKE_HOST	version.c	25;"	d	file:
+MAKE_HOST	w32/Makefile	/^MAKE_HOST = x86_64-unknown-linux-gnu$/;"	m
+MAKE_JOBSERVER	config.h	309;"	d
+MAKE_SUCCESS	make.h	534;"	d
+MAKE_SUCCESS	make.h	538;"	d
+MAKE_SYMLINKS	config.h	312;"	d
+MAKE_TROUBLE	make.h	535;"	d
+MAKE_TROUBLE	make.h	539;"	d
+MALLOC	hash.c	23;"	d	file:
+MANS	Makefile	/^MANS = $(man_MANS)$/;"	m
+MAX	make.h	530;"	d
+MAXCMDLEN	vmsjobs.c	207;"	d	file:
+MAXNAMLEN	vmsdir.h	23;"	d
+MAXPATHLEN	make.h	142;"	d
+MAXPATHLEN	vmsify.c	213;"	d	file:
+MAX_OPEN_DIRECTORIES	dir.c	356;"	d	file:
+MERGE	file.c	298;"	d	file:
+MERGE	file.c	307;"	d	file:
+MIN	make.h	527;"	d
+MKINSTALLDIRS	Makefile	/^MKINSTALLDIRS = $(top_builddir)\/config\/mkinstalldirs$/;"	m
+MKINSTALLDIRS	config/Makefile	/^MKINSTALLDIRS = $(top_builddir)\/config\/mkinstalldirs$/;"	m
+MKINSTALLDIRS	doc/Makefile	/^MKINSTALLDIRS = $(top_builddir)\/config\/mkinstalldirs$/;"	m
+MKINSTALLDIRS	glob/Makefile	/^MKINSTALLDIRS = $(top_builddir)\/config\/mkinstalldirs$/;"	m
+MKINSTALLDIRS	po/Makefile	/^MKINSTALLDIRS = $(top_builddir)\/config\/mkinstalldirs$/;"	m
+MKINSTALLDIRS	w32/Makefile	/^MKINSTALLDIRS = $(top_builddir)\/config\/mkinstalldirs$/;"	m
+MORE_BSD	getloadavg.c	164;"	d	file:
+MSGCONV	po/Makefile	/^MSGCONV = msgconv$/;"	m
+MSGFILTER	po/Makefile	/^MSGFILTER = msgfilter$/;"	m
+MSGFMT	Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	config/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	doc/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	glob/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	po/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	w32/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGID_BUGS_ADDRESS	po/Makefile	/^MSGID_BUGS_ADDRESS = bug-make@gnu.org$/;"	m
+MSGINIT	po/Makefile	/^MSGINIT = msginit$/;"	m
+MSGMERGE	Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	config/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	doc/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	glob/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	po/Makefile	/^MSGMERGE = msgmerge$/;"	m
+MSGMERGE	w32/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE_UPDATE	po/Makefile	/^MSGMERGE_UPDATE = \/usr\/bin\/msgmerge --update$/;"	m
+MTIME	remake.c	83;"	d	file:
+M_XENIX	arscan.c	187;"	d	file:
+MakeOk	configure.bat	/^:MakeOk$/;"	l
+MyExecute	amiga.c	/^int MyExecute(char **argv)$/;"	f
+NAME_MAX	w32/include/dirent.h	32;"	d
+NAMLEN	dir.c	24;"	d	file:
+NAMLEN	dir.c	30;"	d	file:
+NAMLEN	dir.c	47;"	d	file:
+NAMLEN	dir.c	48;"	d	file:
+NAMLEN	glob/glob.c	110;"	d	file:
+NAMLEN	glob/glob.c	111;"	d	file:
+NAMLEN	glob/glob.c	90;"	d	file:
+NAMLEN	glob/glob.c	93;"	d	file:
+NEED_GET_PATH_MAX	make.h	149;"	d
+NEED_SETGID	Makefile	/^NEED_SETGID = false$/;"	m
+NEED_SETGID	config/Makefile	/^NEED_SETGID = false$/;"	m
+NEED_SETGID	doc/Makefile	/^NEED_SETGID = false$/;"	m
+NEED_SETGID	glob/Makefile	/^NEED_SETGID = false$/;"	m
+NEED_SETGID	w32/Makefile	/^NEED_SETGID = false$/;"	m
+NETBSD_LDAV_FILE	getloadavg.c	608;"	d	file:
+NEW_MTIME	filedef.h	192;"	d
+NILF	make.h	384;"	d
+NONEXISTENT_MTIME	filedef.h	174;"	d
+NONOPTION_P	getopt.c	508;"	d	file:
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	config/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	doc/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	glob/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	w32/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	config/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	doc/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	glob/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	w32/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NROFF	Makefile	/^NROFF = nroff$/;"	m
+NSIG	signame.c	33;"	d	file:
+NSIG	signame.c	35;"	d	file:
+NULL	alloca.c	72;"	d	file:
+NULL	ansi2knr.c	193;"	d	file:
+NULL	getopt1.c	64;"	d	file:
+NULL	glob/glob.c	85;"	d	file:
+NULL	vmsdir.h	66;"	d
+N_	make.h	344;"	d
+N_CLOSED	vmsify.c	/^{ N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_DEVICE	vmsify.c	/^{ N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_DONE	vmsify.c	/^{ N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_DOT	vmsify.c	/^{ N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_OPEN	vmsify.c	/^{ N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_START	vmsify.c	/^{ N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+NeXT	getloadavg.c	406;"	d	file:
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	config/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	doc/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	glob/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	w32/Makefile	/^OBJEXT = o$/;"	m
+OLD_MTIME	filedef.h	178;"	d
+ORDINARY_MTIME_MAX	filedef.h	182;"	d
+ORDINARY_MTIME_MIN	filedef.h	181;"	d
+OSF_ALPHA	getloadavg.c	180;"	d	file:
+OSF_MIPS	getloadavg.c	188;"	d	file:
+PACKAGE	Makefile	/^PACKAGE = make$/;"	m
+PACKAGE	config.h	325;"	d
+PACKAGE	config/Makefile	/^PACKAGE = make$/;"	m
+PACKAGE	doc/Makefile	/^PACKAGE = make$/;"	m
+PACKAGE	glob/Makefile	/^PACKAGE = make$/;"	m
+PACKAGE	po/Makefile	/^PACKAGE = make$/;"	m
+PACKAGE	w32/Makefile	/^PACKAGE = make$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = bug-make@gnu.org$/;"	m
+PACKAGE_BUGREPORT	config.h	328;"	d
+PACKAGE_BUGREPORT	config/Makefile	/^PACKAGE_BUGREPORT = bug-make@gnu.org$/;"	m
+PACKAGE_BUGREPORT	doc/Makefile	/^PACKAGE_BUGREPORT = bug-make@gnu.org$/;"	m
+PACKAGE_BUGREPORT	glob/Makefile	/^PACKAGE_BUGREPORT = bug-make@gnu.org$/;"	m
+PACKAGE_BUGREPORT	w32/Makefile	/^PACKAGE_BUGREPORT = bug-make@gnu.org$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = GNU make$/;"	m
+PACKAGE_NAME	config.h	331;"	d
+PACKAGE_NAME	config/Makefile	/^PACKAGE_NAME = GNU make$/;"	m
+PACKAGE_NAME	doc/Makefile	/^PACKAGE_NAME = GNU make$/;"	m
+PACKAGE_NAME	glob/Makefile	/^PACKAGE_NAME = GNU make$/;"	m
+PACKAGE_NAME	w32/Makefile	/^PACKAGE_NAME = GNU make$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = GNU make 3.81$/;"	m
+PACKAGE_STRING	config.h	334;"	d
+PACKAGE_STRING	config/Makefile	/^PACKAGE_STRING = GNU make 3.81$/;"	m
+PACKAGE_STRING	doc/Makefile	/^PACKAGE_STRING = GNU make 3.81$/;"	m
+PACKAGE_STRING	glob/Makefile	/^PACKAGE_STRING = GNU make 3.81$/;"	m
+PACKAGE_STRING	w32/Makefile	/^PACKAGE_STRING = GNU make 3.81$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = make$/;"	m
+PACKAGE_TARNAME	config.h	337;"	d
+PACKAGE_TARNAME	config/Makefile	/^PACKAGE_TARNAME = make$/;"	m
+PACKAGE_TARNAME	doc/Makefile	/^PACKAGE_TARNAME = make$/;"	m
+PACKAGE_TARNAME	glob/Makefile	/^PACKAGE_TARNAME = make$/;"	m
+PACKAGE_TARNAME	w32/Makefile	/^PACKAGE_TARNAME = make$/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 3.81$/;"	m
+PACKAGE_VERSION	config.h	340;"	d
+PACKAGE_VERSION	config/Makefile	/^PACKAGE_VERSION = 3.81$/;"	m
+PACKAGE_VERSION	doc/Makefile	/^PACKAGE_VERSION = 3.81$/;"	m
+PACKAGE_VERSION	glob/Makefile	/^PACKAGE_VERSION = 3.81$/;"	m
+PACKAGE_VERSION	w32/Makefile	/^PACKAGE_VERSION = 3.81$/;"	m
+PARAMS	make.h	43;"	d
+PARAMS	make.h	44;"	d
+PARAMS	make.h	46;"	d
+PARAMS	make.h	47;"	d
+PATH_MAX	make.h	138;"	d
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	config/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	doc/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	glob/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	w32/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR_CHAR	make.h	349;"	d
+PATH_SEPARATOR_CHAR	make.h	351;"	d
+PATH_SEPARATOR_CHAR	make.h	353;"	d
+PATH_SIZE	amiga.c	89;"	d	file:
+PATH_VAR	make.h	147;"	d
+PATH_VAR	make.h	151;"	d
+PDFS	doc/Makefile	/^PDFS = make.pdf$/;"	m
+PERFILE_VARIABLE_BUCKETS	variable.c	127;"	d	file:
+PERL	Makefile	/^PERL = perl$/;"	m
+PERL	config/Makefile	/^PERL = perl$/;"	m
+PERL	doc/Makefile	/^PERL = perl$/;"	m
+PERL	glob/Makefile	/^PERL = perl$/;"	m
+PERL	w32/Makefile	/^PERL = perl$/;"	m
+PERMUTE	getopt.c	/^    REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon2	file:
+POFILES	po/Makefile	/^POFILES =  be.po da.po de.po es.po fi.po fr.po ga.po gl.po he.po hr.po id.po ja.po ko.po nl.po pl.po pt_BR.po ru.po rw.po sv.po tr.po uk.po vi.po zh_CN.po$/;"	m
+PORTAR	arscan.c	196;"	d	file:
+PORTAR	arscan.c	201;"	d	file:
+PORTAR	arscan.c	203;"	d	file:
+POSIX	glob/glob.c	68;"	d	file:
+POSIX	make.h	104;"	d
+POSIX	make.h	110;"	d
+POSIX	make.h	114;"	d
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	config/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	doc/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	glob/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	w32/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	config/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	doc/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	glob/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	w32/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	Makefile	/^POSUB = po$/;"	m
+POSUB	config/Makefile	/^POSUB = po$/;"	m
+POSUB	doc/Makefile	/^POSUB = po$/;"	m
+POSUB	glob/Makefile	/^POSUB = po$/;"	m
+POSUB	w32/Makefile	/^POSUB = po$/;"	m
+POTFILES	po/Makefile	/^POTFILES = \\$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	config/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	doc/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	glob/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	w32/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	config/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	doc/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	glob/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	w32/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PROTOTYPES	config.h	343;"	d
+PSS	doc/Makefile	/^PSS = make.ps$/;"	m
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	config/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	doc/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	glob/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	w32/Makefile	/^RANLIB = ranlib$/;"	m
+REALLOC	hash.c	24;"	d	file:
+REAL_DIR_ENTRY	dir.c	54;"	d	file:
+REAL_DIR_ENTRY	dir.c	57;"	d	file:
+REAL_DIR_ENTRY	glob/glob.c	123;"	d	file:
+REAL_DIR_ENTRY	glob/glob.c	125;"	d	file:
+REAP_MORE	job.c	438;"	d	file:
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m
+REMOTE	Makefile	/^REMOTE = stub$/;"	m
+REMOTE	config/Makefile	/^REMOTE = stub$/;"	m
+REMOTE	doc/Makefile	/^REMOTE = stub$/;"	m
+REMOTE	glob/Makefile	/^REMOTE = stub$/;"	m
+REMOTE	w32/Makefile	/^REMOTE = stub$/;"	m
+REQUIRE_ORDER	getopt.c	/^    REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon2	file:
+RETSIGTYPE	config.h	346;"	d
+RETSIGTYPE	make.h	118;"	d
+RETURN_IN_ORDER	getopt.c	/^    REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon2	file:
+RM_DONTCARE	dep.h	25;"	d
+RM_INCLUDED	dep.h	24;"	d
+RM_NOFLAG	dep.h	27;"	d
+RM_NO_DEFAULT_GOAL	dep.h	23;"	d
+RM_NO_TILDE	dep.h	26;"	d
+SARMAG	arscan.c	233;"	d	file:
+SARMAG	arscan.c	254;"	d	file:
+SA_RESTART	make.h	126;"	d
+SCCS_GET	config.h	349;"	d
+SEEN_JOB_H	job.h	19;"	d
+SEPCHARS	vmsjobs.c	81;"	d	file:
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	config/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	doc/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	glob/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	w32/Makefile	/^SET_MAKE = $/;"	m
+SET_STACK_SIZE	main.c	48;"	d	file:
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	config/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	doc/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	glob/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	po/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	w32/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIG_TABLE_SIZE	signame.c	48;"	d	file:
+SMALL_SCOPE_VARIABLE_BUCKETS	variable.c	130;"	d	file:
+SOURCES	Makefile	/^SOURCES = $(nodist_loadavg_SOURCES) $(make_SOURCES) \\$/;"	m
+SOURCES	config/Makefile	/^SOURCES =$/;"	m
+SOURCES	doc/Makefile	/^SOURCES =$/;"	m
+SOURCES	glob/Makefile	/^SOURCES = $(libglob_a_SOURCES)$/;"	m
+SOURCES	w32/Makefile	/^SOURCES = $(libw32_a_SOURCES)$/;"	m
+STACK_DIR	alloca.c	105;"	d	file:
+STACK_DIR	alloca.c	111;"	d	file:
+STACK_DIRECTION	alloca.c	99;"	d	file:
+STDC_HEADERS	config.h	371;"	d
+STREQ	glob/fnmatch.c	88;"	d	file:
+STRING_COMPARE	hash.h	103;"	d
+STRING_HASH_1	hash.h	81;"	d
+STRING_HASH_2	hash.h	92;"	d
+STRING_N_COMPARE	hash.h	138;"	d
+STRING_N_HASH_1	hash.h	110;"	d
+STRING_N_HASH_2	hash.h	124;"	d
+STRING_SIZE_TUPLE	make.h	386;"	d
+STRIP	Makefile	/^STRIP = $/;"	m
+STRIP	config/Makefile	/^STRIP = $/;"	m
+STRIP	doc/Makefile	/^STRIP = $/;"	m
+STRIP	glob/Makefile	/^STRIP = $/;"	m
+STRIP	w32/Makefile	/^STRIP = $/;"	m
+ST_MTIM_NSEC	config.h	374;"	d
+SUBDIRS	Makefile	/^SUBDIRS = glob config po doc $(MAYBE_W32)$/;"	m
+SUB_PROC_H	w32/include/sub_proc.h	19;"	d
+SUNOS_5	getloadavg.c	176;"	d	file:
+SVR4	getloadavg.c	172;"	d	file:
+SVR4	getloadavg.c	201;"	d	file:
+SWAP_FLAGS	getopt.c	272;"	d	file:
+SWAP_FLAGS	getopt.c	280;"	d	file:
+S_	make.h	345;"	d
+S_ISDIR	glob/glob.c	230;"	d	file:
+S_ISDIR	glob/glob.c	233;"	d	file:
+S_ISDIR	make.h	177;"	d
+S_ISDIR	make.h	185;"	d
+S_ISLNK	remake.c	1316;"	d	file:
+S_ISREG	make.h	174;"	d
+S_ISREG	make.h	182;"	d
+SmallEnv	configure.bat	/^:SmallEnv$/;"	l
+SrcDone	configure.bat	/^:SrcDone$/;"	l
+TEMPLATE_LEN	main.c	833;"	d	file:
+TEXI2DVI	doc/Makefile	/^TEXI2DVI = texi2dvi$/;"	m
+TEXI2HTML	doc/Makefile	/^TEXI2HTML = texi2html$/;"	m
+TEXI2HTML_FLAGS	doc/Makefile	/^TEXI2HTML_FLAGS = -split_chapter$/;"	m
+TEXI2PDF	doc/Makefile	/^TEXI2PDF = $(TEXI2DVI) --pdf --batch$/;"	m
+TEXINFOS	doc/Makefile	/^TEXINFOS = make.texi$/;"	m
+TEXINFO_TEX	doc/Makefile	/^TEXINFO_TEX = $(top_srcdir)\/config\/texinfo.tex$/;"	m
+TIME_WITH_SYS_TIME	config.h	380;"	d
+TOUCH_ERROR	remake.c	1001;"	d	file:
+U	Makefile	/^U = $/;"	m
+U	config/Makefile	/^U = $/;"	m
+U	doc/Makefile	/^U = $/;"	m
+U	glob/Makefile	/^U = $/;"	m
+U	w32/Makefile	/^U = $/;"	m
+UNKNOWN_MTIME	filedef.h	171;"	d
+UNUSED	make.h	209;"	d
+UPDATEPOFILES	po/Makefile	/^UPDATEPOFILES =  be.po-update da.po-update de.po-update es.po-update fi.po-update fr.po-update ga.po-update gl.po-update he.po-update hr.po-update id.po-update ja.po-update ko.po-update nl.po-update pl.po-update pt_BR.po-update ru.po-update rw.po-update sv.po-update tr.po-update uk.po-update vi.po-update zh_CN.po-update$/;"	m
+USE_CUSTOMS_FALSE	Makefile	/^USE_CUSTOMS_FALSE = $/;"	m
+USE_CUSTOMS_FALSE	config/Makefile	/^USE_CUSTOMS_FALSE = $/;"	m
+USE_CUSTOMS_FALSE	doc/Makefile	/^USE_CUSTOMS_FALSE = $/;"	m
+USE_CUSTOMS_FALSE	glob/Makefile	/^USE_CUSTOMS_FALSE = $/;"	m
+USE_CUSTOMS_FALSE	w32/Makefile	/^USE_CUSTOMS_FALSE = $/;"	m
+USE_CUSTOMS_TRUE	Makefile	/^USE_CUSTOMS_TRUE = #$/;"	m
+USE_CUSTOMS_TRUE	config/Makefile	/^USE_CUSTOMS_TRUE = #$/;"	m
+USE_CUSTOMS_TRUE	doc/Makefile	/^USE_CUSTOMS_TRUE = #$/;"	m
+USE_CUSTOMS_TRUE	glob/Makefile	/^USE_CUSTOMS_TRUE = #$/;"	m
+USE_CUSTOMS_TRUE	w32/Makefile	/^USE_CUSTOMS_TRUE = #$/;"	m
+USE_LOCAL_GLOB_FALSE	Makefile	/^USE_LOCAL_GLOB_FALSE = $/;"	m
+USE_LOCAL_GLOB_FALSE	config/Makefile	/^USE_LOCAL_GLOB_FALSE = $/;"	m
+USE_LOCAL_GLOB_FALSE	doc/Makefile	/^USE_LOCAL_GLOB_FALSE = $/;"	m
+USE_LOCAL_GLOB_FALSE	glob/Makefile	/^USE_LOCAL_GLOB_FALSE = $/;"	m
+USE_LOCAL_GLOB_FALSE	w32/Makefile	/^USE_LOCAL_GLOB_FALSE = $/;"	m
+USE_LOCAL_GLOB_TRUE	Makefile	/^USE_LOCAL_GLOB_TRUE = #$/;"	m
+USE_LOCAL_GLOB_TRUE	config/Makefile	/^USE_LOCAL_GLOB_TRUE = #$/;"	m
+USE_LOCAL_GLOB_TRUE	doc/Makefile	/^USE_LOCAL_GLOB_TRUE = #$/;"	m
+USE_LOCAL_GLOB_TRUE	glob/Makefile	/^USE_LOCAL_GLOB_TRUE = #$/;"	m
+USE_LOCAL_GLOB_TRUE	w32/Makefile	/^USE_LOCAL_GLOB_TRUE = #$/;"	m
+USE_NLS	Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	config/Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	doc/Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	glob/Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	w32/Makefile	/^USE_NLS = yes$/;"	m
+USE_VARIADIC	make.h	393;"	d
+VARIABLE_BUCKETS	variable.c	124;"	d	file:
+VARIABLE_BUFFER_ZONE	expand.c	45;"	d	file:
+VA_END	misc.c	44;"	d	file:
+VA_END	misc.c	51;"	d	file:
+VA_PRINTF	misc.c	40;"	d	file:
+VA_PRINTF	misc.c	42;"	d	file:
+VA_PRINTF	misc.c	50;"	d	file:
+VA_START	misc.c	34;"	d	file:
+VA_START	misc.c	37;"	d	file:
+VA_START	misc.c	49;"	d	file:
+VERSION	Makefile	/^VERSION = 3.81$/;"	m
+VERSION	config.h	390;"	d
+VERSION	config/Makefile	/^VERSION = 3.81$/;"	m
+VERSION	doc/Makefile	/^VERSION = 3.81$/;"	m
+VERSION	glob/Makefile	/^VERSION = 3.81$/;"	m
+VERSION	po/Makefile	/^VERSION = 3.81$/;"	m
+VERSION	w32/Makefile	/^VERSION = 3.81$/;"	m
+VMSDIR_H	vmsdir.h	19;"	d
+VMS_COMMA	read.c	2180;"	d	file:
+VMS_function	arscan.c	/^static long int (*VMS_function) ();$/;"	v	file:
+VMS_get_member_info	arscan.c	/^static int VMS_get_member_info(struct dsc$descriptor_s *module, unsigned long *rfa)$/;"	f	file:
+VMS_lib_idx	arscan.c	/^static void *VMS_lib_idx;$/;"	v	file:
+VMS_member_date	arscan.c	/^static time_t VMS_member_date;$/;"	v	file:
+VMS_saved_memname	arscan.c	/^static char *VMS_saved_memname;$/;"	v	file:
+VOID_DECL	w32/include/sub_proc.h	32;"	d
+WAIT_NOHANG	job.c	122;"	d	file:
+WAIT_NOHANG	job.c	128;"	d	file:
+WAIT_T	job.c	138;"	d	file:
+WAIT_T	job.c	158;"	d	file:
+WCOREDUMP	job.c	144;"	d	file:
+WCOREDUMP	job.c	163;"	d	file:
+WEXITSTATUS	job.c	147;"	d	file:
+WEXITSTATUS	job.c	166;"	d	file:
+WIFEXITED	job.c	153;"	d	file:
+WIFEXITED	job.c	172;"	d	file:
+WIFSIGNALED	job.c	150;"	d	file:
+WIFSIGNALED	job.c	169;"	d	file:
+WINDOWSENV_FALSE	Makefile	/^WINDOWSENV_FALSE = $/;"	m
+WINDOWSENV_FALSE	config/Makefile	/^WINDOWSENV_FALSE = $/;"	m
+WINDOWSENV_FALSE	doc/Makefile	/^WINDOWSENV_FALSE = $/;"	m
+WINDOWSENV_FALSE	glob/Makefile	/^WINDOWSENV_FALSE = $/;"	m
+WINDOWSENV_FALSE	w32/Makefile	/^WINDOWSENV_FALSE = $/;"	m
+WINDOWSENV_TRUE	Makefile	/^WINDOWSENV_TRUE = #$/;"	m
+WINDOWSENV_TRUE	config/Makefile	/^WINDOWSENV_TRUE = #$/;"	m
+WINDOWSENV_TRUE	doc/Makefile	/^WINDOWSENV_TRUE = #$/;"	m
+WINDOWSENV_TRUE	glob/Makefile	/^WINDOWSENV_TRUE = #$/;"	m
+WINDOWSENV_TRUE	w32/Makefile	/^WINDOWSENV_TRUE = #$/;"	m
+WTERMSIG	job.c	141;"	d	file:
+WTERMSIG	job.c	160;"	d	file:
+XGETTEXT	Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	config/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	doc/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	glob/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	po/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	w32/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_OPTIONS	po/Makefile	/^XGETTEXT_OPTIONS = --keyword=_ --keyword=N_$/;"	m
+XRSC	configure.bat	/^set XRSC=$/;"	v
+XSRC	configure.bat	/^set XSRC=%1$/;"	v
+XSRC	configure.bat	/^set XSRC=.$/;"	v
+_	getopt.c	84;"	d	file:
+_	make.h	343;"	d
+_DIRENT_H	w32/include/dirent.h	19;"	d
+_FNMATCH_H	glob/fnmatch.h	20;"	d
+_GETOPT_H	getopt.h	23;"	d
+_GLOB_H	glob/glob.h	19;"	d
+_GNU_SOURCE	glob/fnmatch.c	25;"	d	file:
+_GNU_SOURCE	glob/glob.c	29;"	d	file:
+_GNU_SOURCE	make.h	53;"	d
+_LIBGETTEXT_H	gettext.h	19;"	d
+_NO_PROTO	getopt.c	30;"	d	file:
+_PATHSTUFF_H	w32/include/pathstuff.h	19;"	d
+_PROC_H	w32/subproc/proc.h	19;"	d
+_USE_LFN	dir.c	67;"	d	file:
+_W32ERR_H_	w32/include/w32err.h	19;"	d
+__AR_BIG__	arscan.c	221;"	d	file:
+__AR_SMALL__	arscan.c	220;"	d	file:
+__DIRENT_COOKIE	w32/include/dirent.h	35;"	d
+__GLOB_FLAGS	glob/glob.h	103;"	d
+__GLOB_FLAGS	glob/glob.h	108;"	d
+__NO_STRING_INLINES	make.h	63;"	d
+__P	glob/fnmatch.h	29;"	d
+__P	glob/fnmatch.h	30;"	d
+__P	glob/fnmatch.h	33;"	d
+__P	glob/fnmatch.h	34;"	d
+__P	glob/glob.h	29;"	d
+__P	glob/glob.h	31;"	d
+__P	glob/glob.h	40;"	d
+__P	glob/glob.h	42;"	d
+__P	hash.h	27;"	d
+__P	hash.h	28;"	d
+__P	hash.h	31;"	d
+__P	hash.h	32;"	d
+__PMT	glob/glob.h	30;"	d
+__PMT	glob/glob.h	32;"	d
+__PMT	glob/glob.h	41;"	d
+__PMT	glob/glob.h	43;"	d
+__PROTOTYPES	config.h	422;"	d
+__alloca	glob/glob.c	223;"	d	file:
+__attribute__	make.h	200;"	d
+__const	glob/fnmatch.h	42;"	d
+__const	glob/fnmatch.h	44;"	d
+__const	glob/glob.h	34;"	d
+__const	glob/glob.h	35;"	d
+__const	glob/glob.h	44;"	d
+__const	glob/glob.h	45;"	d
+__format__	make.h	205;"	d
+__getopt_initialized	getopt.c	/^int __getopt_initialized = 0;$/;"	v
+__glob_pattern_p	glob/glob.c	/^int __glob_pattern_p(pattern, quote)$/;"	f
+__printf__	make.h	206;"	d
+__ptr_t	glob/glob.h	26;"	d
+__ptr_t	glob/glob.h	38;"	d
+__ptr_t	glob/glob.h	46;"	d
+__set_errno	glob/glob.c	81;"	d	file:
+__size_t	glob/glob.h	/^    typedef __SIZE_TYPE__ __size_t;$/;"	t
+__size_t	glob/glob.h	/^    typedef unsigned long int __size_t;$/;"	t
+__size_t	glob/glob.h	52;"	d
+__size_t	glob/glob.h	72;"	d
+__size_t	glob/glob.h	73;"	d
+__stack	main.c	/^int __stack = 20000;            \/* Make sure we have 20K of stack space *\/$/;"	v
+__stat	glob/glob.c	228;"	d	file:
+__stat	glob/glob.c	247;"	d	file:
+__strchrnul	glob/fnmatch.c	/^static char *__strchrnul(s, c)$/;"	f	file:
+_getopt_initialize	getopt.c	/^static const char *_getopt_initialize(int argc, char *const *argv, const char *optstring)$/;"	f	file:
+_getopt_internal	getopt.c	/^int _getopt_internal(int argc, char *const *argv, const char *optstring, const struct option *longopts, int *longind, int long_only)$/;"	f
+_hash_h_	hash.h	20;"	d
+_is_unixy_shell	job.c	/^int _is_unixy_shell(const char *path)$/;"	f
+a_pattern	function.c	/^struct a_pattern$/;"	s	file:
+a_word	function.c	/^struct a_word$/;"	s	file:
+a_word_hash_1	function.c	/^static unsigned long a_word_hash_1(const void *key)$/;"	f	file:
+a_word_hash_2	function.c	/^static unsigned long a_word_hash_2(const void *key)$/;"	f	file:
+a_word_hash_cmp	function.c	/^static int a_word_hash_cmp(const void *x, const void *y)$/;"	f	file:
+abbrev	signame.c	/^    const char *abbrev;$/;"	m	struct:__anon7	file:
+abspath	function.c	/^static char *abspath(const char *name, char *apath)$/;"	f	file:
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	config/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	doc/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	glob/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	w32/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_RANLIB	Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_RANLIB	config/Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_RANLIB	doc/Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_RANLIB	glob/Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_RANLIB	w32/Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_STRIP	Makefile	/^ac_ct_STRIP = $/;"	m
+ac_ct_STRIP	config/Makefile	/^ac_ct_STRIP = $/;"	m
+ac_ct_STRIP	doc/Makefile	/^ac_ct_STRIP = $/;"	m
+ac_ct_STRIP	glob/Makefile	/^ac_ct_STRIP = $/;"	m
+ac_ct_STRIP	w32/Makefile	/^ac_ct_STRIP = $/;"	m
+access_inited	misc.c	600;"	d	file:
+add_hash	strcache.c	/^static const char *add_hash(const char *str, int len)$/;"	f	file:
+add_string	strcache.c	/^static const char *add_string(const char *str, int len)$/;"	f	file:
+align	alloca.c	/^    char align[ALIGN_SIZE];        \/* To force sizeof(header).  *\/$/;"	m	union:hdr	file:
+all_secondary	file.c	/^static int all_secondary = 0;$/;"	v	file:
+alloc_dep	misc.c	/^struct dep *alloc_dep()$/;"	f
+alloca	alloca.c	/^pointer alloca(unsigned size)$/;"	f
+alloca	glob/glob.c	207;"	d	file:
+alloca	glob/glob.c	208;"	d	file:
+allocated	read.c	/^    unsigned int allocated;        \/* Elts allocated in following arrays.  *\/$/;"	m	struct:conditionals	file:
+allocated_variable_append	expand.c	/^static char *allocated_variable_append(const struct variable *v)$/;"	f	file:
+allocated_variable_expand	variable.h	114;"	d
+allocated_variable_expand_for_file	expand.c	/^char *allocated_variable_expand_for_file(char *line, struct file *file)$/;"	f
+alpha_compare	misc.c	/^int alpha_compare(const void *v1, const void *v2)$/;"	f
+also_make	filedef.h	/^    struct dep *also_make;        \/* Targets that are made by making this.  *\/$/;"	m	struct:file	typeref:struct:file::dep
+always_make_flag	main.c	/^int always_make_flag = 0;$/;"	v
+always_make_set	main.c	/^static int always_make_set = 0;$/;"	v	file:
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__DEPENDENCIES_1	Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+am__TEXINFO_TEX_DIR	doc/Makefile	/^am__TEXINFO_TEX_DIR = $(top_srcdir)\/config$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/config\/dospaths.m4 \\$/;"	m
+am__aclocal_m4_deps	config/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/config\/dospaths.m4 \\$/;"	m
+am__aclocal_m4_deps	doc/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/config\/dospaths.m4 \\$/;"	m
+am__aclocal_m4_deps	glob/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/config\/dospaths.m4 \\$/;"	m
+am__aclocal_m4_deps	w32/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/config\/dospaths.m4 \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	config/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	doc/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	glob/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	w32/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	config/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	doc/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	glob/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	w32/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	glob/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	w32/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__fastdepCC_FALSE	Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_FALSE	config/Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_FALSE	doc/Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_FALSE	glob/Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_FALSE	w32/Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_TRUE	Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCC_TRUE	config/Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCC_TRUE	doc/Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCC_TRUE	glob/Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCC_TRUE	w32/Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	config/Makefile	/^am__include = include$/;"	m
+am__include	doc/Makefile	/^am__include = include$/;"	m
+am__include	glob/Makefile	/^am__include = include$/;"	m
+am__include	w32/Makefile	/^am__include = include$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)" "$(DESTDIR)$(man1dir)"$/;"	m
+am__installdirs	doc/Makefile	/^am__installdirs = "$(DESTDIR)$(infodir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	config/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	doc/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	glob/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	w32/Makefile	/^am__leading_dot = .$/;"	m
+am__make_SOURCES_DIST	Makefile	/^am__make_SOURCES_DIST = ar.c arscan.c commands.c default.c dir.c \\$/;"	m
+am__objects_1	Makefile	/^am__objects_1 = remote-stub$U.$(OBJEXT)$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	config/Makefile	/^am__quote = $/;"	m
+am__quote	doc/Makefile	/^am__quote = $/;"	m
+am__quote	glob/Makefile	/^am__quote = $/;"	m
+am__quote	w32/Makefile	/^am__quote = $/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	config/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	doc/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	glob/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	w32/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	config/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	doc/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	glob/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	w32/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am_libglob_a_OBJECTS	glob/Makefile	/^am_libglob_a_OBJECTS = glob.$(OBJEXT) fnmatch.$(OBJEXT)$/;"	m
+am_libw32_a_OBJECTS	w32/Makefile	/^am_libw32_a_OBJECTS = libw32_a-misc.$(OBJEXT) \\$/;"	m
+am_make_OBJECTS	Makefile	/^am_make_OBJECTS = ar$U.$(OBJEXT) arscan$U.$(OBJEXT) \\$/;"	m
+amiga_batch_file	job.c	/^static int amiga_batch_file;$/;"	v	file:
+amiga_bname	job.c	/^static char amiga_bname[32];$/;"	v	file:
+amiga_pid	job.c	/^static int amiga_pid = 123;$/;"	v	file:
+amiga_status	job.c	/^static int amiga_status;$/;"	v	file:
+ansi_free	dir.c	/^static void ansi_free(void *p)$/;"	f	file:
+any_recurse	commands.h	/^    int any_recurse;            \/* Nonzero if any `lines_recurse' elt has *\/$/;"	m	struct:commands
+append	variable.h	/^    unsigned int append:1;        \/* Nonzero if an appending target-specific$/;"	m	struct:variable
+ar_date	arscan.c	/^    char ar_date[12];            \/* File date, decimal seconds since Epoch.  *\/$/;"	m	struct:ar_hdr	file:
+ar_date	arscan.c	259;"	d	file:
+ar_fmag	arscan.c	/^    char ar_fmag[2];            \/* Always contains ARFMAG.  *\/$/;"	m	struct:ar_hdr	file:
+ar_gid	arscan.c	/^    char ar_uid[6], ar_gid[6];    \/* User and group IDs, in ASCII decimal.  *\/$/;"	m	struct:ar_hdr	file:
+ar_gid	arscan.c	261;"	d	file:
+ar_glob	ar.c	/^struct nameseq *ar_glob(char *arname, char *member_pattern, unsigned int size)$/;"	f
+ar_glob_match	ar.c	/^static long int ar_glob_match(int desc UNUSED, char *mem, int truncated UNUSED, long int hdrpos UNUSED, long int datapos UNUSED, long int size UNUSED, long int date UNUSED, int uid UNUSED, int gid UNUSED, int mode UNUSED, struct ar_glob_state *state)$/;"	f	file:
+ar_glob_state	ar.c	/^struct ar_glob_state$/;"	s	file:
+ar_hdr	arscan.c	/^struct ar_hdr$/;"	s	file:
+ar_hdr	arscan.c	255;"	d	file:
+ar_member_date	ar.c	/^time_t ar_member_date(char *name)$/;"	f
+ar_member_date_1	ar.c	/^static long int ar_member_date_1(int desc UNUSED, char *mem, int truncated, long int hdrpos UNUSED, long int datapos UNUSED, long int size UNUSED, long int date, int uid UNUSED, int gid UNUSED, int mode UNUSED, char *name)$/;"	f	file:
+ar_member_pos	arscan.c	/^static long int ar_member_pos(int desc UNUSED, char *mem, int truncated, long int hdrpos, long int datapos UNUSED, long int size UNUSED, long int date UNUSED, int uid UNUSED, int gid UNUSED, int mode UNUSED, char *name)$/;"	f	file:
+ar_member_touch	arscan.c	/^int ar_member_touch(char *arname, char *memname)$/;"	f
+ar_mode	arscan.c	/^    char ar_mode[8];            \/* File mode, in ASCII octal.  *\/$/;"	m	struct:ar_hdr	file:
+ar_mode	arscan.c	257;"	d	file:
+ar_name	ar.c	/^int ar_name(char *name)$/;"	f
+ar_name	arscan.c	/^    char ar_name[16];            \/* Member file name, sometimes \/ terminated. *\/$/;"	m	struct:ar_hdr	file:
+ar_name	arscan.c	256;"	d	file:
+ar_name_equal	arscan.c	/^int ar_name_equal(char *name, char *mem, int truncated)$/;"	f
+ar_parse_name	ar.c	/^void ar_parse_name(char *name, char **arname_p, char **memname_p)$/;"	f
+ar_scan	arscan.c	/^long int ar_scan(char *archive, long int (*function) (), long int arg)$/;"	f
+ar_scan	arscan.c	/^long int ar_scan(char *archive, long int (*function) PARAMS((void)), long int arg)$/;"	f
+ar_size	arscan.c	/^    char ar_size[10];            \/* File size, in ASCII decimal.  *\/$/;"	m	struct:ar_hdr	file:
+ar_size	arscan.c	258;"	d	file:
+ar_touch	ar.c	/^int ar_touch(char *name)$/;"	f
+ar_uid	arscan.c	/^    char ar_uid[6], ar_gid[6];    \/* User and group IDs, in ASCII decimal.  *\/$/;"	m	struct:ar_hdr	file:
+ar_uid	arscan.c	260;"	d	file:
+arname	ar.c	/^    char *arname;$/;"	m	struct:ar_glob_state	file:
+arr2envblk	w32/subproc/misc.c	/^$/;"	f
+astHandler	vmsjobs.c	/^static void astHandler(void)$/;"	f	file:
+attach_default_output	tests/test_driver.pl	/^sub attach_default_output$/;"	s
+batch_mode_shell	job.c	/^int batch_mode_shell = 0;$/;"	v
+batch_mode_shell	job.c	/^int batch_mode_shell = 1;$/;"	v
+bcmp	make.h	249;"	d
+bcopy	make.h	255;"	d
+binPROGRAMS_INSTALL	Makefile	/^binPROGRAMS_INSTALL = $(INSTALL_PROGRAM)$/;"	m
+bin_PROGRAMS	Makefile	/^bin_PROGRAMS = make$(EXEEXT)$/;"	m
+bind_textdomain_codeset	gettext.h	45;"	d
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	config/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	doc/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	glob/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	w32/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindtextdomain	gettext.h	44;"	d
+block_remote_children	remote-cstms.c	/^void block_remote_children(void)$/;"	f
+block_remote_children	remote-stub.c	/^void block_remote_children(void)$/;"	f
+block_sigs	job.c	/^void block_sigs(void)$/;"	f
+bool_t	w32/subproc/proc.h	/^$/;"	t
+bsd_signal	main.c	/^static bsd_signal_ret_t bsd_signal(int sig, bsd_signal_ret_t func)$/;"	f	file:
+bsd_signal	main.c	511;"	d	file:
+bsd_signal_ret_t	main.c	/^typedef RETSIGTYPE(*bsd_signal_ret_t) ();$/;"	t	file:
+buffer	read.c	/^    char *buffer;                \/* Start of the current line in the buffer.  *\/$/;"	m	struct:ebuffer	file:
+buffer	strcache.c	/^    char buffer[1];                \/* The buffer comes after this.  *\/$/;"	m	struct:strcache	file:
+bufnext	read.c	/^    char *bufnext;                \/* Start of the next line in the buffer.  *\/$/;"	m	struct:ebuffer	file:
+bufsize	ansi2knr.c	238;"	d	file:
+bufsize	strcache.c	/^static int bufsize = CACHE_BUFFER_SIZE;$/;"	v	file:
+bufstart	read.c	/^    char *bufstart;                \/* Start of the entire buffer.  *\/$/;"	m	struct:ebuffer	file:
+build	Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	config/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	doc/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	glob/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	w32/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	config/Makefile	/^build_alias = $/;"	m
+build_alias	doc/Makefile	/^build_alias = $/;"	m
+build_alias	glob/Makefile	/^build_alias = $/;"	m
+build_alias	w32/Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	config/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	doc/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	glob/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	w32/Makefile	/^build_cpu = x86_64$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_os	config/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	doc/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	glob/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	w32/Makefile	/^build_os = linux-gnu$/;"	m
+build_target_list	file.c	/^char *build_target_list(char *value)$/;"	f
+build_triplet	Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	config/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	doc/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	glob/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	w32/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	config/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	doc/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	glob/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	w32/Makefile	/^build_vendor = unknown$/;"	m
+build_vpath_lists	vpath.c	/^void build_vpath_lists()$/;"	f
+bytesfree	strcache.c	/^    int bytesfree;                \/* The amount of the buffer that is free.  *\/$/;"	m	struct:strcache	file:
+bzero	make.h	252;"	d
+c	main.c	/^    int c;                        \/* The switch character.  *\/$/;"	m	struct:command_switch	file:
+chain	ar.c	/^    struct nameseq *chain;$/;"	m	struct:ar_glob_state	typeref:struct:ar_glob_state::nameseq	file:
+chain	function.c	/^    struct a_word *chain;$/;"	m	struct:a_word	typeref:struct:a_word::a_word	file:
+chan	vmsjobs.c	/^static int chan = 0;$/;"	v	file:
+changed	dep.h	/^    unsigned int changed:8;$/;"	m	struct:dep
+channel	getloadavg.c	/^static int channel;$/;"	v	file:
+chdir	make.h	564;"	d
+chdir	make.h	575;"	d
+check_PROGRAMS	Makefile	/^check_PROGRAMS = loadavg$(EXEEXT)$/;"	m
+check_dep	remake.c	/^static int check_dep(struct file *file, unsigned int depth, FILE_TIMESTAMP this_mtime, int *must_make_ptr)$/;"	f	file:
+check_numeric	function.c	/^static void check_numeric(const char *s, const char *message)$/;"	f	file:
+check_renamed	filedef.h	194;"	d
+check_symlink_flag	main.c	/^int check_symlink_flag = 0;$/;"	v
+child	job.h	/^struct child$/;"	s
+child_access	misc.c	/^void child_access(void)$/;"	f
+child_error	job.c	/^static void child_error(char *target_name, int exit_code, int exit_sig, int coredump, int ignored)$/;"	f	file:
+child_execute_job	job.c	/^int child_execute_job(int stdin_fd, int stdout_fd, char **argv, char **envp)$/;"	f
+child_execute_job	job.c	/^void child_execute_job(int stdin_fd, int stdout_fd, char **argv, char **envp)$/;"	f
+child_execute_job	vmsjobs.c	/^int child_execute_job(char *argv, struct child *child)$/;"	f
+child_handler	job.c	/^RETSIGTYPE child_handler(int sig UNUSED)$/;"	f
+children	job.c	/^struct child *children = 0;$/;"	v	typeref:struct:child
+chkword	read.c	1388;"	d	file:
+chop_commands	commands.c	/^void chop_commands(struct commands *cmds)$/;"	f
+clean_jobserver	main.c	/^static void clean_jobserver(int status)$/;"	f	file:
+clean_tmp	job.c	/^void clean_tmp(void)$/;"	f
+clock_gettime	configure	/^clock_gettime ();$/;"	f
+clock_skew_detected	main.c	/^int clock_skew_detected;$/;"	v
+close_stdout	misc.c	/^void close_stdout(void)$/;"	f
+closedir	glob/glob.c	241;"	d	file:
+closedir	vmsfunctions.c	/^int closedir(DIR * dir)$/;"	f
+closedir	w32/compat/dirent.c	/^$/;"	f
+cmd_state	filedef.h	/^    enum cmd_state                \/* State of the commands.  *\/$/;"	g	struct:file
+cmd_target	filedef.h	/^    unsigned int cmd_target:1;    \/* Nonzero if file was given on cmd line.  *\/$/;"	m	struct:file
+cmds	filedef.h	/^    struct commands *cmds;        \/* Commands to execute for this target.  *\/$/;"	m	struct:file	typeref:struct:file::commands
+cmds	rule.h	/^    struct commands *cmds;        \/* Commands to execute.  *\/$/;"	m	struct:rule	typeref:struct:rule::commands
+collapse_continuations	misc.c	/^void collapse_continuations(char *line)$/;"	f
+collated_compare	glob/glob.c	/^static int collated_compare(a, b)$/;"	f	file:
+command_flags	filedef.h	/^    int command_flags;            \/* Flags OR'd in for cmds; see commands.h.  *\/$/;"	m	struct:file
+command_line	job.h	/^    unsigned int command_line;    \/* Index into above.  *\/$/;"	m	struct:child
+command_lines	commands.h	/^    char **command_lines;        \/* Commands chopped up into lines.  *\/$/;"	m	struct:commands
+command_lines	job.h	/^    char **command_lines;        \/* Array of variable-expanded cmd lines.  *\/$/;"	m	struct:child
+command_ptr	job.h	/^    char *command_ptr;            \/* Ptr into command_lines[command_line].  *\/$/;"	m	struct:child
+command_switch	main.c	/^struct command_switch$/;"	s	file:
+command_variable	main.c	/^struct command_variable$/;"	s	file:
+command_variables	main.c	/^static struct command_variable *command_variables;$/;"	v	typeref:struct:command_variable	file:
+commands	commands.h	/^    char *commands;                \/* Commands text.  *\/$/;"	m	struct:commands
+commands	commands.h	/^struct commands$/;"	s
+commands	rule.h	/^    char *target, *dep, *commands;$/;"	m	struct:pspec
+commands_started	remake.c	/^unsigned int commands_started = 0;$/;"	v
+compare	w32/subproc/misc.c	/^int _cdecl compare(const void *a1, const void *a2) $/;"	f
+compare_dir_tree	tests/test_driver.pl	/^sub compare_dir_tree$/;"	s
+compare_output	tests/test_driver.pl	/^sub compare_output$/;"	s
+complain	remake.c	/^static void complain(const struct file *file)$/;"	f	file:
+concat	misc.c	/^char *concat(const char *s1, const char *s2, const char *s3)$/;"	f
+conditional	variable.h	/^    unsigned int conditional:1;    \/* Nonzero if set with a ?=. *\/$/;"	m	struct:variable
+conditional_line	read.c	/^static int conditional_line(char *line, int len, const struct floc *flocp)$/;"	f	file:
+conditionals	read.c	/^static struct conditionals *conditionals = &toplevel_conditionals;$/;"	v	typeref:struct:conditionals	file:
+conditionals	read.c	/^struct conditionals$/;"	s	file:
+considered	filedef.h	/^    unsigned int considered:1;    \/* equal to 'considered' if file has been$/;"	m	struct:file
+considered	remake.c	/^static unsigned int considered;$/;"	v	file:
+const	getopt.c	41;"	d	file:
+const	getopt1.c	33;"	d	file:
+construct_command_argv	job.c	/^char **construct_command_argv(char *line, char **restp, struct file *file, char **batch_filename_ptr)$/;"	f
+construct_command_argv_internal	job.c	/^static char **construct_command_argv_internal(char *line, char **restp, char *shell, char *ifs, char **batch_filename_ptr)$/;"	f	file:
+construct_include_path	read.c	/^void construct_include_path(char **arg_dirs)$/;"	f
+construct_vpath_list	vpath.c	/^void construct_vpath_list(char *pattern, char *dirpath)$/;"	f
+contents	dir.c	/^    struct directory_contents *contents;    \/* The directory being read.  *\/$/;"	m	struct:dirstream	typeref:struct:dirstream::directory_contents	file:
+contents	dir.c	/^    struct directory_contents *contents;$/;"	m	struct:directory	typeref:struct:directory::directory_contents	file:
+convert1	ansi2knr.c	/^int convert1(buf, out, header, convert_varargs)$/;"	f
+convert_Path_to_windows32	w32/pathstuff.c	/^char *convert_Path_to_windows32(char *Path, char to_delim)$/;"	f
+convert_path_to_nutc	w32/pathstuff.c	/^char *convert_path_to_nutc(char *path)$/;"	f
+convert_suffix_rule	rule.c	/^static void convert_suffix_rule(char *target, char *source, struct commands *cmds)$/;"	f	file:
+convert_to_pattern	rule.c	/^void convert_to_pattern(void)$/;"	f
+convert_vpath_to_windows32	w32/pathstuff.c	/^char *convert_vpath_to_windows32(char *Path, char to_delim)$/;"	f
+copy_dep_chain	misc.c	/^struct dep *copy_dep_chain(const struct dep *d)$/;"	f
+copyto	vmsify.c	/^static int copyto(char **to, char **from, char upto, int as_dir)$/;"	f	file:
+count	strcache.c	/^    int count;                    \/* # of strings in this buffer (for stats).  *\/$/;"	m	struct:strcache	file:
+count_implicit_rule_limits	rule.c	/^void count_implicit_rule_limits(void)$/;"	f
+cpus	getloadavg.c	/^static unsigned int cpus = 0;$/;"	v	file:
+create_batch_file	job.c	/^static char *create_batch_file(char const *base, int unixy, int *fd)$/;"	f	file:
+create_dir_tree	tests/test_driver.pl	/^sub create_dir_tree$/;"	s
+create_file	tests/test_driver.pl	/^sub create_file$/;"	s
+create_new_variable_set	variable.c	/^struct variable_set_list *create_new_variable_set(void)$/;"	f
+create_pattern_rule	rule.c	/^void create_pattern_rule(char **targets, char **target_percents, int terminal, struct dep *deps, struct commands *commands, int override)$/;"	f
+create_pattern_var	variable.c	/^struct pattern_var *create_pattern_var(char *target, char *suffix)$/;"	f
+cs_deps_running	filedef.h	/^        cs_deps_running,        \/* Dep commands running.  *\/$/;"	e	enum:file::cmd_state
+cs_finished	filedef.h	/^        cs_finished                \/* Commands finished.  *\/$/;"	e	enum:file::cmd_state
+cs_not_started	filedef.h	/^        cs_not_started,            \/* Not yet started.  *\/$/;"	e	enum:file::cmd_state
+cs_running	filedef.h	/^        cs_running,                \/* Commands running.  *\/$/;"	e	enum:file::cmd_state
+cstatus	job.h	/^    int cstatus;                \/* Completion status *\/$/;"	m	struct:child
+ctime	dir.c	/^    int ctime;$/;"	m	struct:directory_contents	file:
+ctrlMask	vmsjobs.c	/^static int ctrlMask = LIB$M_CLI_CTRLY;$/;"	v	file:
+current_access	misc.c	/^{ make, user } current_access;$/;"	v	typeref:enum:__anon6	file:
+current_address	alloca.c	/^    long current_address;        \/* Current stack segment address.  *\/$/;"	m	struct:stk_stat	file:
+current_size	alloca.c	/^    long current_size;            \/* Current stack segment size.  This$/;"	m	struct:stk_stat	file:
+current_variable_set_list	variable.c	/^struct variable_set_list *current_variable_set_list = &global_setlist;$/;"	v	typeref:struct:variable_set_list
+cvt_time	vmsfunctions.c	/^char *cvt_time(unsigned long tval)$/;"	f
+d_fileno	vmsdir.h	/^    u_long d_fileno;$/;"	m	struct:direct
+d_ino	vmsdir.h	48;"	d
+d_ino	w32/include/dirent.h	/^    ino_t d_ino;                \/* unused - no equivalent on WINDOWS32 *\/$/;"	m	struct:dirent
+d_name	vmsdir.h	/^    char d_name[MAXNAMLEN + 1];$/;"	m	struct:direct
+d_name	w32/include/dirent.h	/^    char d_name[NAME_MAX + 1];$/;"	m	struct:dirent
+d_namlen	vmsdir.h	/^    u_short d_namlen;$/;"	m	struct:direct
+d_off	vmsdir.h	/^    off_t d_off;$/;"	m	struct:direct
+d_reclen	vmsdir.h	/^    u_short d_reclen;$/;"	m	struct:direct
+d_result	vmsdir.h	/^    char d_result[MAXNAMLEN + 1];$/;"	m	struct:DIR
+datadir	Makefile	/^datadir = ${prefix}\/share$/;"	m
+datadir	config/Makefile	/^datadir = ${prefix}\/share$/;"	m
+datadir	doc/Makefile	/^datadir = ${prefix}\/share$/;"	m
+datadir	glob/Makefile	/^datadir = ${prefix}\/share$/;"	m
+datadir	po/Makefile	/^datadir = ${prefix}\/share$/;"	m
+datadir	w32/Makefile	/^datadir = ${prefix}\/share$/;"	m
+db_flags	main.c	/^static struct stringlist *db_flags;$/;"	v	typeref:struct:stringlist	file:
+db_level	main.c	/^int db_level = 0;$/;"	v
+dc_install_base	Makefile	/^	dc_install_base=`$(am__cd) $(distdir)\/_inst && pwd | sed -e 's,^[^:\\\\\/]:[\\\\\/],\/,'` \\$/;"	m
+dcgettext	gettext.h	36;"	d
+dcngettext	gettext.h	41;"	d
+dead_children	job.c	/^static unsigned int dead_children = 0;$/;"	v	file:
+debug_flag	main.c	/^static int debug_flag = 0;$/;"	v	file:
+debug_signal_handler	main.c	/^static RETSIGTYPE debug_signal_handler(int sig UNUSED)$/;"	f	file:
+decode_debug_flags	main.c	/^static void decode_debug_flags(void)$/;"	f	file:
+decode_env_switches	main.c	/^static void decode_env_switches(char *envar, unsigned int len)$/;"	f	file:
+decode_switches	main.c	/^static void decode_switches(int argc, char **argv, int env)$/;"	f	file:
+decstation	getloadavg.c	168;"	d	file:
+deep	alloca.c	/^        char *deep;                \/* For stack depth measure.  *\/$/;"	m	struct:hdr::__anon1	file:
+default_file	main.c	/^struct file *default_file;$/;"	v	typeref:struct:file
+default_goal_file	main.c	/^struct file *default_goal_file;$/;"	v	typeref:struct:file
+default_goal_name	main.c	/^char **default_goal_name;$/;"	v
+default_include_directories	read.c	/^static char *default_include_directories[] = {$/;"	v	file:
+default_job_slots	main.c	/^unsigned int default_job_slots = 1;$/;"	v
+default_keep_going_flag	main.c	/^int default_keep_going_flag = 0;$/;"	v
+default_load_average	main.c	/^double default_load_average = -1.0;$/;"	v
+default_load_average	main.c	/^int default_load_average = -1;$/;"	v
+default_pattern_rules	default.c	/^static struct pspec default_pattern_rules[] = {$/;"	v	typeref:struct:pspec	file:
+default_set	getloadavg.c	/^static processor_set_t default_set;$/;"	v	file:
+default_shell	job.c	/^char *default_shell = "\/bin\/sh";$/;"	v
+default_shell	job.c	/^char *default_shell = "command.com";$/;"	v
+default_shell	job.c	/^char *default_shell = "sh.exe";$/;"	v
+default_shell	job.c	/^char default_shell[] = "";$/;"	v
+default_shell	job.c	/^char default_shell[] = "\/bin\/sh";$/;"	v
+default_suffix_rules	default.c	/^static char *default_suffix_rules[] = {$/;"	v	file:
+default_suffixes	default.c	/^static char default_suffixes[]$/;"	v	file:
+default_terminal_rules	default.c	/^static struct pspec default_terminal_rules[] = {$/;"	v	typeref:struct:pspec	file:
+default_value	main.c	/^    char *default_value;        \/* Pointer to default value.  *\/$/;"	m	struct:command_switch	file:
+default_variables	default.c	/^static char *default_variables[] = {$/;"	v	file:
+define_automatic_variables	variable.c	/^void define_automatic_variables(void)$/;"	f
+define_default_variables	default.c	/^void define_default_variables(void)$/;"	f
+define_makeflags	main.c	/^static void define_makeflags(int all, int makefile)$/;"	f	file:
+define_variable	variable.h	153;"	d
+define_variable_for_file	variable.h	170;"	d
+define_variable_global	variable.h	165;"	d
+define_variable_in_set	variable.c	/^struct variable *define_variable_in_set(const char *name, unsigned int length, char *value, enum variable_origin origin, int recursive, struct variable_set *set, const struct floc *flocp)$/;"	f
+define_variable_loc	variable.h	159;"	d
+delete_child_targets	commands.c	/^void delete_child_targets(struct child *child)$/;"	f
+delete_target	commands.c	/^static void delete_target(struct file *file, char *on_behalf_of)$/;"	f	file:
+deleted	job.h	/^    unsigned int deleted:1;        \/* Nonzero if targets have been deleted.  *\/$/;"	m	struct:child
+dep	dep.h	/^struct dep$/;"	s
+dep	rule.h	/^    char *target, *dep, *commands;$/;"	m	struct:pspec
+dep_hash_1	read.c	/^static unsigned long dep_hash_1(const void *key)$/;"	f	file:
+dep_hash_2	read.c	/^static unsigned long dep_hash_2(const void *key)$/;"	f	file:
+dep_hash_cmp	read.c	/^static int dep_hash_cmp(const void *x, const void *y)$/;"	f	file:
+dep_name	dep.h	69;"	d
+dep_name	misc.c	/^char *dep_name(struct dep *dep)$/;"	f
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/config\/depcomp$/;"	m
+depcomp	glob/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/config\/depcomp$/;"	m
+depcomp	w32/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/config\/depcomp$/;"	m
+deps	filedef.h	/^    struct dep *deps;            \/* all dependencies, including duplicates *\/$/;"	m	struct:file	typeref:struct:file::dep
+deps	rule.h	/^    struct dep *deps;            \/* Dependencies of the rule.  *\/$/;"	m	struct:rule	typeref:struct:rule::dep
+describe_member	arscan.c	/^long int describe_member(int desc, char *name, int truncated, long int hdrpos, long int datapos, long int size, long int date, int uid, int gid, int mode)$/;"	f
+detach_default_output	tests/test_driver.pl	/^sub detach_default_output$/;"	s
+dev	dir.c	/^    dev_t dev;                    \/* Device and inode numbers of this dir.  *\/$/;"	m	struct:directory_contents	file:
+dg_sys_info	configure	/^dg_sys_info ();$/;"	f
+dgettext	gettext.h	35;"	d
+die	main.c	/^void die(int status)$/;"	f
+dir	vmsdir.h	/^    struct direct dir;$/;"	m	struct:DIR	typeref:struct:DIR::direct
+dir_contents_file_exists_p	dir.c	/^static int dir_contents_file_exists_p(struct directory_contents *dir, char *filename)$/;"	f	file:
+dir_file_exists_p	dir.c	/^int dir_file_exists_p(char *dirname, char *filename)$/;"	f
+dir_hDirHandle	w32/include/dirent.h	/^    HANDLE dir_hDirHandle;$/;"	m	struct:dir_struct
+dir_nNumFiles	w32/include/dirent.h	/^    DWORD dir_nNumFiles;$/;"	m	struct:dir_struct
+dir_name	dir.c	/^char *dir_name(char *dir)$/;"	f
+dir_pDirectoryName	w32/include/dirent.h	/^    char dir_pDirectoryName[NAME_MAX + 1];$/;"	m	struct:dir_struct
+dir_sdReturn	w32/include/dirent.h	/^    struct dirent dir_sdReturn;$/;"	m	struct:dir_struct	typeref:struct:dir_struct::dirent
+dir_setup_glob	dir.c	/^void dir_setup_glob(glob_t * gl)$/;"	f
+dir_struct	w32/include/dirent.h	/^typedef struct dir_struct$/;"	s
+dir_ulCookie	w32/include/dirent.h	/^    ULONG dir_ulCookie;$/;"	m	struct:dir_struct
+direct	vmsdir.h	/^struct direct$/;"	s
+directories	dir.c	/^static struct hash_table directories;$/;"	v	typeref:struct:hash_table	file:
+directories	main.c	/^static struct stringlist *directories = 0;$/;"	v	typeref:struct:stringlist	file:
+directory	dir.c	/^struct directory$/;"	s	file:
+directory_before_chdir	main.c	/^char *directory_before_chdir;$/;"	v
+directory_contents	dir.c	/^static struct hash_table directory_contents;$/;"	v	typeref:struct:hash_table	file:
+directory_contents	dir.c	/^struct directory_contents$/;"	s	file:
+directory_contents_hash_1	dir.c	/^static unsigned long directory_contents_hash_1(const void *key_0)$/;"	f	file:
+directory_contents_hash_2	dir.c	/^static unsigned long directory_contents_hash_2(const void *key_0)$/;"	f	file:
+directory_contents_hash_cmp	dir.c	/^static int directory_contents_hash_cmp(const void *xv, const void *yv)$/;"	f	file:
+directory_hash_1	dir.c	/^static unsigned long directory_hash_1(const void *key)$/;"	f	file:
+directory_hash_2	dir.c	/^static unsigned long directory_hash_2(const void *key)$/;"	f	file:
+directory_hash_cmp	dir.c	/^static int directory_hash_cmp(const void *x, const void *y)$/;"	f	file:
+dirent	dir.c	29;"	d	file:
+dirent	glob/glob.c	92;"	d	file:
+dirent	w32/include/dirent.h	/^struct dirent$/;"	s
+dirfile	dir.c	/^struct dirfile$/;"	s	file:
+dirfile_hash_1	dir.c	/^static unsigned long dirfile_hash_1(const void *key)$/;"	f	file:
+dirfile_hash_2	dir.c	/^static unsigned long dirfile_hash_2(const void *key)$/;"	f	file:
+dirfile_hash_cmp	dir.c	/^static int dirfile_hash_cmp(const void *xv, const void *yv)$/;"	f	file:
+dirfile_slot	dir.c	/^    struct dirfile **dirfile_slot;    \/* Current slot in table.  *\/$/;"	m	struct:dirstream	typeref:struct:dirstream::dirfile	file:
+dirfiles	dir.c	/^    struct hash_table dirfiles;    \/* Files in this directory.  *\/$/;"	m	struct:directory_contents	typeref:struct:directory_contents::hash_table	file:
+dirstream	dir.c	/^    DIR *dirstream;                \/* Stream reading this directory.  *\/$/;"	m	struct:directory_contents	file:
+dirstream	dir.c	/^struct dirstream$/;"	s	file:
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distdir	po/Makefile	/^distdir = $(top_builddir)\/$(PACKAGE)-$(VERSION)\/$(subdir)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+dngettext	gettext.h	39;"	d
+do_define	read.c	/^static void do_define(char *name, unsigned int namelen, enum variable_origin origin, struct ebuffer *ebuf)$/;"	f	file:
+do_variable_definition	variable.c	/^struct variable *do_variable_definition(const struct floc *flocp, const char *varname, char *value, enum variable_origin origin, enum variable_flavor flavor, int target_var)$/;"	f
+dontcare	filedef.h	/^    unsigned int dontcare:1;    \/* Nonzero if no complaint is to be made if$/;"	m	struct:file
+dontcare	job.h	/^    unsigned int dontcare:1;    \/* Saved dontcare flag.  *\/$/;"	m	struct:child
+dos_command_running	job.c	/^int dos_command_running;$/;"	v
+dos_pid	job.c	/^static int dos_pid = 123;$/;"	v	file:
+dos_status	job.c	/^int dos_status;$/;"	v
+dosify	dir.c	/^static char *dosify(char *filename)$/;"	f	file:
+double_colon	filedef.h	/^    struct file *double_colon;$/;"	m	struct:file	typeref:struct:file::file
+downcase	dir.c	/^static char *downcase(char *filename)$/;"	f	file:
+dup2	job.c	/^int dup2(int old, int new)$/;"	f
+ebuffer	read.c	/^struct ebuffer$/;"	s	file:
+efn	job.h	/^    int efn;                    \/* Completion event flag number *\/$/;"	m	struct:child
+elf_begin	configure	/^elf_begin ();$/;"	f
+end	strcache.c	/^    char *end;                    \/* Pointer to the beginning of the free space.  *\/$/;"	m	struct:strcache	file:
+end_of_token	misc.c	/^char *end_of_token(const char *s)$/;"	f
+end_of_token_w32	misc.c	/^char *end_of_token_w32(char *s, char stopchar)$/;"	f
+enter_command_line_file	main.c	/^static struct file *enter_command_line_file(char *name)$/;"	f	file:
+enter_file	file.c	/^struct file *enter_file(char *name)$/;"	f
+env	main.c	/^    unsigned int env:1;            \/* Can come from MAKEFLAGS.  *\/$/;"	m	struct:command_switch	file:
+env_overrides	main.c	/^int env_overrides = 0;$/;"	v
+environment	job.h	/^    char **environment;            \/* Environment for commands.  *\/$/;"	m	struct:child
+errcnt	w32/subproc/sub_proc.c	/^    volatile DWORD errcnt;$/;"	m	struct:sub_process_t	file:
+error	misc.c	/^error(const struct floc *flocp, const char *fmt, ...)$/;"	f
+error	tests/test_driver.pl	/^sub error$/;"	s
+errp	w32/subproc/sub_proc.c	/^    char *volatile errp;$/;"	m	struct:sub_process_t	file:
+eval	read.c	/^static int eval(struct ebuffer *ebuf, int set_default)$/;"	f	file:
+eval_buffer	read.c	/^int eval_buffer(char *buffer)$/;"	f
+eval_makefile	read.c	/^static int eval_makefile(char *filename, int flags)$/;"	f	file:
+exchange	getopt.c	/^static void exchange(char **argv)$/;"	f	file:
+exec_command	job.c	/^exec_command(char **argv, char **envp)$/;"	f
+exec_command	job.c	/^void exec_command(char **argv)$/;"	f
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	config/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	doc/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	glob/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	po/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	w32/Makefile	/^exec_prefix = ${prefix}$/;"	m
+execute_by_shell	job.c	/^static int execute_by_shell;$/;"	v	file:
+execute_file_commands	commands.c	/^void execute_file_commands(struct file *file)$/;"	f
+exit_code	w32/subproc/sub_proc.c	/^    int exit_code;$/;"	m	struct:sub_process_t	file:
+exp_count	variable.h	/^    unsigned int exp_count:EXP_COUNT_BITS;$/;"	m	struct:variable
+expand_args	function.c	/^    char expand_args;$/;"	m	struct:function_table_entry	file:
+expand_argument	expand.c	/^char *expand_argument(const char *str, const char *end)$/;"	f
+expand_builtin_function	function.c	/^static char *expand_builtin_function(char *o, int argc, char **argv, const struct function_table_entry *entry_p)$/;"	f	file:
+expand_deps	file.c	/^static void expand_deps(struct file *f)$/;"	f	file:
+expanding	variable.h	/^    unsigned int expanding:1;    \/* Nonzero if currently being expanded.  *\/$/;"	m	struct:variable
+expanding_var	expand.c	/^const struct floc **expanding_var = &reading_file;$/;"	v	typeref:struct:floc
+export_all_variables	variable.c	/^int export_all_variables;$/;"	v
+exportable	variable.h	/^    unsigned int exportable:1;    \/* Nonzero if the variable _could_ be$/;"	m	struct:variable
+extends	alloca.c	/^    long extends;                \/* Number of block extensions.  *\/$/;"	m	struct:stk_stat	file:
+f_append	variable.h	/^    f_append,                    \/* Appending definition (+=) *\/$/;"	e	enum:variable_flavor
+f_bogus	variable.h	/^    f_bogus,                    \/* Bogus (error) *\/$/;"	e	enum:variable_flavor
+f_conditional	variable.h	/^    f_conditional                \/* Conditional definition (?=) *\/$/;"	e	enum:variable_flavor
+f_mtime	remake.c	/^FILE_TIMESTAMP f_mtime(struct file * file, int search)$/;"	f
+f_recursive	variable.h	/^    f_recursive,                \/* Recursive definition (=) *\/$/;"	e	enum:variable_flavor
+f_simple	variable.h	/^    f_simple,                    \/* Simple definition (:=) *\/$/;"	e	enum:variable_flavor
+fab	vmsdir.h	/^    struct FAB fab;$/;"	m	struct:DIR	typeref:struct:DIR::FAB
+fab	vmsdir.h	/^    struct fabdef fab;$/;"	m	struct:DIR	typeref:struct:DIR::fabdef
+fake_exits_pending	w32/subproc/sub_proc.c	/^static int fake_exits_pending = 0;$/;"	v	file:
+fatal	misc.c	/^fatal(const struct floc *flocp, const char *fmt, ...)$/;"	f
+fatal_error_signal	commands.c	/^RETSIGTYPE fatal_error_signal(int sig)$/;"	f
+fatal_signal_mask	main.c	/^int fatal_signal_mask;$/;"	v
+fatal_signal_set	main.c	/^sigset_t fatal_signal_set;$/;"	v
+file	dep.h	/^    struct file *file;$/;"	m	struct:dep	typeref:struct:dep::file
+file	filedef.h	/^struct file$/;"	s
+file	job.h	/^    struct file *file;            \/* File being remade.  *\/$/;"	m	struct:child	typeref:struct:child::file
+file_exists_p	dir.c	/^int file_exists_p(char *name)$/;"	f
+file_hash_1	file.c	/^static unsigned long file_hash_1(const void *key)$/;"	f	file:
+file_hash_2	file.c	/^static unsigned long file_hash_2(const void *key)$/;"	f	file:
+file_hash_cmp	file.c	/^static int file_hash_cmp(const void *x, const void *y)$/;"	f	file:
+file_impossible	dir.c	/^void file_impossible(char *filename)$/;"	f
+file_impossible_p	dir.c	/^int file_impossible_p(char *filename)$/;"	f
+file_mtime	filedef.h	158;"	d
+file_mtime_1	filedef.h	165;"	d
+file_mtime_no_search	filedef.h	163;"	d
+file_timestamp_cons	file.c	/^FILE_TIMESTAMP file_timestamp_cons(const char *fname, time_t s, int ns)$/;"	f
+file_timestamp_now	file.c	/^FILE_TIMESTAMP file_timestamp_now(int *resolution)$/;"	f
+file_timestamp_sprintf	file.c	/^void file_timestamp_sprintf(char *p, FILE_TIMESTAMP ts)$/;"	f
+fileinfo	commands.h	/^    struct floc fileinfo;        \/* Where commands were defined.  *\/$/;"	m	struct:commands	typeref:struct:commands::floc
+fileinfo	variable.h	/^    struct floc fileinfo;        \/* Where the variable was defined.  *\/$/;"	m	struct:variable	typeref:struct:variable::floc
+filenm	make.h	/^    const char *filenm;$/;"	m	struct:floc
+files	file.c	/^static struct hash_table files;$/;"	v	typeref:struct:hash_table	file:
+find_and_set_default_shell	main.c	/^int find_and_set_default_shell(char *token)$/;"	f
+find_char_unquote	read.c	/^static char *find_char_unquote(char *string, int stop1, int stop2, int blank, int ignorevars)$/;"	f	file:
+find_directory	dir.c	/^static struct directory *find_directory(char *name)$/;"	f	file:
+find_file	w32/subproc/sub_proc.c	/^static HANDLE find_file(char *exec_path, LPOFSTRUCT file_info)$/;"	f	file:
+find_next_argument	function.c	/^static char *find_next_argument(char startparen, char endparen, const char *ptr, const char *end)$/;"	f	file:
+find_next_token	misc.c	/^char *find_next_token(char **ptr, unsigned int *lengthptr)$/;"	f
+find_percent	read.c	/^char *find_percent(char *pattern)$/;"	f
+find_stack_direction	alloca.c	/^static void find_stack_direction(void)$/;"	f	file:
+find_stack_direction	configure	/^find_stack_direction ()$/;"	f
+finish_updating	remake.c	50;"	d	file:
+first_nonopt	getopt.c	/^static int first_nonopt;$/;"	v	file:
+flag	getopt.h	/^        int *flag;$/;"	m	struct:option
+flag	main.c	/^        flag,                    \/* Turn int flag on.  *\/$/;"	e	enum:command_switch::__anon5	file:
+flag_off	main.c	/^        flag_off,                \/* Turn int flag off.  *\/$/;"	e	enum:command_switch::__anon5	file:
+floating	main.c	/^        floating,                \/* A floating-point number (double).  *\/$/;"	e	enum:command_switch::__anon5	file:
+floc	make.h	/^struct floc$/;"	s
+floc	read.c	/^    struct floc floc;            \/* Info on the file in fp (if any).  *\/$/;"	m	struct:ebuffer	typeref:struct:ebuffer::floc	file:
+fnmatch	glob/fnmatch.c	/^int fnmatch(pattern, string, flags)$/;"	f
+fold_newlines	function.c	/^static void fold_newlines(char *buffer, unsigned int *length)$/;"	f	file:
+fp	read.c	/^    FILE *fp;                    \/* File, or NULL if this is an internal buffer.  *\/$/;"	m	struct:ebuffer	file:
+free_child	job.c	/^static void free_child(struct child *child)$/;"	f	file:
+free_dep	misc.c	/^void free_dep(struct dep *d)$/;"	f
+free_dep_chain	misc.c	/^void free_dep_chain(struct dep *d)$/;"	f
+free_idep_chain	implicit.c	/^static void free_idep_chain(struct idep *p)$/;"	f	file:
+free_ns_chain	misc.c	/^void free_ns_chain(struct nameseq *n)$/;"	f
+free_variable_name_and_value	variable.c	/^static void free_variable_name_and_value(const void *item)$/;"	f	file:
+free_variable_set	variable.c	/^void free_variable_set(struct variable_set_list *list)$/;"	f
+freerule	rule.c	/^static void freerule(struct rule *rule, struct rule *lastrule)$/;"	f	file:
+fs_flags	dir.c	/^    int fs_flags;                \/* FS_FAT, FS_NTFS, ... *\/$/;"	m	struct:directory_contents	file:
+func_abspath	function.c	/^static char *func_abspath(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_addsuffix_addprefix	function.c	/^static char *func_addsuffix_addprefix(char *o, char **argv, const char *funcname)$/;"	f	file:
+func_and	function.c	/^static char *func_and(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_basename_dir	function.c	/^static char *func_basename_dir(char *o, char **argv, const char *funcname)$/;"	f	file:
+func_call	function.c	/^static char *func_call(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_eq	function.c	/^static char *func_eq(char *o, char **argv, char *funcname)$/;"	f	file:
+func_error	function.c	/^static char *func_error(char *o, char **argv, const char *funcname)$/;"	f	file:
+func_eval	function.c	/^static char *func_eval(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_filter_filterout	function.c	/^static char *func_filter_filterout(char *o, char **argv, const char *funcname)$/;"	f	file:
+func_findstring	function.c	/^static char *func_findstring(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_firstword	function.c	/^static char *func_firstword(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_flavor	function.c	/^static char *func_flavor(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_foreach	function.c	/^static char *func_foreach(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_if	function.c	/^static char *func_if(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_join	function.c	/^static char *func_join(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_lastword	function.c	/^static char *func_lastword(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_not	function.c	/^static char *func_not(char *o, char **argv, char *funcname)$/;"	f	file:
+func_notdir_suffix	function.c	/^static char *func_notdir_suffix(char *o, char **argv, const char *funcname)$/;"	f	file:
+func_or	function.c	/^static char *func_or(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_origin	function.c	/^static char *func_origin(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_patsubst	function.c	/^static char *func_patsubst(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_ptr	function.c	/^    char *(*func_ptr) PARAMS((char *output, char **argv, const char *fname));$/;"	m	struct:function_table_entry	file:
+func_realpath	function.c	/^static char *func_realpath(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_shell	function.c	/^static char *func_shell(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_shell	function.c	/^static char *func_shell(char *o, char **argv, const char *funcname)$/;"	f	file:
+func_shell	function.c	1468;"	d	file:
+func_sort	function.c	/^static char *func_sort(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_strip	function.c	/^static char *func_strip(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_subst	function.c	/^static char *func_subst(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_value	function.c	/^static char *func_value(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_wildcard	function.c	/^static char *func_wildcard(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_word	function.c	/^static char *func_word(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_wordlist	function.c	/^static char *func_wordlist(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_words	function.c	/^static char *func_words(char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+function_table	function.c	/^static struct hash_table function_table;$/;"	v	typeref:struct:hash_table	file:
+function_table_entry	function.c	/^struct function_table_entry$/;"	s	file:
+function_table_entry_hash_1	function.c	/^static unsigned long function_table_entry_hash_1(const void *keyv)$/;"	f	file:
+function_table_entry_hash_2	function.c	/^static unsigned long function_table_entry_hash_2(const void *keyv)$/;"	f	file:
+function_table_entry_hash_cmp	function.c	/^static int function_table_entry_hash_cmp(const void *xv, const void *yv)$/;"	f	file:
+function_table_init	function.c	/^static struct function_table_entry function_table_init[] = {$/;"	v	typeref:struct:function_table_entry	file:
+general_vpath	vpath.c	/^static struct vpath *general_vpath;$/;"	v	typeref:struct:vpath	file:
+get_basefile	tests/test_driver.pl	/^sub get_basefile$/;"	s
+get_caller	tests/test_driver.pl	/^sub get_caller$/;"	s
+get_difffile	tests/test_driver.pl	/^sub get_difffile$/;"	s
+get_logfile	tests/test_driver.pl	/^sub get_logfile$/;"	s
+get_next_mword	read.c	/^static enum make_word_type get_next_mword(char *buffer, char *delim, char **startp, unsigned int *length)$/;"	f	file:
+get_next_word	implicit.c	/^static char *get_next_word(char *buffer, unsigned int *length)$/;"	f	file:
+get_osname	tests/test_driver.pl	/^sub get_osname$/;"	s
+get_path_max	misc.c	/^unsigned int get_path_max(void)$/;"	f
+get_this_pwd	tests/run_make_tests.pl	/^sub get_this_pwd {$/;"	s
+get_tmpfile	tests/test_driver.pl	/^sub get_tmpfile$/;"	s
+getcwd	make.h	490;"	d
+getcwd	make.h	567;"	d
+getcwd	make.h	576;"	d
+getcwd_fs	w32/pathstuff.c	/^char *getcwd_fs(char *buf, int len)$/;"	f
+gethostbyname	configure	/^gethostbyname ();$/;"	f
+gethostname	configure	/^gethostname ();$/;"	f
+getloadavg	configure	/^getloadavg ();$/;"	f
+getloadavg	getloadavg.c	/^int getloadavg(double loadavg[], int nelem)$/;"	f
+getloadavg_initialized	getloadavg.c	/^static int getloadavg_initialized;$/;"	v	file:
+getopt	getopt.c	/^int getopt(int argc, char *const *argv, const char *optstring)$/;"	f
+getopt_long	getopt1.c	/^int getopt_long(int argc, char *const *argv, const char *options, const struct option *long_options, int *opt_index)$/;"	f
+getopt_long_only	getopt1.c	/^int getopt_long_only(int argc, char *const *argv, const char *options, const struct option *long_options, int *opt_index)$/;"	f
+getpwnam	configure	/^getpwnam ();$/;"	f
+getpwnam_r	glob/glob.c	244;"	d	file:
+gettext	gettext.h	34;"	d
+gettext_noop	gettext.h	56;"	d
+gettextsrcdir	po/Makefile	/^gettextsrcdir = $(datadir)\/gettext\/po$/;"	m
+getwd	vmsfunctions.c	/^char *getwd(char *cwd)$/;"	f
+gl_closedir	glob/glob.h	/^        void (*gl_closedir) __PMT((void *));$/;"	m	struct:__anon3
+gl_closedir	glob/glob.h	/^        void (*gl_closedir) __PMT((void *));$/;"	m	struct:__anon4
+gl_flags	glob/glob.h	/^        int gl_flags;            \/* Set to FLAGS, maybe | GLOB_MAGCHAR.  *\/$/;"	m	struct:__anon3
+gl_flags	glob/glob.h	/^        int gl_flags;$/;"	m	struct:__anon4
+gl_lstat	glob/glob.h	/^        int (*gl_lstat) __PMT((__const char *, struct stat *));$/;"	m	struct:__anon3
+gl_lstat	glob/glob.h	/^        int (*gl_lstat) __PMT((__const char *, struct stat64 *));$/;"	m	struct:__anon4
+gl_offs	glob/glob.h	/^        __size_t gl_offs;        \/* Slots to reserve in `gl_pathv'.  *\/$/;"	m	struct:__anon3
+gl_offs	glob/glob.h	/^        __size_t gl_offs;$/;"	m	struct:__anon4
+gl_opendir	glob/glob.h	/^          __ptr_t(*gl_opendir) __PMT((__const char *));$/;"	m	struct:__anon3
+gl_opendir	glob/glob.h	/^          __ptr_t(*gl_opendir) __PMT((__const char *));$/;"	m	struct:__anon4
+gl_pathc	glob/glob.h	/^        __size_t gl_pathc;        \/* Count of paths matched by the pattern.  *\/$/;"	m	struct:__anon3
+gl_pathc	glob/glob.h	/^        __size_t gl_pathc;$/;"	m	struct:__anon4
+gl_pathv	glob/glob.h	/^        char **gl_pathv;        \/* List of matched pathnames.  *\/$/;"	m	struct:__anon3
+gl_pathv	glob/glob.h	/^        char **gl_pathv;$/;"	m	struct:__anon4
+gl_readdir	glob/glob.h	/^        struct dirent *(*gl_readdir) __PMT((void *));$/;"	m	struct:__anon3	typeref:struct:__anon3::gl_readdir
+gl_readdir	glob/glob.h	/^        struct dirent64 *(*gl_readdir) __PMT((void *));$/;"	m	struct:__anon4	typeref:struct:__anon4::gl_readdir
+gl_stat	glob/glob.h	/^        int (*gl_stat) __PMT((__const char *, struct stat *));$/;"	m	struct:__anon3
+gl_stat	glob/glob.h	/^        int (*gl_stat) __PMT((__const char *, struct stat *, ...));$/;"	m	struct:__anon3
+gl_stat	glob/glob.h	/^        int (*gl_stat) __PMT((__const char *, struct stat64 *));$/;"	m	struct:__anon4
+glob	glob/glob.c	/^int glob(pattern, flags, errfunc, pglob)$/;"	f
+glob	glob/glob.h	169;"	d
+glob64_t	glob/glob.h	/^    } glob64_t;$/;"	t	typeref:struct:__anon4
+glob_in_dir	glob/glob.c	/^     static int glob_in_dir(pattern, directory, flags, errfunc, pglob)$/;"	f	file:
+glob_pattern_p	ar.c	/^static int glob_pattern_p(const char *pattern, int quote)$/;"	f	file:
+glob_t	glob/glob.h	/^    } glob_t;$/;"	t	typeref:struct:__anon3
+global_setlist	variable.c	/^static struct variable_set_list global_setlist = { 0, &global_variable_set };$/;"	v	typeref:struct:variable_set_list	file:
+global_variable_set	variable.c	/^static struct variable_set global_variable_set;$/;"	v	typeref:struct:variable_set	file:
+globfree	glob/glob.c	/^void globfree(pglob)$/;"	f
+globfree	glob/glob.h	170;"	d
+goals	main.c	/^static struct dep *goals, *lastgoal;$/;"	v	typeref:struct:dep	file:
+good_stdin	job.h	/^    unsigned int good_stdin:1;    \/* Nonzero if this child has a good stdin.  *\/$/;"	m	struct:child
+good_stdin_used	job.c	/^static int good_stdin_used = 0;$/;"	v	file:
+gpath_search	vpath.c	/^int gpath_search(char *file, unsigned int len)$/;"	f
+gpaths	vpath.c	/^static struct vpath *gpaths;$/;"	v	typeref:struct:vpath	file:
+h	alloca.c	/^    } h;$/;"	m	union:hdr	typeref:struct:hdr::__anon1	file:
+had_stem	implicit.c	/^    unsigned char had_stem;        \/* had % substituted with stem *\/$/;"	m	struct:idep	file:
+handle_function	function.c	/^int handle_function(char **op, char **stringp)$/;"	f
+handle_non_switch_argument	main.c	/^static void handle_non_switch_argument(char *arg, int env)$/;"	f	file:
+handle_runtime_exceptions	main.c	/^LONG WINAPI handle_runtime_exceptions(struct _EXCEPTION_POINTERS *exinfo)$/;"	f
+handle_special_var	variable.c	/^static struct variable *handle_special_var(struct variable *var)$/;"	f	file:
+handling_fatal_signal	commands.c	/^int handling_fatal_signal = 0;$/;"	v
+has_arg	getopt.h	/^        int has_arg;$/;"	m	struct:option
+hash_cmp_func_t	hash.h	/^typedef int (*hash_cmp_func_t) __P((void const *x, void const *y));$/;"	t
+hash_delete	hash.c	/^void *hash_delete(struct hash_table *ht, const void *item)$/;"	f
+hash_delete_at	hash.c	/^void *hash_delete_at(struct hash_table *ht, const void *slot)$/;"	f
+hash_delete_items	hash.c	/^void hash_delete_items(struct hash_table *ht)$/;"	f
+hash_deleted_item	hash.c	/^void *hash_deleted_item = &hash_deleted_item;$/;"	v
+hash_dump	hash.c	/^void **hash_dump(struct hash_table *ht, void **vector_0, qsort_cmp_t compare)$/;"	f
+hash_find_item	hash.c	/^void *hash_find_item(struct hash_table *ht, const void *key)$/;"	f
+hash_find_slot	hash.c	/^void **hash_find_slot(struct hash_table *ht, const void *key)$/;"	f
+hash_free	hash.c	/^void hash_free(struct hash_table *ht, int free_items)$/;"	f
+hash_free_items	hash.c	/^void hash_free_items(struct hash_table *ht)$/;"	f
+hash_func_t	hash.h	/^typedef unsigned long (*hash_func_t) __P((void const *key));$/;"	t
+hash_init	hash.c	/^void hash_init(struct hash_table *ht, unsigned long size, hash_func_t hash_1, hash_func_t hash_2, hash_cmp_func_t hash_cmp)$/;"	f
+hash_init_directories	dir.c	/^void hash_init_directories(void)$/;"	f
+hash_init_function_table	function.c	/^void hash_init_function_table(void)$/;"	f
+hash_insert	hash.c	/^void *hash_insert(struct hash_table *ht, const void *item)$/;"	f
+hash_insert_at	hash.c	/^void *hash_insert_at(struct hash_table *ht, const void *item, const void *slot)$/;"	f
+hash_load	hash.c	/^void hash_load(struct hash_table *ht, void *item_table, unsigned long cardinality, unsigned long size)$/;"	f
+hash_map	hash.c	/^void hash_map(struct hash_table *ht, hash_map_func_t map)$/;"	f
+hash_map_arg	hash.c	/^void hash_map_arg(struct hash_table *ht, hash_map_arg_func_t map, void *arg)$/;"	f
+hash_map_arg_func_t	hash.h	/^typedef void (*hash_map_arg_func_t) __P((void const *item, void *arg));$/;"	t
+hash_map_func_t	hash.h	/^typedef void (*hash_map_func_t) __P((void const *item));$/;"	t
+hash_print_stats	hash.c	/^void hash_print_stats(struct hash_table *ht, FILE * out_FILE)$/;"	f
+hash_rehash	hash.c	/^static void hash_rehash(struct hash_table *ht)$/;"	f	file:
+hash_table	hash.h	/^struct hash_table$/;"	s
+hdr	alloca.c	/^typedef union hdr$/;"	u	file:
+header	alloca.c	/^} header;$/;"	t	typeref:union:hdr	file:
+high_water	alloca.c	/^    long high_water;            \/* Stack high-water mark.  *\/$/;"	m	struct:stk_stat	file:
+hits	alloca.c	/^    long hits;                    \/* Number of internal buffer hits.  *\/$/;"	m	struct:stk_stat	file:
+hname	filedef.h	/^    char *hname;                \/* Hashed filename *\/$/;"	m	struct:file
+host	Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	config/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	doc/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	glob/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	w32/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	config/Makefile	/^host_alias = $/;"	m
+host_alias	doc/Makefile	/^host_alias = $/;"	m
+host_alias	glob/Makefile	/^host_alias = $/;"	m
+host_alias	w32/Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	config/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	doc/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	glob/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	w32/Makefile	/^host_cpu = x86_64$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_os	config/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	doc/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	glob/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	w32/Makefile	/^host_os = linux-gnu$/;"	m
+host_self	getloadavg.c	407;"	d	file:
+host_triplet	Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	config/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	doc/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	glob/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	w32/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	config/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	doc/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	glob/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	w32/Makefile	/^host_vendor = unknown$/;"	m
+hpux	getloadavg.c	152;"	d	file:
+hpux	getloadavg.c	156;"	d	file:
+ht_capacity	hash.h	/^    unsigned long ht_capacity;    \/* usable slots, limited by loading-factor *\/$/;"	m	struct:hash_table
+ht_collisions	hash.h	/^    unsigned long ht_collisions;    \/* # of failed calls to comparison function *\/$/;"	m	struct:hash_table
+ht_compare	hash.h	/^    hash_cmp_func_t ht_compare;    \/* comparison function *\/$/;"	m	struct:hash_table
+ht_empty_slots	hash.h	/^    unsigned long ht_empty_slots;    \/* empty slots not including deleted slots *\/$/;"	m	struct:hash_table
+ht_fill	hash.h	/^    unsigned long ht_fill;        \/* items in table *\/$/;"	m	struct:hash_table
+ht_hash_1	hash.h	/^    hash_func_t ht_hash_1;        \/* primary hash function *\/$/;"	m	struct:hash_table
+ht_hash_2	hash.h	/^    hash_func_t ht_hash_2;        \/* secondary hash function *\/$/;"	m	struct:hash_table
+ht_lookups	hash.h	/^    unsigned long ht_lookups;    \/* # of queries *\/$/;"	m	struct:hash_table
+ht_rehashes	hash.h	/^    unsigned int ht_rehashes;    \/* # of times we've expanded table *\/$/;"	m	struct:hash_table
+ht_size	hash.h	/^    unsigned long ht_size;        \/* total number of slots (power of 2) *\/$/;"	m	struct:hash_table
+ht_vec	hash.h	/^    void **ht_vec;$/;"	m	struct:hash_table
+i00afunc	alloca.c	/^static long i00afunc(long *address)$/;"	f	file:
+i00afunc	alloca.c	/^static long i00afunc(long address)$/;"	f	file:
+idep	implicit.c	/^struct idep$/;"	s	file:
+idx	main.c	/^    unsigned int idx;            \/* Index into above.  *\/$/;"	m	struct:stringlist	file:
+if_cmds	read.c	/^    unsigned int if_cmds;        \/* Depth of conditional nesting.  *\/$/;"	m	struct:conditionals	file:
+ignore	main.c	/^        ignore                    \/* Ignored.  *\/$/;"	e	enum:command_switch::__anon5	file:
+ignore_errors_flag	main.c	/^int ignore_errors_flag = 0;$/;"	v
+ignore_mtime	dep.h	/^    unsigned int ignore_mtime:1;$/;"	m	struct:dep
+ignore_mtime	implicit.c	/^    unsigned char ignore_mtime;    \/* ignore_mtime flag *\/$/;"	m	struct:idep	file:
+ignore_vpath	filedef.h	/^    unsigned int ignore_vpath:1;    \/* Nonzero if we threw out VPATH name.  *\/$/;"	m	struct:file
+ignoring	read.c	/^    char *ignoring;                \/* Are we ignoring or interpreting?$/;"	m	struct:conditionals	file:
+impossible	dir.c	/^    short impossible;            \/* This file is impossible.  *\/$/;"	m	struct:dirfile	file:
+in_use	rule.h	/^    char in_use;                \/* If in use by a parent pattern_search.  *\/$/;"	m	struct:rule
+include_directories	main.c	/^static struct stringlist *include_directories = 0;$/;"	v	typeref:struct:stringlist	file:
+include_directories	read.c	/^static char **include_directories;$/;"	v	file:
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	config/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	doc/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	glob/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	w32/Makefile	/^includedir = ${prefix}\/include$/;"	m
+incnt	w32/subproc/sub_proc.c	/^    DWORD incnt;$/;"	m	struct:sub_process_t	file:
+inf_jobs	main.c	/^static unsigned int inf_jobs = 0;$/;"	v	file:
+info_TEXINFOS	doc/Makefile	/^info_TEXINFOS = make.texi$/;"	m
+infodir	Makefile	/^infodir = ${prefix}\/info$/;"	m
+infodir	config/Makefile	/^infodir = ${prefix}\/info$/;"	m
+infodir	doc/Makefile	/^infodir = ${prefix}\/info$/;"	m
+infodir	glob/Makefile	/^infodir = ${prefix}\/info$/;"	m
+infodir	w32/Makefile	/^infodir = ${prefix}\/info$/;"	m
+inhibit_print_directory_flag	main.c	/^int inhibit_print_directory_flag = 0;$/;"	v
+init_access	misc.c	/^static void init_access(void)$/;"	f	file:
+init_hash_files	file.c	/^void init_hash_files(void)$/;"	f
+init_hash_global_variable_set	variable.c	/^void init_hash_global_variable_set(void)$/;"	f
+init_sig	signame.c	/^static void init_sig(int number, const char *abbrev, const char *name)$/;"	f	file:
+init_switches	main.c	/^static void init_switches(void)$/;"	f	file:
+initial_address	alloca.c	/^    long initial_address;        \/* Address of initial segment.  *\/$/;"	m	struct:stk_stat	file:
+initial_size	alloca.c	/^    long initial_size;            \/* Size of initial segment.  *\/$/;"	m	struct:stk_stat	file:
+initialize_file_variables	variable.c	/^void initialize_file_variables(struct file *file, int reading)$/;"	f
+initialize_global_hash_tables	main.c	/^static void initialize_global_hash_tables(void)$/;"	f	file:
+initialize_main	make.h	551;"	d
+initialize_main	make.h	554;"	d
+initialize_main	make.h	581;"	d
+initialize_variable_output	expand.c	/^static char *initialize_variable_output(void)$/;"	f	file:
+ino	dir.c	/^    ino_t ino;$/;"	m	struct:directory_contents	file:
+ino	dir.c	/^    ino_t ino[3];$/;"	m	struct:directory_contents	file:
+inp	w32/subproc/sub_proc.c	/^    char *inp;$/;"	m	struct:sub_process_t	file:
+inst_group	Makefile	/^inst_group = $/;"	m
+inst_setgid	Makefile	/^inst_setgid = false$/;"	m
+install_conditionals	read.c	/^static struct conditionals *install_conditionals(struct conditionals *new)$/;"	f	file:
+install_default_implicit_rules	default.c	/^void install_default_implicit_rules(void)$/;"	f
+install_default_suffix_rules	default.c	/^void install_default_suffix_rules(void)$/;"	f
+install_pattern_rule	rule.c	/^void install_pattern_rule(struct pspec *p, int terminal)$/;"	f
+install_sh	Makefile	/^install_sh = \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/install-sh$/;"	m
+install_sh	config/Makefile	/^install_sh = \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/install-sh$/;"	m
+install_sh	doc/Makefile	/^install_sh = \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/install-sh$/;"	m
+install_sh	glob/Makefile	/^install_sh = \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/install-sh$/;"	m
+install_sh	w32/Makefile	/^install_sh = \/root\/workspace\/exercise\/tools\/make\/srcpkg\/make-3.81\/config\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	config/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	doc/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	glob/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	w32/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	config/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	doc/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	glob/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	w32/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	config/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	doc/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	glob/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	w32/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_variable_buffer	expand.c	/^void install_variable_buffer(char **bufp, unsigned int *lenp)$/;"	f
+intermediate	filedef.h	/^    unsigned int intermediate:1;    \/* Nonzero if this is an intermediate file.  *\/$/;"	m	struct:file
+intermediate_file	implicit.c	/^    struct file *intermediate_file;    \/* intermediate file, 0 otherwise *\/$/;"	m	struct:idep	typeref:struct:idep::file	file:
+intermediate_pattern	implicit.c	/^    char *intermediate_pattern;    \/* pattern for intermediate file *\/$/;"	m	struct:idep	file:
+internal_fnmatch	glob/fnmatch.c	/^     static int internal_function internal_fnmatch(pattern, string, no_leading_period, flags)$/;"	f	file:
+internal_function	glob/fnmatch.c	147;"	d	file:
+is_alnum	ansi2knr.c	213;"	d	file:
+is_alpha	ansi2knr.c	212;"	d	file:
+is_ascii	ansi2knr.c	206;"	d	file:
+is_ascii	ansi2knr.c	208;"	d	file:
+is_space	ansi2knr.c	211;"	d	file:
+is_target	filedef.h	/^    unsigned int is_target:1;    \/* Nonzero if file is described as target.  *\/$/;"	m	struct:file
+is_updating	remake.c	52;"	d	file:
+isblank	make.h	96;"	d
+isidchar	ansi2knr.c	216;"	d	file:
+isidfirstchar	ansi2knr.c	217;"	d	file:
+job_counter	job.c	/^unsigned long job_counter = 0;$/;"	v
+job_fds	main.c	/^int job_fds[2] = { -1, -1 };$/;"	v
+job_next_command	job.c	/^static int job_next_command(struct child *child)$/;"	f	file:
+job_noop	job.c	/^RETSIGTYPE job_noop(int sig UNUSED)$/;"	f
+job_rfd	main.c	/^int job_rfd = -1;$/;"	v
+job_slots	main.c	/^unsigned int job_slots = 1;$/;"	v
+job_slots_used	job.c	/^unsigned int job_slots_used = 0;$/;"	v
+jobserver_fds	main.c	/^static struct stringlist *jobserver_fds = 0;$/;"	v	typeref:struct:stringlist	file:
+jobserver_tokens	job.c	/^unsigned int jobserver_tokens = 0;$/;"	v
+just_print_flag	main.c	/^int just_print_flag;$/;"	v
+kd	getloadavg.c	/^static kvm_t *kd;$/;"	v	file:
+keep_going_flag	main.c	/^int keep_going_flag;$/;"	v
+kill	make.h	365;"	d
+kstat_open	configure	/^kstat_open ();$/;"	f
+kvm_open	configure	/^kvm_open ();$/;"	f
+last	filedef.h	/^    struct file *last;            \/* Last entry for the same file name.  *\/$/;"	m	struct:file	typeref:struct:file::file
+last_alloca_header	alloca.c	/^static header *last_alloca_header = NULL;    \/* -> last alloca header.  *\/$/;"	v	file:
+last_err	w32/subproc/sub_proc.c	/^    long last_err;$/;"	m	struct:sub_process_t	file:
+last_mtime	filedef.h	/^    FILE_TIMESTAMP last_mtime;    \/* File's modtime, if already known.  *\/$/;"	m	struct:file
+last_nonopt	getopt.c	/^static int last_nonopt;$/;"	v	file:
+last_pattern_rule	rule.c	/^struct rule *last_pattern_rule;$/;"	v	typeref:struct:rule
+last_pattern_var	variable.c	/^static struct pattern_var *last_pattern_var;$/;"	v	typeref:struct:pattern_var	file:
+lastgoal	main.c	/^static struct dep *goals, *lastgoal;$/;"	v	typeref:struct:	file:
+len	function.c	/^    unsigned char len;$/;"	m	struct:function_table_entry	file:
+len	variable.h	/^    unsigned int len;$/;"	m	struct:pattern_var
+length	dir.c	/^    short length;$/;"	m	struct:dirfile	file:
+length	function.c	/^    int length;$/;"	m	struct:a_pattern	file:
+length	function.c	/^    int length;$/;"	m	struct:a_word	file:
+length	variable.h	/^    int length;                    \/* strlen (name) *\/$/;"	m	struct:variable
+lens	rule.h	/^    unsigned int *lens;            \/* Lengths of each target.  *\/$/;"	m	struct:rule
+lerrno	w32/subproc/sub_proc.c	/^    long lerrno;$/;"	m	struct:sub_process_t	file:
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	config/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	doc/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	glob/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	w32/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	config/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	doc/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	glob/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	w32/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libglob_a_AR	glob/Makefile	/^libglob_a_AR = $(AR) $(ARFLAGS)$/;"	m
+libglob_a_LIBADD	glob/Makefile	/^libglob_a_LIBADD =$/;"	m
+libglob_a_OBJECTS	glob/Makefile	/^libglob_a_OBJECTS = $(am_libglob_a_OBJECTS)$/;"	m
+libglob_a_SOURCES	glob/Makefile	/^libglob_a_SOURCES = glob.c glob.h fnmatch.c fnmatch.h$/;"	m
+library_search	remake.c	/^static int library_search(char **lib, FILE_TIMESTAMP * mtime_ptr)$/;"	f	file:
+libw32_a_AR	w32/Makefile	/^libw32_a_AR = $(AR) $(ARFLAGS)$/;"	m
+libw32_a_CPPFLAGS	w32/Makefile	/^libw32_a_CPPFLAGS = -I$(srcdir)\/include -I$(srcdir)\/subproc -I$(top_srcdir)$/;"	m
+libw32_a_LIBADD	w32/Makefile	/^libw32_a_LIBADD =$/;"	m
+libw32_a_OBJECTS	w32/Makefile	/^libw32_a_OBJECTS = $(am_libw32_a_OBJECTS)$/;"	m
+libw32_a_SOURCES	w32/Makefile	/^libw32_a_SOURCES = subproc\/misc.c subproc\/sub_proc.c subproc\/w32err.c \\$/;"	m
+lindex	misc.c	/^char *lindex(const char *s, const char *limit, int c)$/;"	f
+lineno	make.h	/^    unsigned long lineno;$/;"	m	struct:floc
+lines_flags	commands.h	/^    char *lines_flags;            \/* One set of flag bits for each line.  *\/$/;"	m	struct:commands
+link	alloca.c	/^    long link;                    \/* Address of trailer block of previous$/;"	m	struct:stk_trailer	file:
+list	Makefile	/^	list='$(DIST_SUBDIRS)'; for subdir in $$list; do \\$/;"	m
+list	main.c	/^    char **list;                \/* Nil-terminated list of strings.  *\/$/;"	m	struct:stringlist	file:
+load_info	getloadavg.c	/^static struct dg_sys_info_load_info load_info;    \/* what-a-mouthful! *\/$/;"	v	typeref:struct:dg_sys_info_load_info	file:
+load_too_high	job.c	/^static int load_too_high(void)$/;"	f	file:
+loadavg_CPPFLAGS	Makefile	/^loadavg_CPPFLAGS = -DTEST$/;"	m
+loadavg_DEPENDENCIES	Makefile	/^loadavg_DEPENDENCIES =$/;"	m
+loadavg_LDADD	Makefile	/^loadavg_LDADD = $/;"	m
+loadavg_OBJECTS	Makefile	/^loadavg_OBJECTS = $(nodist_loadavg_OBJECTS)$/;"	m
+local_stat	dir.c	/^static int local_stat(const char *path, struct stat *buf)$/;"	f	file:
+local_stat	dir.c	1130;"	d	file:
+localedir	Makefile	/^localedir = $(datadir)\/locale$/;"	m
+localedir	po/Makefile	/^localedir = $(datadir)\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	config/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	doc/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	glob/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	w32/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+log_access	misc.c	/^static void log_access(const char *flavor)$/;"	f	file:
+log_working_directory	main.c	/^void log_working_directory(int entering)$/;"	f
+long_name	main.c	/^    char *long_name;            \/* Long option name.  *\/$/;"	m	struct:command_switch	file:
+long_option_aliases	main.c	/^static struct option long_option_aliases[] = {$/;"	v	typeref:struct:option	file:
+long_options	main.c	/^static struct option long_options[(sizeof(switches) \/ sizeof(switches[0])) + (sizeof(long_option_aliases) \/ sizeof(long_option_aliases[0]))];$/;"	v	typeref:struct:option	file:
+lookup_file	file.c	/^struct file *lookup_file(char *name)$/;"	f
+lookup_function	function.c	/^static const struct function_table_entry *lookup_function(const char *s)$/;"	f	file:
+lookup_pattern_var	variable.c	/^static struct pattern_var *lookup_pattern_var(struct pattern_var *start, char *target)$/;"	f	file:
+lookup_variable	variable.c	/^struct variable *lookup_variable(const char *name, unsigned int length)$/;"	f
+lookup_variable_in_set	variable.c	/^struct variable *lookup_variable_in_set(const char *name, unsigned int length, const struct variable_set *set)$/;"	f
+low_resolution_time	filedef.h	/^    unsigned int low_resolution_time:1;    \/* Nonzero if this file's time stamp$/;"	m	struct:file
+main	ansi2knr.c	/^int main(argc, argv)$/;"	f
+main	arscan.c	/^int main(int argc, char **argv)$/;"	f
+main	getloadavg.c	/^int main(int argc, char **argv)$/;"	f
+main	getopt.c	/^int main(int argc, char **argv)$/;"	f
+main	getopt1.c	/^int main(int argc, char **argv)$/;"	f
+main	main.c	/^int main(int argc, char **argv)$/;"	f
+main_thread	job.c	/^HANDLE main_thread;$/;"	v
+make	build_w32.bat	/^set make=$/;"	v
+make	build_w32.bat	/^set make=gnumake$/;"	v
+make	misc.c	/^{ make, user } current_access;$/;"	e	enum:__anon6	file:
+make_DEPENDENCIES	Makefile	/^make_DEPENDENCIES =   $(am__DEPENDENCIES_1) \\$/;"	m
+make_LDADD	Makefile	/^make_LDADD =   $(GLOBLIB)   \\$/;"	m
+make_OBJECTS	Makefile	/^make_OBJECTS = $(am_make_OBJECTS)$/;"	m
+make_SOURCES	Makefile	/^make_SOURCES = ar.c arscan.c commands.c default.c dir.c expand.c file.c \\$/;"	m
+make_TEXINFOS	doc/Makefile	/^make_TEXINFOS = fdl.texi make-stds.texi$/;"	m
+make_access	misc.c	/^void make_access(void)$/;"	f
+make_command_line	w32/subproc/sub_proc.c	/^static char *make_command_line(char *shell_name, char *full_exec_path, char **argv)$/;"	f	file:
+make_gid	misc.c	/^static int user_uid = -1, user_gid = -1, make_uid = -1, make_gid = -1;$/;"	v	file:
+make_host	version.c	/^char *make_host = MAKE_HOST;$/;"	v
+make_uid	misc.c	/^static int user_uid = -1, user_gid = -1, make_uid = -1, make_gid = -1;$/;"	v	file:
+make_word_type	read.c	/^enum make_word_type$/;"	g	file:
+makefiles	main.c	/^static struct stringlist *makefiles = 0;$/;"	v	typeref:struct:stringlist	file:
+makelevel	main.c	/^unsigned int makelevel;$/;"	v
+malloc	alloca.c	86;"	d	file:
+man1dir	Makefile	/^man1dir = $(mandir)\/man1$/;"	m
+man_MANS	Makefile	/^man_MANS = make.1$/;"	m
+mandir	Makefile	/^mandir = ${prefix}\/man$/;"	m
+mandir	config/Makefile	/^mandir = ${prefix}\/man$/;"	m
+mandir	doc/Makefile	/^mandir = ${prefix}\/man$/;"	m
+mandir	glob/Makefile	/^mandir = ${prefix}\/man$/;"	m
+mandir	w32/Makefile	/^mandir = ${prefix}\/man$/;"	m
+map_windows32_error_to_string	w32/subproc/w32err.c	/^char *$/;"	f
+master_job_slots	main.c	/^static unsigned int master_job_slots = 0;$/;"	v	file:
+matched	function.c	/^    int matched;$/;"	m	struct:a_word	file:
+max	main.c	/^    unsigned int max;            \/* Number of pointers allocated.  *\/$/;"	m	struct:stringlist	file:
+max	tests/test_driver.pl	/^sub max$/;"	s
+max_incl_len	read.c	/^static unsigned int max_incl_len;$/;"	v	file:
+max_load_average	main.c	/^double max_load_average = -1.0;$/;"	v
+max_load_average	main.c	/^int max_load_average = -1;$/;"	v
+max_pattern_dep_length	rule.c	/^unsigned int max_pattern_dep_length;$/;"	v
+max_pattern_deps	rule.c	/^unsigned int max_pattern_deps;$/;"	v
+max_pattern_targets	rule.c	/^unsigned int max_pattern_targets;$/;"	v
+maxc	alloca.c	/^    long maxc;                    \/* Amount of contiguous space which would$/;"	m	struct:stk_stat	file:
+maximum_args	function.c	/^    unsigned char maximum_args;$/;"	m	struct:function_table_entry	file:
+maxlen	vpath.c	/^    unsigned int maxlen;        \/* Maximum length of any entry in the list.  *\/$/;"	m	struct:vpath	file:
+maxs	alloca.c	/^    long maxs;                    \/* Maximum number of stack segments so far.  *\/$/;"	m	struct:stk_stat	file:
+maxsuffix	rule.c	/^unsigned int maxsuffix;$/;"	v
+memcpy	glob/glob.c	163;"	d	file:
+mempcpy	glob/glob.c	176;"	d	file:
+mempcpy	glob/glob.c	177;"	d	file:
+memset	glob/glob.c	166;"	d	file:
+merge_variable_set_lists	variable.c	/^void merge_variable_set_lists(struct variable_set_list **setlist0, struct variable_set_list *setlist1)$/;"	f
+merge_variable_sets	variable.c	/^static void merge_variable_sets(struct variable_set *to_set, struct variable_set *from_set)$/;"	f	file:
+message	misc.c	/^message(int prefix, const char *fmt, ...)$/;"	f
+minimum_args	function.c	/^    unsigned char minimum_args;$/;"	m	struct:function_table_entry	file:
+mkdir_p	Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkdir_p	config/Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkdir_p	doc/Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkdir_p	glob/Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkdir_p	w32/Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/config\/mkinstalldirs$/;"	m
+mkinstalldirs	config/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/config\/mkinstalldirs$/;"	m
+mkinstalldirs	doc/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/config\/mkinstalldirs$/;"	m
+mkinstalldirs	glob/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/config\/mkinstalldirs$/;"	m
+mkinstalldirs	po/Makefile	/^mkinstalldirs = $(SHELL) $(MKINSTALLDIRS)$/;"	m
+mkinstalldirs	w32/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/config\/mkinstalldirs$/;"	m
+msdos_openpipe	function.c	/^FILE *msdos_openpipe(int *pipedes, int *pidp, char *text)$/;"	f
+msdos_return_to_initial_directory	main.c	/^static void msdos_return_to_initial_directory(void)$/;"	f	file:
+mtime	dir.c	/^    int mtime;                    \/* controls check for stale directory cache *\/$/;"	m	struct:directory_contents	file:
+mtime_before_update	filedef.h	/^    FILE_TIMESTAMP mtime_before_update;    \/* File's modtime before any updating$/;"	m	struct:file
+multi_glob	read.c	/^struct nameseq *multi_glob(struct nameseq *chain, unsigned int size)$/;"	f
+my_index	getopt.c	/^static char *my_index(const char *str, int chr)$/;"	f	file:
+my_index	getopt.c	194;"	d	file:
+my_realloc	glob/glob.c	/^static void *my_realloc(void *p, unsigned int n)$/;"	f	file:
+n	ar.c	/^    unsigned int n;$/;"	m	struct:ar_glob_state	file:
+name	dep.h	/^    char *name;$/;"	m	struct:dep
+name	dep.h	/^    char *name;$/;"	m	struct:nameseq
+name	dir.c	/^    char *name;                    \/* Name of the directory.  *\/$/;"	m	struct:directory	file:
+name	dir.c	/^    char *name;                    \/* Name of the file.  *\/$/;"	m	struct:dirfile	file:
+name	filedef.h	/^    char *name;$/;"	m	struct:file
+name	function.c	/^    const char *name;$/;"	m	struct:function_table_entry	file:
+name	getopt.h	/^        const char *name;$/;"	m	struct:option
+name	implicit.c	/^    char *name;                    \/* name of the prerequisite *\/$/;"	m	struct:idep	file:
+name	variable.h	/^    char *name;                    \/* Variable name.  *\/$/;"	m	struct:variable
+name_mtime	remake.c	/^static FILE_TIMESTAMP name_mtime(char *name)$/;"	f	file:
+nameseq	dep.h	/^struct nameseq$/;"	s
+namestate	vmsify.c	/^enum namestate$/;"	g	file:
+ncommand_lines	commands.h	/^    unsigned int ncommand_lines;    \/* Number of command lines.  *\/$/;"	m	struct:commands
+need_2nd_expansion	dep.h	/^    unsigned int need_2nd_expansion:1;$/;"	m	struct:dep
+new_cache	strcache.c	/^static struct strcache *new_cache()$/;"	f	file:
+new_files	main.c	/^static struct stringlist *new_files = 0;$/;"	v	typeref:struct:stringlist	file:
+new_job	job.c	/^void new_job(struct file *file)$/;"	f
+new_pattern_rule	rule.c	/^int new_pattern_rule(struct rule *rule, int override)$/;"	f
+next	alloca.c	/^        union hdr *next;        \/* For chaining headers.  *\/$/;"	m	struct:hdr::__anon1	typeref:union:hdr::__anon1::hdr	file:
+next	dep.h	/^    struct dep *next;$/;"	m	struct:dep	typeref:struct:dep::dep
+next	dep.h	/^    struct nameseq *next;$/;"	m	struct:nameseq	typeref:struct:nameseq::nameseq
+next	function.c	/^    struct a_pattern *next;$/;"	m	struct:a_pattern	typeref:struct:a_pattern::a_pattern	file:
+next	function.c	/^    struct a_word *next;$/;"	m	struct:a_word	typeref:struct:a_word::a_word	file:
+next	implicit.c	/^    struct idep *next;            \/* struct dep -compatible interface *\/$/;"	m	struct:idep	typeref:struct:idep::idep	file:
+next	job.h	/^    struct child *next;            \/* Link in the chain.  *\/$/;"	m	struct:child	typeref:struct:child::child
+next	main.c	/^    struct command_variable *next;$/;"	m	struct:command_variable	typeref:struct:command_variable::command_variable	file:
+next	rule.h	/^    struct rule *next;$/;"	m	struct:rule	typeref:struct:rule::rule
+next	strcache.c	/^    struct strcache *next;        \/* The next block of strings.  *\/$/;"	m	struct:strcache	typeref:struct:strcache::strcache	file:
+next	variable.h	/^    struct pattern_var *next;$/;"	m	struct:pattern_var	typeref:struct:pattern_var::pattern_var
+next	variable.h	/^    struct variable_set_list *next;    \/* Link in the chain.  *\/$/;"	m	struct:variable_set_list	typeref:struct:variable_set_list::variable_set_list
+next	vpath.c	/^    struct vpath *next;            \/* Pointer to next struct in the linked list.  *\/$/;"	m	struct:vpath	typeref:struct:vpath::vpath	file:
+next_brace_sub	glob/glob.c	/^const char *next_brace_sub(begin)$/;"	f	file:
+next_token	misc.c	/^char *next_token(const char *s)$/;"	f
+nextchar	getopt.c	/^static char *nextchar;$/;"	v	file:
+ngettext	gettext.h	37;"	d
+nl	getloadavg.c	/^static struct nlist nl[2];$/;"	v	typeref:struct:nlist	file:
+no_argument	getopt.h	98;"	d
+no_builtin_rules_flag	main.c	/^int no_builtin_rules_flag = 0;$/;"	v
+no_builtin_variables_flag	main.c	/^int no_builtin_variables_flag = 0;$/;"	v
+no_default_sh_exe	job.c	/^int no_default_sh_exe = 1;$/;"	v
+no_makefile	main.c	/^    unsigned int no_makefile:1;    \/* Don't propagate when remaking makefiles.  *\/$/;"	m	struct:command_switch	file:
+noarg_value	main.c	/^    char *noarg_value;            \/* Pointer to value used if no argument is given.  *\/$/;"	m	struct:command_switch	file:
+nodist_loadavg_OBJECTS	Makefile	/^nodist_loadavg_OBJECTS = loadavg-getloadavg$U.$(OBJEXT)$/;"	m
+nodist_loadavg_SOURCES	Makefile	/^nodist_loadavg_SOURCES = getloadavg.c$/;"	m
+noerror	job.h	/^    unsigned int noerror:1;        \/* Nonzero if commands contained a `-'.  *\/$/;"	m	struct:child
+noinst_HEADERS	Makefile	/^noinst_HEADERS = commands.h dep.h filedef.h job.h make.h rule.h variable.h \\$/;"	m
+noinst_LIBRARIES	w32/Makefile	/^noinst_LIBRARIES = libw32.a$/;"	m
+nonoption_flags_len	getopt.c	/^static int nonoption_flags_len;$/;"	v	file:
+nonoption_flags_max_len	getopt.c	/^static int nonoption_flags_max_len;$/;"	v	file:
+normalized_cwd	remote-cstms.c	/^static char *normalized_cwd;$/;"	v	file:
+not_parallel	main.c	/^int not_parallel;$/;"	v
+notice_finished_file	remake.c	/^void notice_finished_file(struct file *file)$/;"	f
+now	alloca.c	/^    long now;                    \/* Current total stack size.  *\/$/;"	m	struct:stk_stat	file:
+num_abbrev	signame.c	/^} num_abbrev;$/;"	t	typeref:struct:__anon7	file:
+num_pattern_rules	rule.c	/^unsigned int num_pattern_rules;$/;"	v
+num_suffix	tests/test_driver.pl	/^sub num_suffix$/;"	s
+number	signame.c	/^    int number;$/;"	m	struct:__anon7	file:
+o_automatic	variable.h	/^    o_automatic,                \/* Automatic variable -- cannot be set.  *\/$/;"	e	enum:variable_origin
+o_command	variable.h	/^    o_command,                    \/* Variable given by user.  *\/$/;"	e	enum:variable_origin
+o_default	variable.h	/^    o_default,                    \/* Variable from the default set.  *\/$/;"	e	enum:variable_origin
+o_env	variable.h	/^    o_env,                        \/* Variable from environment.  *\/$/;"	e	enum:variable_origin
+o_env_override	variable.h	/^    o_env_override,                \/* Variable from environment, if -e.  *\/$/;"	e	enum:variable_origin
+o_file	variable.h	/^    o_file,                        \/* Variable given in a makefile.  *\/$/;"	e	enum:variable_origin
+o_invalid	variable.h	/^    o_invalid                    \/* Core dump time.  *\/$/;"	e	enum:variable_origin
+o_override	variable.h	/^    o_override,                    \/* Variable from an `override' directive.  *\/$/;"	e	enum:variable_origin
+offset	getloadavg.c	/^static long offset;$/;"	v	file:
+oldCtrlMask	vmsjobs.c	/^static int oldCtrlMask;$/;"	v	file:
+old_files	main.c	/^static struct stringlist *old_files = 0;$/;"	v	typeref:struct:stringlist	file:
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	config/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	doc/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	glob/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	w32/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+open_directories	dir.c	/^static unsigned int open_directories = 0;$/;"	v	file:
+open_dirstream	dir.c	/^static __ptr_t open_dirstream(const char *directory)$/;"	f	file:
+open_tmpfile	main.c	/^FILE *open_tmpfile(char **name, const char *template)$/;"	f
+opendir	configure	/^opendir ();$/;"	f
+opendir	glob/glob.c	242;"	d	file:
+opendir	vmsfunctions.c	/^DIR *opendir(char *dspec)$/;"	f
+opendir	w32/compat/dirent.c	/^    $/;"	f
+optarg	getopt.c	/^char *optarg = NULL;$/;"	v
+opterr	getopt.c	/^int opterr = 1;$/;"	v
+optind	getopt.c	/^int optind = 1;$/;"	v
+option	getopt.h	/^    struct option$/;"	s
+optional_argument	getopt.h	100;"	d
+options	main.c	/^static char options[1 + sizeof(switches) \/ sizeof(switches[0]) * 3];$/;"	v	file:
+optopt	getopt.c	/^int optopt = '?';$/;"	v
+ordering	getopt.c	/^} ordering;$/;"	v	typeref:enum:__anon2	file:
+original_argc	getopt.c	/^static int original_argc;$/;"	v	file:
+original_argv	getopt.c	/^static char *const *original_argv;$/;"	v	file:
+outcnt	w32/subproc/sub_proc.c	/^    volatile DWORD outcnt;$/;"	m	struct:sub_process_t	file:
+outp	w32/subproc/sub_proc.c	/^    char *volatile outp;$/;"	m	struct:sub_process_t	file:
+overflows	alloca.c	/^    long overflows;                \/* Number of stack overflow ($STKOFEN) calls.  *\/$/;"	m	struct:stk_stat	file:
+pad_size	alloca.c	/^    long pad_size;                \/* Stack pad size.  *\/$/;"	m	struct:stk_stat	file:
+parent	filedef.h	/^    struct file *parent;$/;"	m	struct:file	typeref:struct:file::file
+parse_command_line	tests/test_driver.pl	/^sub parse_command_line$/;"	s
+parse_file_seq	read.c	/^struct nameseq *parse_file_seq(char **stringp, int stopchar, unsigned int size, int strip)$/;"	f
+parse_prereqs	file.c	/^struct dep *parse_prereqs(char *p)$/;"	f
+parse_variable_definition	variable.c	/^struct variable *parse_variable_definition(struct variable *v, char *line)$/;"	f
+pat_searched	filedef.h	/^    unsigned int pat_searched:1;    \/* Nonzero if we already searched for$/;"	m	struct:file
+pat_variables	filedef.h	/^    struct variable_set_list *pat_variables;$/;"	m	struct:file	typeref:struct:file::variable_set_list
+path_key	dir.c	/^    char *path_key;$/;"	m	struct:directory_contents	file:
+patlen	vpath.c	/^    unsigned int patlen;        \/* Length of the pattern.  *\/$/;"	m	struct:vpath	file:
+patsubst_expand	function.c	/^char *patsubst_expand(char *o, char *text, char *pattern, char *replace, char *pattern_percent, char *replace_percent)$/;"	f
+pattern	ar.c	/^    char *pattern;$/;"	m	struct:ar_glob_state	file:
+pattern	vpath.c	/^    char *pattern;                \/* The pattern to match.  *\/$/;"	m	struct:vpath	file:
+pattern_matches	function.c	/^int pattern_matches(char *pattern, char *percent, char *str)$/;"	f
+pattern_rules	rule.c	/^struct rule *pattern_rules;$/;"	v	typeref:struct:rule
+pattern_search	implicit.c	/^static int pattern_search(struct file *file, int archive, unsigned int depth, unsigned int recursions)$/;"	f	file:
+pattern_var	variable.h	/^struct pattern_var$/;"	s
+pattern_vars	variable.c	/^static struct pattern_var *pattern_vars;$/;"	v	typeref:struct:pattern_var	file:
+per_target	variable.h	/^    unsigned int per_target:1;    \/* Nonzero if a target-specific variable.  *\/$/;"	m	struct:variable
+percent	function.c	/^    char *percent;$/;"	m	struct:a_pattern	file:
+percent	vpath.c	/^    char *percent;                \/* Pointer into `pattern' where the `%' is.  *\/$/;"	m	struct:vpath	file:
+permit	remote-cstms.c	/^static ExportPermit permit;$/;"	v	file:
+perror_with_name	misc.c	/^void perror_with_name(const char *str, const char *name)$/;"	f
+pfatal_with_name	misc.c	/^void pfatal_with_name(const char *name)$/;"	f
+phony	filedef.h	/^    unsigned int phony:1;        \/* Nonzero if this is a phony file$/;"	m	struct:file
+pid	job.h	/^    pid_t pid;                    \/* Child process's ID number.  *\/$/;"	m	struct:child
+pid	w32/subproc/sub_proc.c	/^    int pid;$/;"	m	struct:sub_process_t	file:
+pidToAbort	vmsjobs.c	/^static int pidToAbort = 0;$/;"	v	file:
+pipe	make.h	364;"	d
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/make$/;"	m
+pkgdatadir	config/Makefile	/^pkgdatadir = $(datadir)\/make$/;"	m
+pkgdatadir	doc/Makefile	/^pkgdatadir = $(datadir)\/make$/;"	m
+pkgdatadir	glob/Makefile	/^pkgdatadir = $(datadir)\/make$/;"	m
+pkgdatadir	w32/Makefile	/^pkgdatadir = $(datadir)\/make$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/make$/;"	m
+pkgincludedir	config/Makefile	/^pkgincludedir = $(includedir)\/make$/;"	m
+pkgincludedir	doc/Makefile	/^pkgincludedir = $(includedir)\/make$/;"	m
+pkgincludedir	glob/Makefile	/^pkgincludedir = $(includedir)\/make$/;"	m
+pkgincludedir	w32/Makefile	/^pkgincludedir = $(includedir)\/make$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/make$/;"	m
+pkglibdir	config/Makefile	/^pkglibdir = $(libdir)\/make$/;"	m
+pkglibdir	doc/Makefile	/^pkglibdir = $(libdir)\/make$/;"	m
+pkglibdir	glob/Makefile	/^pkglibdir = $(libdir)\/make$/;"	m
+pkglibdir	w32/Makefile	/^pkglibdir = $(libdir)\/make$/;"	m
+pointer	alloca.c	/^typedef char *pointer;$/;"	t	file:
+pointer	alloca.c	/^typedef void *pointer;$/;"	t	file:
+pop_variable_scope	variable.c	/^void pop_variable_scope(void)$/;"	f
+positive_int	main.c	/^        positive_int,            \/* A positive integer.  *\/$/;"	e	enum:command_switch::__anon5	file:
+posix_pedantic	main.c	/^int posix_pedantic;$/;"	v
+posixly_correct	getopt.c	/^static char *posixly_correct;$/;"	v	file:
+ppdirbackward	ansi2knr.c	/^char *ppdirbackward(p, limit)$/;"	f
+ppdirforward	ansi2knr.c	/^char *ppdirforward(p)$/;"	f
+precious	filedef.h	/^    unsigned int precious:1;    \/* Non-0 means don't delete file on quit *\/$/;"	m	struct:file
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	config/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	doc/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	glob/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	po/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	w32/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix_array	glob/glob.c	/^static int prefix_array(dirname, array, n)$/;"	f	file:
+prev	filedef.h	/^    struct file *prev;            \/* Previous entry for same file name;$/;"	m	struct:file	typeref:struct:file::file
+print_banner	tests/test_driver.pl	/^sub print_banner$/;"	s
+print_centered	tests/test_driver.pl	/^sub print_centered$/;"	s
+print_commands	commands.c	/^void print_commands(struct commands *cmds)$/;"	f
+print_data_base	main.c	/^static void print_data_base()$/;"	f	file:
+print_data_base_flag	main.c	/^int print_data_base_flag = 0;$/;"	v
+print_dir_data_base	dir.c	/^void print_dir_data_base(void)$/;"	f
+print_directory_flag	main.c	/^int print_directory_flag = 0;$/;"	v
+print_file	file.c	/^static void print_file(const void *item)$/;"	f	file:
+print_file_data_base	file.c	/^void print_file_data_base(void)$/;"	f
+print_file_variables	variable.c	/^void print_file_variables(struct file *file)$/;"	f
+print_help	tests/run_make_tests.pl	/^sub print_help$/;"	s
+print_rule	rule.c	/^print_rule(struct rule *r)$/;"	f	file:
+print_rule_data_base	rule.c	/^void print_rule_data_base(void)$/;"	f
+print_spaces	misc.c	/^void print_spaces(unsigned int n)$/;"	f
+print_standard_help	tests/test_driver.pl	/^sub print_standard_help$/;"	s
+print_standard_usage	tests/test_driver.pl	/^sub print_standard_usage$/;"	s
+print_usage	main.c	/^static void print_usage(int bad)$/;"	f	file:
+print_usage	tests/run_make_tests.pl	/^sub print_usage$/;"	s
+print_usage_flag	main.c	/^static int print_usage_flag = 0;$/;"	v	file:
+print_variable	variable.c	/^static void print_variable(const void *item, void *arg)$/;"	f	file:
+print_variable_data_base	variable.c	/^void print_variable_data_base(void)$/;"	f
+print_variable_set	variable.c	/^void print_variable_set(struct variable_set *set, char *prefix)$/;"	f
+print_version	main.c	/^static void print_version(void)$/;"	f	file:
+print_version_flag	main.c	/^int print_version_flag = 0;$/;"	v
+print_vpath_data_base	vpath.c	/^void print_vpath_data_base(void)$/;"	f
+proc_array	w32/subproc/sub_proc.c	/^static sub_process *proc_array[MAXIMUM_WAIT_OBJECTS];$/;"	v	file:
+proc_index	w32/subproc/sub_proc.c	/^static int proc_index = 0;$/;"	v	file:
+proc_stderr_thread	w32/subproc/sub_proc.c	/^static DWORD proc_stderr_thread(sub_process * pproc)$/;"	f	file:
+proc_stdin_thread	w32/subproc/sub_proc.c	/^static DWORD proc_stdin_thread(sub_process * pproc)$/;"	f	file:
+proc_stdout_thread	w32/subproc/sub_proc.c	/^static DWORD proc_stdout_thread(sub_process * pproc)$/;"	f	file:
+process_adjust_wait_state	w32/subproc/sub_proc.c	/^static void process_adjust_wait_state(sub_process * pproc)$/;"	f	file:
+process_begin	w32/subproc/sub_proc.c	/^long process_begin(HANDLE proc, char **argv, char **envp, char *exec_path, char *as_user)$/;"	f
+process_cleanup	w32/subproc/sub_proc.c	/^void process_cleanup(HANDLE proc)$/;"	f
+process_easy	w32/subproc/sub_proc.c	/^HANDLE process_easy(char **argv, char **envp)$/;"	f
+process_exit_code	w32/subproc/sub_proc.c	/^long process_exit_code(HANDLE proc)$/;"	f
+process_file_io	w32/subproc/sub_proc.c	/^long process_file_io(HANDLE proc)$/;"	f
+process_init	w32/subproc/sub_proc.c	/^HANDLE process_init()$/;"	f
+process_init_fd	w32/subproc/sub_proc.c	/^HANDLE process_init_fd(HANDLE stdinh, HANDLE stdouth, HANDLE stderrh)$/;"	f
+process_kill	w32/subproc/sub_proc.c	/^BOOL process_kill(HANDLE proc, int signal)$/;"	f
+process_last_err	w32/subproc/sub_proc.c	/^long process_last_err(HANDLE proc)$/;"	f
+process_pipe_io	w32/subproc/sub_proc.c	/^long process_pipe_io(HANDLE proc, char *stdin_data, int stdin_data_len)$/;"	f
+process_register	w32/subproc/sub_proc.c	/^void process_register(HANDLE proc)$/;"	f
+process_signal	w32/subproc/sub_proc.c	/^long process_signal(HANDLE proc)$/;"	f
+process_used_slots	w32/subproc/sub_proc.c	/^int process_used_slots(void)$/;"	f
+process_wait_for_any	w32/subproc/sub_proc.c	/^HANDLE process_wait_for_any(void)$/;"	f
+process_wait_for_any_private	w32/subproc/sub_proc.c	/^static sub_process *process_wait_for_any_private(void)$/;"	f	file:
+program	main.c	/^char *program;$/;"	v
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	config/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	doc/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	glob/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	w32/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+pspec	rule.h	/^struct pspec$/;"	s
+push_new_variable_scope	variable.c	/^struct variable_set_list *push_new_variable_scope(void)$/;"	f
+qsort_cmp_t	hash.h	/^typedef int (*qsort_cmp_t) __P((void const *, void const *));$/;"	t
+question_flag	main.c	/^int question_flag = 0;$/;"	v
+quote_for_env	main.c	/^static char *quote_for_env(char *out, char *in)$/;"	f	file:
+reEnableAst	vmsjobs.c	/^static void reEnableAst(void)$/;"	f	file:
+read_all_makefiles	read.c	/^struct dep *read_all_makefiles(char **makefiles)$/;"	f
+read_dirstream	dir.c	/^static struct dirent *read_dirstream(__ptr_t stream)$/;"	f	file:
+read_file_into_string	tests/test_driver.pl	/^sub read_file_into_string$/;"	s
+read_makefiles	read.c	/^static struct dep *read_makefiles = 0;$/;"	v	typeref:struct:dep	file:
+readdir	glob/glob.c	243;"	d	file:
+readdir	vmsfunctions.c	/^struct direct *readdir(DIR * dir)$/;"	f
+readdir	w32/compat/dirent.c	/^$/;"	f
+reading_file	read.c	/^const struct floc *reading_file = 0;$/;"	v	typeref:struct:floc
+readline	read.c	/^static long readline(struct ebuffer *ebuf)$/;"	f	file:
+readstring	read.c	/^static unsigned long readstring(struct ebuffer *ebuf)$/;"	f	file:
+realloc	glob/glob.c	200;"	d	file:
+reap_children	job.c	/^void reap_children(int block, int err)$/;"	f
+rebuilding_makefiles	main.c	/^int rebuilding_makefiles = 0;$/;"	v
+record_files	read.c	/^static void record_files(struct nameseq *filenames, char *pattern, char *pattern_percent, struct dep *deps, unsigned int cmds_started, char *commands, unsigned int commands_idx, int two_colon, const struct floc *flocp)$/;"	f	file:
+record_target_var	read.c	/^static void record_target_var(struct nameseq *filenames, char *defn, enum variable_origin origin, int exported, const struct floc *flocp)$/;"	f	file:
+record_waiting_files	read.c	449;"	d	file:
+recursive	variable.h	/^    unsigned int recursive:1;    \/* Gets recursively re-evaluated.  *\/$/;"	m	struct:variable
+recursively_expand	variable.h	129;"	d
+recursively_expand_for_file	expand.c	/^char *recursively_expand_for_file(struct variable *v, struct file *file)$/;"	f
+reference_variable	expand.c	/^static char *reference_variable(char *o, char *name, unsigned int length)$/;"	f	file:
+rehash_file	file.c	/^void rehash_file(struct file *from_file, char *to_hname)$/;"	f
+remake_file	remake.c	/^static void remake_file(struct file *file)$/;"	f	file:
+remote	Makefile	/^remote = remote-stub.c$/;"	m
+remote	job.h	/^    unsigned int remote:1;        \/* Nonzero if executing remotely.  *\/$/;"	m	struct:child
+remote_cleanup	remote-cstms.c	/^void remote_cleanup(void)$/;"	f
+remote_cleanup	remote-stub.c	/^void remote_cleanup(void)$/;"	f
+remote_description	remote-cstms.c	/^char *remote_description = "Customs";$/;"	v
+remote_description	remote-stub.c	/^char *remote_description = 0;$/;"	v
+remote_kill	remote-cstms.c	/^int remote_kill(int id, int sig)$/;"	f
+remote_kill	remote-stub.c	/^int remote_kill(int id UNUSED, int sig UNUSED)$/;"	f
+remote_setup	remote-cstms.c	/^void remote_setup(void)$/;"	f
+remote_setup	remote-stub.c	/^void remote_setup(void)$/;"	f
+remote_status	remote-cstms.c	/^int remote_status(int *exit_code_ptr, int *signal_ptr, int *coredump_ptr, int block)$/;"	f
+remote_status	remote-stub.c	/^int remote_status(int *exit_code_ptr UNUSED, int *signal_ptr UNUSED, int *coredump_ptr UNUSED, int block UNUSED)$/;"	f
+remove_comments	read.c	/^static void remove_comments(char *line)$/;"	f	file:
+remove_directory_tree	tests/test_driver.pl	/^sub remove_directory_tree$/;"	s
+remove_directory_tree_inner	tests/test_driver.pl	/^sub remove_directory_tree_inner$/;"	s
+remove_intermediates	file.c	/^void remove_intermediates(int sig)$/;"	f
+rename_file	file.c	/^void rename_file(struct file *from_file, char *to_hname)$/;"	f
+renamed	filedef.h	/^    struct file *renamed;$/;"	m	struct:file	typeref:struct:file::file
+required_argument	getopt.h	99;"	d
+resetENV	tests/test_driver.pl	/^sub resetENV$/;"	s
+restore_conditionals	read.c	/^static void restore_conditionals(struct conditionals *saved)$/;"	f	file:
+restore_variable_buffer	expand.c	/^void restore_variable_buffer(char *buf, unsigned int len)$/;"	f
+return_ADDRESS_COMPARE	hash.h	227;"	d
+return_ADDRESS_HASH_1	hash.h	225;"	d
+return_ADDRESS_HASH_2	hash.h	226;"	d
+return_INTEGER_COMPARE	hash.h	214;"	d
+return_INTEGER_HASH_1	hash.h	196;"	d
+return_INTEGER_HASH_2	hash.h	205;"	d
+return_ISTRING_COMPARE	hash.h	174;"	d
+return_ISTRING_COMPARE	hash.h	187;"	d
+return_ISTRING_HASH_1	hash.h	154;"	d
+return_ISTRING_HASH_1	hash.h	181;"	d
+return_ISTRING_HASH_2	hash.h	165;"	d
+return_ISTRING_HASH_2	hash.h	184;"	d
+return_STRING_COMPARE	hash.h	106;"	d
+return_STRING_HASH_1	hash.h	86;"	d
+return_STRING_HASH_2	hash.h	97;"	d
+return_STRING_N_COMPARE	hash.h	141;"	d
+return_STRING_N_HASH_1	hash.h	118;"	d
+return_STRING_N_HASH_2	hash.h	132;"	d
+rewinddir	vmsdir.h	71;"	d
+rewinddir	w32/compat/dirent.c	/^$/;"	f
+rmfiles	tests/test_driver.pl	/^sub rmfiles$/;"	s
+round_up_2	hash.c	/^static unsigned long round_up_2(unsigned long n)$/;"	f	file:
+rule	rule.h	/^struct rule$/;"	s
+run_command	tests/test_driver.pl	/^sub run_command$/;"	s
+run_command_with_output	tests/test_driver.pl	/^sub run_command_with_output$/;"	s
+run_each_test	tests/test_driver.pl	/^sub run_each_test$/;"	s
+run_make_test	tests/run_make_tests.pl	/^sub run_make_test$/;"	s
+run_make_with_options	tests/run_make_tests.pl	/^sub run_make_with_options {$/;"	s
+samples	getloadavg.c	/^static unsigned int samples;$/;"	v	file:
+save_c	function.c	/^    int save_c;$/;"	m	struct:a_pattern	file:
+savestring	misc.c	/^char *savestring(const char *str, unsigned int length)$/;"	f
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	config/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	doc/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	glob/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	w32/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+scanstring	ansi2knr.c	/^char *scanstring(p, dir)$/;"	f
+searchpath	vpath.c	/^    char **searchpath;            \/* Null-terminated list of directories.  *\/$/;"	m	struct:vpath	file:
+second_expansion	main.c	/^int second_expansion;$/;"	v
+secondary	filedef.h	/^    unsigned int secondary:1;    \/* Nonzero means remove_intermediates should$/;"	m	struct:file
+seekdir	w32/compat/dirent.c	/^$/;"	f
+seen_else	read.c	/^    char *seen_else;            \/* Have we already seen an `else'?  *\/$/;"	m	struct:conditionals	file:
+segments	alloca.c	/^    long segments;                \/* Current number of stack segments.  *\/$/;"	m	struct:stk_stat	file:
+selective_vpath_search	vpath.c	/^static int selective_vpath_search(struct vpath *path, char **file, FILE_TIMESTAMP * mtime_ptr)$/;"	f	file:
+set	variable.h	/^    struct variable_set *set;    \/* Variable set.  *\/$/;"	m	struct:variable_set_list	typeref:struct:variable_set_list::variable_set
+set_child_handler_action_flags	job.c	/^static void set_child_handler_action_flags(int set_handler, int set_alarm)$/;"	f	file:
+set_command_state	file.c	/^void set_command_state(struct file *file, enum cmd_state state)$/;"	f
+set_default_suffixes	default.c	/^void set_default_suffixes(void)$/;"	f
+set_defaults	tests/run_make_tests.pl	/^sub set_defaults$/;"	s
+set_file_variables	commands.c	/^void set_file_variables(struct file *file)$/;"	f
+set_intermediate	file.c	/^static void set_intermediate(const void *item)$/;"	f	file:
+set_more_defaults	tests/run_make_tests.pl	/^sub set_more_defaults$/;"	s
+setlocale	getloadavg.c	105;"	d	file:
+setlocale	make.h	338;"	d
+setupYAstTried	vmsjobs.c	/^static int setupYAstTried = 0;$/;"	v	file:
+setup_for_test	tests/run_make_tests.pl	/^sub setup_for_test$/;"	s
+sh_batch_file	job.h	/^    char *sh_batch_file;        \/* Script file for shell commands *\/$/;"	m	struct:child
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	config/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	doc/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	glob/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	w32/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+shaseg	alloca.c	/^    long shaseg:32;                \/* Size of increments to stack.  *\/$/;"	m	struct:stack_control_header	file:
+shell_function_completed	function.c	/^int shell_function_pid = 0, shell_function_completed;$/;"	v
+shell_function_pid	function.c	/^int shell_function_pid = 0, shell_function_completed;$/;"	v
+shell_var	main.c	/^struct variable shell_var;$/;"	v	typeref:struct:variable
+shgrow	alloca.c	/^    long shgrow:32;                \/* Number of times stack has grown.  *\/$/;"	m	struct:stack_control_header	file:
+shhwm	alloca.c	/^    long shhwm:32;                \/* High water mark of stack.  *\/$/;"	m	struct:stack_control_header	file:
+short_option	main.c	123;"	d	file:
+showall	vmsify.c	/^static char *showall(char *s)$/;"	f	file:
+shsize	alloca.c	/^    long shsize:32;                \/* Current size of stack (all segments).  *\/$/;"	m	struct:stack_control_header	file:
+sig_table	signame.c	/^static num_abbrev sig_table[SIG_TABLE_SIZE];$/;"	v	file:
+sig_table_nelts	signame.c	/^static int sig_table_nelts = 0;$/;"	v	file:
+sigmask	make.h	122;"	d
+signal	make.h	58;"	d
+signal	w32/subproc/sub_proc.c	/^    int signal;$/;"	m	struct:sub_process_t	file:
+signame_init	signame.c	/^static int signame_init(void)$/;"	f	file:
+silent_flag	main.c	/^int silent_flag;$/;"	v
+size	ar.c	/^    unsigned int size;$/;"	m	struct:ar_glob_state	file:
+size	read.c	/^    unsigned int size;            \/* Malloc'd size of buffer. *\/$/;"	m	struct:ebuffer	file:
+size_t	glob/glob.c	252;"	d	file:
+size_t	glob/glob.c	253;"	d	file:
+skipspace	ansi2knr.c	/^char *skipspace(p, dir)$/;"	f
+snap_deps	file.c	/^void snap_deps(void)$/;"	f
+snapped_deps	file.c	/^int snapped_deps = 0;$/;"	v
+socket	configure	/^socket ();$/;"	f
+special	variable.h	/^    unsigned int special:1;        \/* Nonzero if this is a special variable. *\/$/;"	m	struct:variable
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	config/Makefile	/^srcdir = .$/;"	m
+srcdir	doc/Makefile	/^srcdir = .$/;"	m
+srcdir	glob/Makefile	/^srcdir = .$/;"	m
+srcdir	po/Makefile	/^srcdir = .$/;"	m
+srcdir	w32/Makefile	/^srcdir = .$/;"	m
+ss	alloca.c	/^    long ss[0200];                \/* 0200 overflow words.  *\/$/;"	m	struct:stack_segment_linkage	file:
+ssa0	alloca.c	/^    long ssa0;$/;"	m	struct:stack_segment_linkage	file:
+ssa1	alloca.c	/^    long ssa1;$/;"	m	struct:stack_segment_linkage	file:
+ssa2	alloca.c	/^    long ssa2;$/;"	m	struct:stack_segment_linkage	file:
+ssa3	alloca.c	/^    long ssa3;$/;"	m	struct:stack_segment_linkage	file:
+ssa4	alloca.c	/^    long ssa4;$/;"	m	struct:stack_segment_linkage	file:
+ssa5	alloca.c	/^    long ssa5;$/;"	m	struct:stack_segment_linkage	file:
+ssa6	alloca.c	/^    long ssa6;$/;"	m	struct:stack_segment_linkage	file:
+ssa7	alloca.c	/^    long ssa7;$/;"	m	struct:stack_segment_linkage	file:
+ssbase	alloca.c	/^    long ssbase:32;                \/* Offset to stack base.  *\/$/;"	m	struct:stack_segment_linkage	file:
+sscray	alloca.c	/^    long sscray[7];                \/* Reserved for Cray Research.  *\/$/;"	m	struct:stack_segment_linkage	file:
+sscsnm	alloca.c	/^    long sscsnm;                \/* Private control structure number for$/;"	m	struct:stack_segment_linkage	file:
+ssgvup	alloca.c	/^    long ssgvup;                \/* Pointer to multitasking thread giveup.  *\/$/;"	m	struct:stack_segment_linkage	file:
+sspseg	alloca.c	/^    long sspseg:32;                \/* Offset to linkage control of previous$/;"	m	struct:stack_segment_linkage	file:
+sss0	alloca.c	/^    long sss0;$/;"	m	struct:stack_segment_linkage	file:
+sss1	alloca.c	/^    long sss1;$/;"	m	struct:stack_segment_linkage	file:
+sss2	alloca.c	/^    long sss2;$/;"	m	struct:stack_segment_linkage	file:
+sss3	alloca.c	/^    long sss3;$/;"	m	struct:stack_segment_linkage	file:
+sss4	alloca.c	/^    long sss4;$/;"	m	struct:stack_segment_linkage	file:
+sss5	alloca.c	/^    long sss5;$/;"	m	struct:stack_segment_linkage	file:
+sss6	alloca.c	/^    long sss6;$/;"	m	struct:stack_segment_linkage	file:
+sss7	alloca.c	/^    long sss7;$/;"	m	struct:stack_segment_linkage	file:
+sssize	alloca.c	/^    long sssize:32;                \/* Number of words in this segment.  *\/$/;"	m	struct:stack_segment_linkage	file:
+sstcpt	alloca.c	/^    long sstcpt:32;                \/* Pointer to task common address block.  *\/$/;"	m	struct:stack_segment_linkage	file:
+sstpid	alloca.c	/^    long sstpid;                \/* Process ID for pid based multi-tasking.  *\/$/;"	m	struct:stack_segment_linkage	file:
+ssusr1	alloca.c	/^    long ssusr1;                \/* Reserved for user.  *\/$/;"	m	struct:stack_segment_linkage	file:
+ssusr2	alloca.c	/^    long ssusr2;                \/* Reserved for user.  *\/$/;"	m	struct:stack_segment_linkage	file:
+stack_control_header	alloca.c	/^struct stack_control_header$/;"	s	file:
+stack_dir	alloca.c	/^static int stack_dir;            \/* 1 or -1 once known.  *\/$/;"	v	file:
+stack_segment_linkage	alloca.c	/^struct stack_segment_linkage$/;"	s	file:
+start_job_command	job.c	/^static void start_job_command(struct child *child)$/;"	f	file:
+start_remote_job	remote-cstms.c	/^int start_remote_job(char **argv, char **envp, int stdin_fd, int *is_remote, int *id_ptr, int *used_stdin)$/;"	f
+start_remote_job	remote-stub.c	/^int start_remote_job(char **argv UNUSED, char **envp UNUSED, int stdin_fd UNUSED, int *is_remote UNUSED, int *id_ptr UNUSED, int *used_stdin UNUSED)$/;"	f
+start_remote_job_p	remote-cstms.c	/^int start_remote_job_p(int first_p)$/;"	f
+start_remote_job_p	remote-stub.c	/^int start_remote_job_p(int first_p UNUSED)$/;"	f
+start_updating	remake.c	48;"	d	file:
+start_waiting_job	job.c	/^static int start_waiting_job(struct child *c)$/;"	f	file:
+start_waiting_jobs	job.c	/^void start_waiting_jobs(void)$/;"	f
+starting_directory	main.c	/^char *starting_directory;$/;"	v
+staticpattern	dep.h	/^    unsigned int staticpattern:1;$/;"	m	struct:dep
+stem	dep.h	/^    char *stem;$/;"	m	struct:dep
+stem	filedef.h	/^    char *stem;                    \/* Implicit stem, if an implicit$/;"	m	struct:file
+stk_stat	alloca.c	/^struct stk_stat$/;"	s	file:
+stk_trailer	alloca.c	/^struct stk_trailer$/;"	s	file:
+stkm_free	alloca.c	/^    long stkm_free;                \/* Number of deallocations by $STKMRET.  *\/$/;"	m	struct:stk_stat	file:
+stko_free	alloca.c	/^    long stko_free;                \/* Number of deallocations by $STKRETN.  *\/$/;"	m	struct:stk_stat	file:
+stko_mallocs	alloca.c	/^    long stko_mallocs;            \/* Block allocations by $STKOFEN.  *\/$/;"	m	struct:stk_stat	file:
+store_args_and_env	getopt.c	/^static void __attribute__ ((unused)) store_args_and_env(int argc, char *const *argv)$/;"	f	file:
+str	function.c	/^    char *str;$/;"	m	struct:a_pattern	file:
+str	function.c	/^    char *str;$/;"	m	struct:a_word	file:
+str_hash_1	strcache.c	/^static unsigned long str_hash_1(const void *key)$/;"	f	file:
+str_hash_2	strcache.c	/^static unsigned long str_hash_2(const void *key)$/;"	f	file:
+str_hash_cmp	strcache.c	/^static int str_hash_cmp(const void *x, const void *y)$/;"	f	file:
+strcache	strcache.c	/^static struct strcache *strcache = NULL;$/;"	v	typeref:struct:strcache	file:
+strcache	strcache.c	/^struct strcache$/;"	s	file:
+strcache_add	strcache.c	/^const char *strcache_add(const char *str)$/;"	f
+strcache_add_len	strcache.c	/^const char *strcache_add_len(const char *str, int len)$/;"	f
+strcache_init	strcache.c	/^void strcache_init(void)$/;"	f
+strcache_iscached	strcache.c	/^int strcache_iscached(const char *str)$/;"	f
+strcache_print_stats	strcache.c	/^void strcache_print_stats(const char *prefix)$/;"	f
+strcache_setbufsize	strcache.c	/^int strcache_setbufsize(int size)$/;"	f
+strcasecmp	configure	/^strcasecmp ();$/;"	f
+strcasecmp	make.h	560;"	d
+strchr	make.h	261;"	d
+strcmpi	vmsfunctions.c	/^int strcmpi(const char *s1, const char *s2)$/;"	f
+strcoll	glob/glob.c	171;"	d	file:
+strdup	glob/glob.c	238;"	d	file:
+strdup	glob/glob.c	239;"	d	file:
+streq	make.h	305;"	d
+streq	make.h	319;"	d
+strerror	configure	/^strerror ();$/;"	f
+strerror	make.h	276;"	d
+strerror	misc.c	/^char *strerror(int errnum)$/;"	f
+strerror	misc.c	286;"	d	file:
+strieq	make.h	310;"	d
+strieq	make.h	315;"	d
+strieq	make.h	320;"	d
+string	main.c	/^        string,                    \/* One string per switch.  *\/$/;"	e	enum:command_switch::__anon5	file:
+string_glob	function.c	/^static char *string_glob(char *line)$/;"	f	file:
+stringlist	main.c	/^struct stringlist$/;"	s	file:
+strings	strcache.c	/^static struct hash_table strings;$/;"	v	typeref:struct:hash_table	file:
+strip_whitespace	function.c	/^char *strip_whitespace(const char **begpp, const char **endpp)$/;"	f
+strneq	make.h	322;"	d
+strrchr	glob/glob.c	164;"	d	file:
+strrchr	make.h	262;"	d
+strsignal	signame.c	/^char *strsignal(int signal)$/;"	f
+sub_process	w32/subproc/sub_proc.c	/^} sub_process;$/;"	t	typeref:struct:sub_process_t	file:
+sub_process_t	w32/subproc/sub_proc.c	/^typedef struct sub_process_t$/;"	s	file:
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	config/Makefile	/^subdir = config$/;"	m
+subdir	doc/Makefile	/^subdir = doc$/;"	m
+subdir	glob/Makefile	/^subdir = glob$/;"	m
+subdir	po/Makefile	/^subdir = po$/;"	m
+subdir	w32/Makefile	/^subdir = w32$/;"	m
+subst_expand	function.c	/^char *subst_expand(char *o, char *text, char *subst, char *replace, unsigned int slen, unsigned int rlen, int by_word)$/;"	f
+suffix	variable.h	/^    char *suffix;$/;"	m	struct:pattern_var
+suffix_file	rule.c	/^struct file *suffix_file;$/;"	v	typeref:struct:file
+suffixes	rule.h	/^    char **suffixes;            \/* Suffixes (after `%') of each target.  *\/$/;"	m	struct:rule
+sun	getloadavg.c	160;"	d	file:
+suspend_flag	main.c	/^int suspend_flag = 0;$/;"	v
+sv_stderr	w32/subproc/sub_proc.c	/^    int sv_stderr[2];$/;"	m	struct:sub_process_t	file:
+sv_stdin	w32/subproc/sub_proc.c	/^    int sv_stdin[2];$/;"	m	struct:sub_process_t	file:
+sv_stdout	w32/subproc/sub_proc.c	/^    int sv_stdout[2];$/;"	m	struct:sub_process_t	file:
+switches	main.c	/^static const struct command_switch switches[] = {$/;"	v	typeref:struct:command_switch	file:
+sync_Path_environment	variable.c	/^void sync_Path_environment(void)$/;"	f
+sys_siglist	signame.c	/^static const char *sys_siglist[NSIG];$/;"	v	file:
+sys_siglist	signame.c	233;"	d	file:
+sysconf	glob/glob.c	240;"	d	file:
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	config/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	doc/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	glob/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	w32/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+table	variable.h	/^    struct hash_table table;    \/* Hash table of variables.  *\/$/;"	m	struct:variable_set	typeref:struct:variable_set::hash_table
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | bzip2 -9 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+target	rule.h	/^    char *target, *dep, *commands;$/;"	m	struct:pspec
+target	variable.h	/^    char *target;$/;"	m	struct:pattern_var
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	config/Makefile	/^target_alias = $/;"	m
+target_alias	doc/Makefile	/^target_alias = $/;"	m
+target_alias	glob/Makefile	/^target_alias = $/;"	m
+target_alias	w32/Makefile	/^target_alias = $/;"	m
+target_environment	variable.c	/^char **target_environment(struct file *file)$/;"	f
+targets	rule.h	/^    char **targets;                \/* Targets of the rule.  *\/$/;"	m	struct:rule
+tek4300	getloadavg.c	196;"	d	file:
+telldir	w32/compat/dirent.c	/^$/;"	f
+terminal	rule.h	/^    char terminal;                \/* If terminal (double-colon).  *\/$/;"	m	struct:rule
+test1	ansi2knr.c	/^int test1(buf)$/;"	f
+textdomain	gettext.h	43;"	d
+this_address	alloca.c	/^    long this_address;            \/* Address of this block.  *\/$/;"	m	struct:stk_trailer	file:
+this_size	alloca.c	/^    long this_size;                \/* Size of this block (does not include$/;"	m	struct:stk_trailer	file:
+tilde_expand	read.c	/^char *tilde_expand(char *name)$/;"	f
+toenv	main.c	/^    unsigned int toenv:1;        \/* Should be put in MAKEFLAGS.  *\/$/;"	m	struct:command_switch	file:
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	config/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	doc/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	glob/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	po/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	w32/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	config/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	doc/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	glob/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	po/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	w32/Makefile	/^top_srcdir = ..$/;"	m
+toplevel	tests/test_driver.pl	/^sub toplevel$/;"	s
+toplevel_conditionals	read.c	/^static struct conditionals toplevel_conditionals;$/;"	v	typeref:struct:conditionals	file:
+touch	tests/test_driver.pl	/^sub touch$/;"	s
+touch_file	remake.c	/^static int touch_file(struct file *file)$/;"	f	file:
+touch_flag	main.c	/^int touch_flag;$/;"	v
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	config/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	doc/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	glob/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	w32/Makefile	/^transform = $(program_transform_name)$/;"	m
+tried_implicit	filedef.h	/^    unsigned int tried_implicit:1;    \/* Nonzero if have searched$/;"	m	struct:file
+trnlog	vmsify.c	/^static char *trnlog(char *name)$/;"	f	file:
+tryToSetupYAst	vmsjobs.c	/^static void tryToSetupYAst(void)$/;"	f	file:
+try_implicit_rule	implicit.c	/^int try_implicit_rule(struct file *file, unsigned int depth)$/;"	f
+try_variable_definition	variable.c	/^struct variable *try_variable_definition(const struct floc *flocp, char *line, enum variable_origin origin, int target_var)$/;"	f
+type	main.c	/^    } type;$/;"	m	struct:command_switch	typeref:enum:command_switch::__anon5	file:
+u_long	vmsdir.h	/^typedef unsigned long u_long;$/;"	t
+u_short	vmsdir.h	/^typedef unsigned short u_short;$/;"	t
+unblock_remote_children	remote-cstms.c	/^void unblock_remote_children(void)$/;"	f
+unblock_remote_children	remote-stub.c	/^void unblock_remote_children(void)$/;"	f
+unblock_sigs	job.c	/^void unblock_sigs(void)$/;"	f
+unblock_sigs	job.h	97;"	d
+unblock_sigs	job.h	99;"	d
+underflows	alloca.c	/^    long underflows;            \/* Number of stack underflow calls ($STKRETN).  *\/$/;"	m	struct:stk_stat	file:
+undoc	signame.c	/^static const char *undoc;$/;"	v	file:
+uniquize_deps	read.c	/^void uniquize_deps(struct dep *chain)$/;"	f
+unixify	vmsify.c	/^char *unixify(char *name)$/;"	f
+unixy_shell	job.c	/^int unixy_shell = 1;$/;"	v
+unknown10	alloca.c	/^    long unknown10;$/;"	m	struct:stk_trailer	file:
+unknown11	alloca.c	/^    long unknown11;$/;"	m	struct:stk_trailer	file:
+unknown12	alloca.c	/^    long unknown12;$/;"	m	struct:stk_trailer	file:
+unknown13	alloca.c	/^    long unknown13;$/;"	m	struct:stk_trailer	file:
+unknown14	alloca.c	/^    long unknown14;$/;"	m	struct:stk_trailer	file:
+unknown2	alloca.c	/^    long unknown2;$/;"	m	struct:stk_trailer	file:
+unknown3	alloca.c	/^    long unknown3;$/;"	m	struct:stk_trailer	file:
+unknown5	alloca.c	/^    long unknown5;$/;"	m	struct:stk_trailer	file:
+unknown6	alloca.c	/^    long unknown6;$/;"	m	struct:stk_trailer	file:
+unknown7	alloca.c	/^    long unknown7;$/;"	m	struct:stk_trailer	file:
+unknown8	alloca.c	/^    long unknown8;$/;"	m	struct:stk_trailer	file:
+unknown9	alloca.c	/^    long unknown9;$/;"	m	struct:stk_trailer	file:
+update_file	remake.c	/^static int update_file(struct file *file, unsigned int depth)$/;"	f	file:
+update_file_1	remake.c	/^static int update_file_1(struct file *file, unsigned int depth)$/;"	f	file:
+update_goal_chain	remake.c	/^int update_goal_chain(struct dep *goals)$/;"	f
+update_status	filedef.h	/^    short int update_status;    \/* Status of the last attempt to update,$/;"	m	struct:file
+updated	filedef.h	/^    unsigned int updated:1;        \/* Nonzero if this file has been remade.  *\/$/;"	m	struct:file
+updating	filedef.h	/^    unsigned int updating:1;    \/* Nonzero while updating deps of this file *\/$/;"	m	struct:file
+uppercasify	vmsfunctions.c	66;"	d	file:
+usage	main.c	/^static const char *const usage[] = {$/;"	v	file:
+user	misc.c	/^{ make, user } current_access;$/;"	e	enum:__anon6	file:
+user_access	misc.c	/^void user_access(void)$/;"	f
+user_gid	misc.c	/^static int user_uid = -1, user_gid = -1, make_uid = -1, make_gid = -1;$/;"	v	file:
+user_uid	misc.c	/^static int user_uid = -1, user_gid = -1, make_uid = -1, make_gid = -1;$/;"	v	file:
+using_pipes	w32/subproc/sub_proc.c	/^    int using_pipes;$/;"	m	struct:sub_process_t	file:
+utouch	tests/test_driver.pl	/^sub utouch$/;"	s
+v_default	variable.h	/^        v_default                \/* Decide in target_environment.  *\/$/;"	e	enum:variable::variable_export
+v_export	variable.h	/^        v_export,                \/* Export this variable.  *\/$/;"	e	enum:variable::variable_export
+v_ifset	variable.h	/^        v_ifset,                \/* Export it if it has a non-default value.  *\/$/;"	e	enum:variable::variable_export
+v_noexport	variable.h	/^        v_noexport,                \/* Don't export this variable.  *\/$/;"	e	enum:variable::variable_export
+va_alist	misc.c	47;"	d	file:
+va_dcl	misc.c	48;"	d	file:
+val	getopt.h	/^        int val;$/;"	m	struct:option
+valid_option	tests/run_make_tests.pl	/^sub valid_option$/;"	s
+value	variable.h	/^    char *value;                \/* Variable value.  *\/$/;"	m	struct:variable
+value_ptr	main.c	/^    char *value_ptr;            \/* Pointer to the value-holding variable.  *\/$/;"	m	struct:command_switch	file:
+variable	main.c	/^    struct variable *variable;$/;"	m	struct:command_variable	typeref:struct:command_variable::variable	file:
+variable	variable.h	/^    struct variable variable;$/;"	m	struct:pattern_var	typeref:struct:pattern_var::variable
+variable	variable.h	/^struct variable$/;"	s
+variable_append	expand.c	/^static char *variable_append(const char *name, unsigned int length, const struct variable_set_list *set)$/;"	f	file:
+variable_buffer	expand.c	/^char *variable_buffer;$/;"	v
+variable_buffer_length	expand.c	/^static unsigned int variable_buffer_length;$/;"	v	file:
+variable_buffer_output	expand.c	/^char *variable_buffer_output(char *ptr, char *string, unsigned int length)$/;"	f
+variable_expand	expand.c	/^char *variable_expand(char *line)$/;"	f
+variable_expand_for_file	expand.c	/^char *variable_expand_for_file(char *line, struct file *file)$/;"	f
+variable_expand_string	expand.c	/^char *variable_expand_string(char *line, char *string, long length)$/;"	f
+variable_export	variable.h	/^    enum variable_export$/;"	g	struct:variable
+variable_flavor	variable.h	/^enum variable_flavor$/;"	g
+variable_hash_1	variable.c	/^static unsigned long variable_hash_1(const void *keyv)$/;"	f	file:
+variable_hash_2	variable.c	/^static unsigned long variable_hash_2(const void *keyv)$/;"	f	file:
+variable_hash_cmp	variable.c	/^static int variable_hash_cmp(const void *xv, const void *yv)$/;"	f	file:
+variable_origin	variable.h	/^enum variable_origin$/;"	g
+variable_set	variable.h	/^struct variable_set$/;"	s
+variable_set_list	variable.h	/^struct variable_set_list$/;"	s
+variables	filedef.h	/^    struct variable_set_list *variables;$/;"	m	struct:file	typeref:struct:file::variable_set_list
+version_string	version.c	/^char *version_string = VERSION;$/;"	v
+vmsHandleChildTerm	vmsjobs.c	/^int vmsHandleChildTerm(struct child *child)$/;"	f
+vmsWaitForChildren	vmsjobs.c	/^static void vmsWaitForChildren(int *status)$/;"	f	file:
+vms_handle_apos	vmsjobs.c	/^char *vms_handle_apos(char *p)$/;"	f
+vms_hash	dir.c	/^static int vms_hash(char *name)$/;"	f	file:
+vms_jobsefnmask	vmsjobs.c	/^static int vms_jobsefnmask = 0;$/;"	v	file:
+vms_redirect	vmsjobs.c	/^char *vms_redirect(struct dsc$descriptor_s *desc, char *fname, char *ibuf)$/;"	f
+vms_stat	vmsfunctions.c	/^int vms_stat(char *name, struct stat *buf)$/;"	f
+vmsify	vmsify.c	/^char *vmsify(char *name, int type)$/;"	f
+vmsstat_dir	dir.c	/^static int vmsstat_dir(char *name, struct stat *st)$/;"	f	file:
+vpath	filedef.h	/^    char *vpath;                \/* VPATH\/vpath pathname *\/$/;"	m	struct:file
+vpath	vpath.c	/^struct vpath$/;"	s	file:
+vpath_search	vpath.c	/^int vpath_search(char **file, FILE_TIMESTAMP * mtime_ptr)$/;"	f
+vpaths	vpath.c	/^static struct vpath *vpaths;$/;"	v	typeref:struct:vpath	file:
+w32_kill	job.c	/^int w32_kill(int pid, int sig)$/;"	f
+w32ify	w32/pathstuff.c	/^char *w32ify(char *filename, int resolve)$/;"	f
+w_bogus	read.c	/^    w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_colon	read.c	/^    w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_dcolon	read.c	/^    w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_eol	read.c	/^    w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_semicolon	read.c	/^    w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_static	read.c	/^    w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_varassign	read.c	/^    w_varassign$/;"	e	enum:make_word_type	file:
+w_variable	read.c	/^    w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+waiting_jobs	job.c	/^static struct child *waiting_jobs = 0;$/;"	v	typeref:struct:child	file:
+warn_undefined	variable.h	175;"	d
+warn_undefined_variables_flag	main.c	/^int warn_undefined_variables_flag;$/;"	v
+wildcard_expansion	amiga.c	/^char *wildcard_expansion(char *wc, char *o)$/;"	f
+windows32_openpipe	function.c	/^void windows32_openpipe(int *pipedes, int *pid_p, char **command_argv, char **envp)$/;"	f
+word1eq	read.c	1240;"	d	file:
+word1eq	read.c	1387;"	d	file:
+word1eq	read.c	558;"	d	file:
+writeblanks	ansi2knr.c	/^int writeblanks(start, end)$/;"	f
+xmalloc	misc.c	/^char *xmalloc(unsigned int size)$/;"	f
+xmalloc	misc.c	325;"	d	file:
+xrealloc	misc.c	/^char *xrealloc(char *ptr, unsigned int size)$/;"	f
+xrealloc	misc.c	326;"	d	file:
+xstrdup	misc.c	/^char *xstrdup(const char *ptr)$/;"	f
+xstrdup	misc.c	327;"	d	file:
