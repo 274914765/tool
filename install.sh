@@ -15,6 +15,7 @@
 /root/workspace/exercise/tools/pyenv/install/install.sh
 /root/workspace/exercise/tools/oprofile/install/install.sh
 /root/workspace/exercise/tools/gperf/install/install.sh
+/root/workspace/exercise/tools/UltraEdit/install/install.sh
 
 
 
