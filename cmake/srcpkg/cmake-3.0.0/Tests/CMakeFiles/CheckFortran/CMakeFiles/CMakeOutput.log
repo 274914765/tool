@@ -1,0 +1,138 @@
+The system is: Linux - 2.6.36 - x86_64
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" succeeded.
+Compiler: /usr/bin/f95 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the Fortran compiler identification source "CMakeFortranCompilerId.F" produced "a.out"
+
+The Fortran compiler identification is GNU, found in "/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/3.0.0/CompilerIdFortran/a.out"
+
+Determining if the Fortran compiler works passed with the following output:
+Change Dir: /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTryCompileExec1323329161/fast"
+gmake -f CMakeFiles/cmTryCompileExec1323329161.dir/build.make CMakeFiles/cmTryCompileExec1323329161.dir/build
+gmake[1]: Entering directory `/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp'
+/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Bootstrap.cmk/cmake -E cmake_progress_report /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building Fortran object CMakeFiles/cmTryCompileExec1323329161.dir/testFortranCompiler.f.o
+/usr/bin/f95    -c /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp/testFortranCompiler.f -o CMakeFiles/cmTryCompileExec1323329161.dir/testFortranCompiler.f.o
+Linking Fortran executable cmTryCompileExec1323329161
+/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1323329161.dir/link.txt --verbose=1
+/usr/bin/f95       CMakeFiles/cmTryCompileExec1323329161.dir/testFortranCompiler.f.o  -o cmTryCompileExec1323329161 -rdynamic 
+gmake[1]: Leaving directory `/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp'
+
+
+Detecting Fortran compiler ABI info compiled with the following output:
+Change Dir: /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTryCompileExec3099196329/fast"
+gmake -f CMakeFiles/cmTryCompileExec3099196329.dir/build.make CMakeFiles/cmTryCompileExec3099196329.dir/build
+gmake[1]: Entering directory `/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp'
+/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Bootstrap.cmk/cmake -E cmake_progress_report /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building Fortran object CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o
+/usr/bin/f95    -c /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Modules/CMakeFortranCompilerABI.F -o CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o
+Linking Fortran executable cmTryCompileExec3099196329
+/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3099196329.dir/link.txt --verbose=1
+/usr/bin/f95   -v   CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o  -o cmTryCompileExec3099196329 -rdynamic  
+驱动： /usr/bin/f95 -v CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o -o cmTryCompileExec3099196329 -rdynamic -lgfortranbegin -lgfortran -lm -shared-libgcc
+使用内建 specs。
+目标：x86_64-kylin-linux
+配置为：../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-kylin-linux
+线程模型：posix
+gcc 版本 4.4.7 20120313 (Red Hat 4.4.7-4) (GCC) 
+COMPILER_PATH=/usr/libexec/gcc/x86_64-kylin-linux/4.4.7/:/usr/libexec/gcc/x86_64-kylin-linux/4.4.7/:/usr/libexec/gcc/x86_64-kylin-linux/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/:/usr/lib/gcc/x86_64-kylin-linux/:/usr/libexec/gcc/x86_64-kylin-linux/4.4.7/:/usr/libexec/gcc/x86_64-kylin-linux/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/:/usr/lib/gcc/x86_64-kylin-linux/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-kylin-linux/4.4.7/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec3099196329' '-rdynamic' '-shared-libgcc' '-mtune=generic'
+ /usr/libexec/gcc/x86_64-kylin-linux/4.4.7/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec3099196329 /usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crti.o /usr/lib/gcc/x86_64-kylin-linux/4.4.7/crtbegin.o -L/usr/lib/gcc/x86_64-kylin-linux/4.4.7 -L/usr/lib/gcc/x86_64-kylin-linux/4.4.7 -L/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../.. CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o -lgfortranbegin -lgfortran -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-kylin-linux/4.4.7/crtend.o /usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crtn.o
+gmake[1]: Leaving directory `/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp'
+
+
+Parsed Fortran implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTryCompileExec3099196329/fast"]
+  ignore line: [gmake -f CMakeFiles/cmTryCompileExec3099196329.dir/build.make CMakeFiles/cmTryCompileExec3099196329.dir/build]
+  ignore line: [gmake[1]: Entering directory `/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp']
+  ignore line: [/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Bootstrap.cmk/cmake -E cmake_progress_report /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building Fortran object CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o]
+  ignore line: [/usr/bin/f95    -c /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Modules/CMakeFortranCompilerABI.F -o CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o]
+  ignore line: [Linking Fortran executable cmTryCompileExec3099196329]
+  ignore line: [/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3099196329.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/f95   -v   CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o  -o cmTryCompileExec3099196329 -rdynamic  ]
+  ignore line: [驱动： /usr/bin/f95 -v CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o -o cmTryCompileExec3099196329 -rdynamic -lgfortranbegin -lgfortran -lm -shared-libgcc]
+  ignore line: [使用内建 specs。]
+  ignore line: [目标：x86_64-kylin-linux]
+  ignore line: [配置为：../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-kylin-linux]
+  ignore line: [线程模型：posix]
+  ignore line: [gcc 版本 4.4.7 20120313 (Red Hat 4.4.7-4) (GCC) ]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-kylin-linux/4.4.7/:/usr/libexec/gcc/x86_64-kylin-linux/4.4.7/:/usr/libexec/gcc/x86_64-kylin-linux/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/:/usr/lib/gcc/x86_64-kylin-linux/:/usr/libexec/gcc/x86_64-kylin-linux/4.4.7/:/usr/libexec/gcc/x86_64-kylin-linux/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/:/usr/lib/gcc/x86_64-kylin-linux/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-kylin-linux/4.4.7/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec3099196329' '-rdynamic' '-shared-libgcc' '-mtune=generic']
+  link line: [ /usr/libexec/gcc/x86_64-kylin-linux/4.4.7/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec3099196329 /usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crti.o /usr/lib/gcc/x86_64-kylin-linux/4.4.7/crtbegin.o -L/usr/lib/gcc/x86_64-kylin-linux/4.4.7 -L/usr/lib/gcc/x86_64-kylin-linux/4.4.7 -L/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../.. CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o -lgfortranbegin -lgfortran -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-kylin-linux/4.4.7/crtend.o /usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crtn.o]
+    arg [/usr/libexec/gcc/x86_64-kylin-linux/4.4.7/collect2] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec3099196329] ==> ignore
+    arg [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/crtbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-kylin-linux/4.4.7] ==> dir [/usr/lib/gcc/x86_64-kylin-linux/4.4.7]
+    arg [-L/usr/lib/gcc/x86_64-kylin-linux/4.4.7] ==> dir [/usr/lib/gcc/x86_64-kylin-linux/4.4.7]
+    arg [-L/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64] ==> dir [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../..] ==> dir [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../..]
+    arg [CMakeFiles/cmTryCompileExec3099196329.dir/CMakeFortranCompilerABI.F.o] ==> ignore
+    arg [-lgfortranbegin] ==> lib [gfortranbegin]
+    arg [-lgfortran] ==> lib [gfortran]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64/crtn.o] ==> ignore
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  collapse library dir [/usr/lib/gcc/x86_64-kylin-linux/4.4.7] ==> [/usr/lib/gcc/x86_64-kylin-linux/4.4.7]
+  collapse library dir [/usr/lib/gcc/x86_64-kylin-linux/4.4.7] ==> [/usr/lib/gcc/x86_64-kylin-linux/4.4.7]
+  collapse library dir [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../../../lib64] ==> [/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/usr/lib/gcc/x86_64-kylin-linux/4.4.7/../../..] ==> [/usr/lib]
+  implicit libs: [gfortranbegin;gfortran;m;c]
+  implicit dirs: [/usr/lib/gcc/x86_64-kylin-linux/4.4.7;/usr/lib64;/lib64;/usr/lib]
+  implicit fwks: []
+
+
+Determining if the Fortran compiler supports Fortran 90 passed with the following output:
+Change Dir: /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTryCompileExec977382087/fast"
+gmake -f CMakeFiles/cmTryCompileExec977382087.dir/build.make CMakeFiles/cmTryCompileExec977382087.dir/build
+gmake[1]: Entering directory `/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp'
+/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Bootstrap.cmk/cmake -E cmake_progress_report /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building Fortran object CMakeFiles/cmTryCompileExec977382087.dir/testFortranCompilerF90.f90.o
+/usr/bin/f95    -c /root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp/testFortranCompilerF90.f90 -o CMakeFiles/cmTryCompileExec977382087.dir/testFortranCompilerF90.f90.o
+Linking Fortran executable cmTryCompileExec977382087
+/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Bootstrap.cmk/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec977382087.dir/link.txt --verbose=1
+/usr/bin/f95       CMakeFiles/cmTryCompileExec977382087.dir/testFortranCompilerF90.f90.o  -o cmTryCompileExec977382087 -rdynamic 
+gmake[1]: Leaving directory `/root/workspace/exercise/tools/cmake/srcpkg/cmake-3.0.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/CMakeTmp'
+
+
