@@ -16,8 +16,8 @@ else
     if [ $?==0 ]; then
         rm -rf /root/.dotfiles/cheat/srcpkg/pyenv-20150113.1
         cd $DepPkgPath
-        ./pyenv_environment_variable.sh
-        ./pyenv_resolve_dependent.sh
+        $DepPkgPath/pyenv_environment_variable.sh
+        $DepPkgPath/pyenv_resolve_dependent.sh
     fi
 
 fi

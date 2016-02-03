@@ -1,0 +1,1708 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing aclocal-1.14$/;"	m
+ACLOCAL	doc/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing aclocal-1.14$/;"	m
+ACLOCAL	lessons/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing aclocal-1.14$/;"	m
+ACLOCAL	m4/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing aclocal-1.14$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing aclocal-1.14$/;"	m
+ACLOCAL	tools/Makefile	/^ACLOCAL = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing aclocal-1.14$/;"	m
+ACLOCAL_AMFLAGS	Makefile	/^ACLOCAL_AMFLAGS = -I m4$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	doc/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	lessons/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	m4/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	tools/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ADDCH	src/gtypist.c	139;"	d	file:
+ADDCH_REV	src/gtypist.c	140;"	d	file:
+ADDSTR	src/gtypist.c	137;"	d	file:
+ADDSTR_REV	src/gtypist.c	138;"	d	file:
+ALLOCA	Makefile	/^ALLOCA = $/;"	m
+ALLOCA	doc/Makefile	/^ALLOCA = $/;"	m
+ALLOCA	lessons/Makefile	/^ALLOCA = $/;"	m
+ALLOCA	m4/Makefile	/^ALLOCA = $/;"	m
+ALLOCA	src/Makefile	/^ALLOCA = $/;"	m
+ALLOCA	tools/Makefile	/^ALLOCA = $/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	doc/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	lessons/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	m4/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	tools/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_CPPFLAGS	src/Makefile	/^AM_CPPFLAGS = -I..\/intl \\$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	doc/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	lessons/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	m4/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	src/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	tools/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_MAKEINFOHTMLFLAGS	doc/Makefile	/^AM_MAKEINFOHTMLFLAGS = $(AM_MAKEINFOFLAGS)$/;"	m
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(am__recursive_targets:-recursive=) TAGS CTAGS \\$/;"	m
+AM_V_CC	src/Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CCLD	src/Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_DVIPS	doc/Makefile	/^AM_V_DVIPS = $(am__v_DVIPS_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	doc/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	lessons/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	m4/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	src/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	tools/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_INFOHTML	doc/Makefile	/^AM_V_INFOHTML = $(am__v_INFOHTML_$(V))$/;"	m
+AM_V_MAKEINFO	doc/Makefile	/^AM_V_MAKEINFO = $(am__v_MAKEINFO_$(V))$/;"	m
+AM_V_P	Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	doc/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	lessons/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	m4/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	src/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	tools/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_TEXI2DVI	doc/Makefile	/^AM_V_TEXI2DVI = $(am__v_TEXI2DVI_$(V))$/;"	m
+AM_V_TEXI2PDF	doc/Makefile	/^AM_V_TEXI2PDF = $(am__v_TEXI2PDF_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	doc/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	lessons/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	m4/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	src/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	tools/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_texidevnull	doc/Makefile	/^AM_V_texidevnull = $(am__v_texidevnull_$(V))$/;"	m
+AM_V_texinfo	doc/Makefile	/^AM_V_texinfo = $(am__v_texinfo_$(V))$/;"	m
+ASCII_BELL	src/script.h	56;"	d
+ASCII_BS	src/script.h	60;"	d
+ASCII_DASH	src/script.h	58;"	d
+ASCII_DEL	src/script.h	61;"	d
+ASCII_ESC	src/script.h	55;"	d
+ASCII_NL	src/script.h	53;"	d
+ASCII_NULL	src/script.h	54;"	d
+ASCII_SPACE	src/script.h	57;"	d
+ASCII_TAB	src/script.h	59;"	d
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoconf$/;"	m
+AUTOCONF	doc/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoconf$/;"	m
+AUTOCONF	lessons/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoconf$/;"	m
+AUTOCONF	m4/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoconf$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoconf$/;"	m
+AUTOCONF	tools/Makefile	/^AUTOCONF = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoheader$/;"	m
+AUTOHEADER	doc/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoheader$/;"	m
+AUTOHEADER	lessons/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoheader$/;"	m
+AUTOHEADER	m4/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoheader$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoheader$/;"	m
+AUTOHEADER	tools/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing automake-1.14$/;"	m
+AUTOMAKE	doc/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing automake-1.14$/;"	m
+AUTOMAKE	lessons/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing automake-1.14$/;"	m
+AUTOMAKE	m4/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing automake-1.14$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing automake-1.14$/;"	m
+AUTOMAKE	tools/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing automake-1.14$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	doc/Makefile	/^AWK = gawk$/;"	m
+AWK	lessons/Makefile	/^AWK = gawk$/;"	m
+AWK	m4/Makefile	/^AWK = gawk$/;"	m
+AWK	src/Makefile	/^AWK = gawk$/;"	m
+AWK	tools/Makefile	/^AWK = gawk$/;"	m
+BESTLOG_FILENAME	src/gtypist.c	123;"	d	file:
+BESTLOG_FILENAME	src/gtypist.c	125;"	d	file:
+B_TOP_LINE	src/gtypist.c	77;"	d	file:
+CATALOGS	po/Makefile	/^CATALOGS =  cs.gmo de.gmo es.gmo eu.gmo fi.gmo fr.gmo nl.gmo pl.gmo ru.gmo tr.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CC	doc/Makefile	/^CC = gcc$/;"	m
+CC	lessons/Makefile	/^CC = gcc$/;"	m
+CC	m4/Makefile	/^CC = gcc$/;"	m
+CC	src/Makefile	/^CC = gcc$/;"	m
+CC	tools/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	doc/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	lessons/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	m4/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	tools/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	src/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	doc/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	lessons/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	m4/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	src/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLAGS	tools/Makefile	/^CFLAGS = -g3 -O0$/;"	m
+CFLocaleCopyCurrent	configure	/^CFLocaleCopyCurrent();$/;"	f
+CHECK_MACRO_VERSION	po/Makefile	/^CHECK_MACRO_VERSION = \\$/;"	m
+COMPILE	src/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	doc/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	lessons/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	m4/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	tools/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	doc/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	lessons/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	m4/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	tools/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CONFIG_HEADER	doc/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	lessons/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	m4/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	src/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	tools/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIRM_EXIT_LESSON_MSG	src/gtypist.c	/^char *CONFIRM_EXIT_LESSON_MSG;$/;"	v
+COPYRIGHT	src/gtypist.c	/^char *COPYRIGHT;$/;"	v
+COPYRIGHT_HOLDER	po/Makefile	/^COPYRIGHT_HOLDER = Simon Baldwin$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	doc/Makefile	/^CPP = gcc -E$/;"	m
+CPP	lessons/Makefile	/^CPP = gcc -E$/;"	m
+CPP	m4/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/Makefile	/^CPP = gcc -E$/;"	m
+CPP	tools/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	doc/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	lessons/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	m4/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	tools/Makefile	/^CPPFLAGS = $/;"	m
+CSCOPE	Makefile	/^CSCOPE = cscope$/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	tools/Makefile	/^CTAGS = ctags$/;"	m
+CTRL_OFFSET	src/gtypist.c	190;"	d	file:
+CURSMENU_H	src/cursmenu.h	20;"	d
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	doc/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	lessons/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	m4/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	tools/Makefile	/^CYGPATH_W = echo$/;"	m
+C_ALT_COMMENT	src/script.h	32;"	d
+C_BANNER	src/gtypist.h	/^    C_BANNER,                    \/\/ for the top banner$/;"	e	enum:__anon2
+C_CLEAR	src/script.h	38;"	d
+C_COMMENT	src/script.h	31;"	d
+C_CONT	src/script.h	34;"	d
+C_DRILL	src/script.h	44;"	d
+C_DRILL_PRACTICE_ONLY	src/script.h	45;"	d
+C_ERROR_MAX_SET	src/script.h	49;"	d
+C_EXIT	src/script.h	40;"	d
+C_GOTO	src/script.h	39;"	d
+C_INSTRUCTION	src/script.h	37;"	d
+C_KEYBIND	src/script.h	48;"	d
+C_LABEL	src/script.h	35;"	d
+C_MENU	src/script.h	51;"	d
+C_MENU_TITLE	src/gtypist.h	/^    C_MENU_TITLE$/;"	e	enum:__anon2
+C_NGOTO	src/script.h	43;"	d
+C_NORMAL	src/gtypist.h	/^    C_NORMAL = 1,                \/\/ used by default$/;"	e	enum:__anon2
+C_ON_FAILURE_SET	src/script.h	50;"	d
+C_PROG_NAME	src/gtypist.h	/^    C_PROG_NAME,                \/\/ for the program's name$/;"	e	enum:__anon2
+C_PROG_VERSION	src/gtypist.h	/^    C_PROG_VERSION,                \/\/ for the program's version$/;"	e	enum:__anon2
+C_QUERY	src/script.h	41;"	d
+C_SEP	src/script.h	33;"	d
+C_SPEEDTEST	src/script.h	46;"	d
+C_SPEEDTEST_PRACTICE_ONLY	src/script.h	47;"	d
+C_TUTORIAL	src/script.h	36;"	d
+C_YGOTO	src/script.h	42;"	d
+DATA	lessons/Makefile	/^DATA = $(pkgdata_DATA)$/;"	m
+DATADIR	src/gtypist.c	113;"	d	file:
+DATADIR	src/gtypist.c	116;"	d	file:
+DEFAULT_INCLUDES	src/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFAULT_SCRIPT	src/gtypist.c	120;"	d	file:
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	doc/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	lessons/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	m4/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	tools/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	doc/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	lessons/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	m4/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	tools/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	doc/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	lessons/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	m4/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	po/Makefile	/^DISTFILES = $(DISTFILES.common) Makevars POTFILES.in \\$/;"	m
+DISTFILES	src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	tools/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES.common	po/Makefile	/^DISTFILES.common = Makefile.in.in remove-potcdate.sin \\$/;"	m
+DISTFILES.common.extra1	po/Makefile	/^DISTFILES.common.extra1 = quot.sed boldquot.sed en@quot.header en@boldquot.header insert-header.sin Rules-quot$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz $(distdir).tar.xz$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = INSTALL NEWS README AUTHORS ChangeLog \\$/;"	m
+DIST_COMMON	doc/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	lessons/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am ChangeLog$/;"	m
+DIST_COMMON	m4/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am$/;"	m
+DIST_COMMON	src/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	tools/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	doc/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	lessons/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	m4/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/Makefile	/^DIST_SOURCES = $(gtypist_SOURCES)$/;"	m
+DIST_SOURCES	tools/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DIST_TARGETS	Makefile	/^DIST_TARGETS = dist-xz dist-gzip$/;"	m
+DOMAIN	po/Makefile	/^DOMAIN = $(PACKAGE)$/;"	m
+DP_TOP_LINE	src/gtypist.c	80;"	d	file:
+DRILL_CH_ERR	src/gtypist.c	92;"	d	file:
+DRILL_NL_ERR	src/gtypist.c	93;"	d	file:
+DUMMYPOFILES	po/Makefile	/^DUMMYPOFILES =  cs.nop de.nop es.nop eu.nop fi.nop fr.nop nl.nop pl.nop ru.nop tr.nop zh_CN.nop zh_TW.nop$/;"	m
+DVIPS	doc/Makefile	/^DVIPS = dvips$/;"	m
+DVIS	doc/Makefile	/^DVIS = gtypist.dvi gtypist.cs.dvi gtypist.es.dvi$/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	doc/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	lessons/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	m4/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	tools/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	doc/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	lessons/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	m4/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	tools/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	doc/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	lessons/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	m4/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	tools/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	doc/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	lessons/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	m4/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	tools/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ELCFILES	tools/Makefile	/^ELCFILES = $(LISP:.el=.elc)$/;"	m
+ELIDE_CODE	src/getopt.c	57;"	d	file:
+ELIDE_CODE	src/getopt1.c	49;"	d	file:
+EMACS	Makefile	/^EMACS = no$/;"	m
+EMACS	doc/Makefile	/^EMACS = no$/;"	m
+EMACS	lessons/Makefile	/^EMACS = no$/;"	m
+EMACS	m4/Makefile	/^EMACS = no$/;"	m
+EMACS	src/Makefile	/^EMACS = no$/;"	m
+EMACS	tools/Makefile	/^EMACS = no$/;"	m
+EMACSLOADPATH	Makefile	/^EMACSLOADPATH = $/;"	m
+EMACSLOADPATH	doc/Makefile	/^EMACSLOADPATH = $/;"	m
+EMACSLOADPATH	lessons/Makefile	/^EMACSLOADPATH = $/;"	m
+EMACSLOADPATH	m4/Makefile	/^EMACSLOADPATH = $/;"	m
+EMACSLOADPATH	src/Makefile	/^EMACSLOADPATH = $/;"	m
+EMACSLOADPATH	tools/Makefile	/^EMACSLOADPATH = $/;"	m
+ENABLE_NLS	config.h	14;"	d
+ERROR_H	src/error.h	22;"	d
+ERROR_TOO_HIGH_MSG	src/gtypist.c	/^char *ERROR_TOO_HIGH_MSG;$/;"	v
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	tools/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	doc/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	lessons/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	m4/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	tools/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	Makefile	/^EXTRA_DIST = config.rpath src\/gtypist.1 typefortune.1 configure-w32 version.sh \\$/;"	m
+EXTRA_DIST	doc/Makefile	/^EXTRA_DIST = gtypist.html gtypist.cs.html gtypist.es.html$/;"	m
+EXTRA_DIST	lessons/Makefile	/^EXTRA_DIST = $(pkgdata_DATA)$/;"	m
+EXTRA_DIST	m4/Makefile	/^EXTRA_DIST = codeset.m4 glibc2.m4 intl.m4 inttypes-pri.m4 lib-prefix.m4	     \\$/;"	m
+EXTRA_DIST	tools/Makefile	/^EXTRA_DIST = typcombine typv1tov2 ktouchOLD2typ.pl ktouch2typ.pl gtypist.pm \\$/;"	m
+EXTRA_LOCALE_CATEGORIES	po/Makefile	/^EXTRA_LOCALE_CATEGORIES =$/;"	m
+GEN_MAN	Makefile	/^GEN_MAN = help2man .\/gtypist -o gtypist.1 -n 'a typing tutor with lessons for different keyboards and languages'$/;"	m
+GEN_MAN	doc/Makefile	/^GEN_MAN = help2man .\/gtypist -o gtypist.1 -n 'a typing tutor with lessons for different keyboards and languages'$/;"	m
+GEN_MAN	lessons/Makefile	/^GEN_MAN = help2man .\/gtypist -o gtypist.1 -n 'a typing tutor with lessons for different keyboards and languages'$/;"	m
+GEN_MAN	m4/Makefile	/^GEN_MAN = help2man .\/gtypist -o gtypist.1 -n 'a typing tutor with lessons for different keyboards and languages'$/;"	m
+GEN_MAN	src/Makefile	/^GEN_MAN = help2man .\/gtypist -o gtypist.1 -n 'a typing tutor with lessons for different keyboards and languages'$/;"	m
+GEN_MAN	tools/Makefile	/^GEN_MAN = help2man .\/gtypist -o gtypist.1 -n 'a typing tutor with lessons for different keyboards and languages'$/;"	m
+GETOPT_INTERFACE_VERSION	src/getopt.c	53;"	d	file:
+GETOPT_INTERFACE_VERSION	src/getopt1.c	45;"	d	file:
+GETTEXT_CONTEXT_GLUE	src/gettext.h	110;"	d
+GETTEXT_MACRO_VERSION	Makefile	/^GETTEXT_MACRO_VERSION = 0.18$/;"	m
+GETTEXT_MACRO_VERSION	doc/Makefile	/^GETTEXT_MACRO_VERSION = 0.18$/;"	m
+GETTEXT_MACRO_VERSION	lessons/Makefile	/^GETTEXT_MACRO_VERSION = 0.18$/;"	m
+GETTEXT_MACRO_VERSION	m4/Makefile	/^GETTEXT_MACRO_VERSION = 0.18$/;"	m
+GETTEXT_MACRO_VERSION	po/Makefile	/^GETTEXT_MACRO_VERSION = 0.18$/;"	m
+GETTEXT_MACRO_VERSION	src/Makefile	/^GETTEXT_MACRO_VERSION = 0.18$/;"	m
+GETTEXT_MACRO_VERSION	tools/Makefile	/^GETTEXT_MACRO_VERSION = 0.18$/;"	m
+GMOFILES	po/Makefile	/^GMOFILES =  cs.gmo de.gmo es.gmo eu.gmo fi.gmo fr.gmo nl.gmo pl.gmo ru.gmo tr.gmo zh_CN.gmo zh_TW.gmo$/;"	m
+GMSGFMT	Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	doc/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	lessons/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	m4/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	po/Makefile	/^GMSGFMT = $(GMSGFMT_$(USE_MSGCTXT))$/;"	m
+GMSGFMT	src/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT	tools/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_	po/Makefile	/^GMSGFMT_ = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_015	Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_015	doc/Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_015	lessons/Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_015	m4/Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_015	src/Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_015	tools/Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_no	po/Makefile	/^GMSGFMT_no = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_yes	po/Makefile	/^GMSGFMT_yes = \/usr\/bin\/msgfmt$/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	doc/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	lessons/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	m4/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	tools/Makefile	/^GREP = \/bin\/grep$/;"	m
+GTYPIST_H	src/gtypist.h	21;"	d
+GTYPIST_KEY_BACKSPACE	src/utf8.h	33;"	d
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+HAVE_ALLOCA	config.h	17;"	d
+HAVE_ALLOCA_H	config.h	21;"	d
+HAVE_ARGZ_H	config.h	24;"	d
+HAVE_DCGETTEXT	config.h	36;"	d
+HAVE_ERRNO_H	config.h	39;"	d
+HAVE_FCNTL_H	config.h	42;"	d
+HAVE_GETCWD	config.h	45;"	d
+HAVE_GETTEXT	config.h	48;"	d
+HAVE_GETWD	config.h	51;"	d
+HAVE_ICONV	config.h	54;"	d
+HAVE_INTTYPES_H	config.h	57;"	d
+HAVE_LANGINFO_H	config.h	60;"	d
+HAVE_LIBINTL_H	config.h	63;"	d
+HAVE_LIMITS_H	config.h	66;"	d
+HAVE_LOCALE_H	config.h	69;"	d
+HAVE_MALLOC	config.h	73;"	d
+HAVE_MALLOC_H	config.h	76;"	d
+HAVE_MEMORY_H	config.h	79;"	d
+HAVE_MEMPCPY	config.h	82;"	d
+HAVE_MEMSET	config.h	85;"	d
+HAVE_MUNMAP	config.h	88;"	d
+HAVE_NL_LANGINFO	config.h	91;"	d
+HAVE_REALLOC	config.h	95;"	d
+HAVE_SETLOCALE	config.h	98;"	d
+HAVE_STDBOOL_H	config.h	101;"	d
+HAVE_STDDEF_H	config.h	104;"	d
+HAVE_STDINT_H	config.h	107;"	d
+HAVE_STDIO_EXT_H	config.h	110;"	d
+HAVE_STDLIB_H	config.h	113;"	d
+HAVE_STPCPY	config.h	116;"	d
+HAVE_STRCASECMP	config.h	119;"	d
+HAVE_STRCHR	config.h	122;"	d
+HAVE_STRCSPN	config.h	125;"	d
+HAVE_STRDUP	config.h	128;"	d
+HAVE_STRINGS_H	config.h	131;"	d
+HAVE_STRING_H	config.h	134;"	d
+HAVE_STRSTR	config.h	137;"	d
+HAVE_STRTOUL	config.h	140;"	d
+HAVE_SYS_PARAM_H	config.h	143;"	d
+HAVE_SYS_STAT_H	config.h	146;"	d
+HAVE_SYS_TYPES_H	config.h	149;"	d
+HAVE_UNISTD_H	config.h	152;"	d
+HAVE__BOOL	config.h	155;"	d
+HAVE___ARGZ_COUNT	config.h	158;"	d
+HAVE___ARGZ_NEXT	config.h	161;"	d
+HAVE___ARGZ_STRINGIFY	config.h	164;"	d
+HTMLS	doc/Makefile	/^HTMLS = gtypist.html gtypist.cs.html gtypist.es.html$/;"	m
+ICONV_CONST	config.h	167;"	d
+INFO_DEPS	doc/Makefile	/^INFO_DEPS = $(srcdir)\/gtypist.info $(srcdir)\/gtypist.cs.info \\$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	doc/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	lessons/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	m4/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	po/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	tools/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	doc/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	lessons/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	m4/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	po/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	tools/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	doc/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	lessons/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	m4/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	tools/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	doc/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	lessons/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	m4/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	tools/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	doc/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	lessons/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	m4/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	tools/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	doc/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	lessons/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	m4/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	tools/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	doc/Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	lessons/Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	m4/Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	src/Makefile	/^INTLLIBS = $/;"	m
+INTLLIBS	tools/Makefile	/^INTLLIBS = $/;"	m
+INTL_MACOSX_LIBS	Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+INTL_MACOSX_LIBS	doc/Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+INTL_MACOSX_LIBS	lessons/Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+INTL_MACOSX_LIBS	m4/Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+INTL_MACOSX_LIBS	src/Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+INTL_MACOSX_LIBS	tools/Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+I_TOP_LINE	src/gtypist.c	79;"	d	file:
+KTouchParser	tools/ktouch2typ.pl	/^package KTouchParser;$/;"	p
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	doc/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	lessons/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	m4/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	tools/Makefile	/^LDFLAGS = $/;"	m
+LIBICONV	Makefile	/^LIBICONV = $/;"	m
+LIBICONV	doc/Makefile	/^LIBICONV = $/;"	m
+LIBICONV	lessons/Makefile	/^LIBICONV = $/;"	m
+LIBICONV	m4/Makefile	/^LIBICONV = $/;"	m
+LIBICONV	src/Makefile	/^LIBICONV = $/;"	m
+LIBICONV	tools/Makefile	/^LIBICONV = $/;"	m
+LIBINTL	Makefile	/^LIBINTL = $/;"	m
+LIBINTL	doc/Makefile	/^LIBINTL = $/;"	m
+LIBINTL	lessons/Makefile	/^LIBINTL = $/;"	m
+LIBINTL	m4/Makefile	/^LIBINTL = $/;"	m
+LIBINTL	src/Makefile	/^LIBINTL = $/;"	m
+LIBINTL	tools/Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	doc/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	lessons/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	m4/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	tools/Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = -lncursesw $/;"	m
+LIBS	doc/Makefile	/^LIBS = -lncursesw $/;"	m
+LIBS	lessons/Makefile	/^LIBS = -lncursesw $/;"	m
+LIBS	m4/Makefile	/^LIBS = -lncursesw $/;"	m
+LIBS	src/Makefile	/^LIBS = -lncursesw $/;"	m
+LIBS	tools/Makefile	/^LIBS = -lncursesw $/;"	m
+LINK	src/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LISP	tools/Makefile	/^LISP = $(lisp_LISP)$/;"	m
+LN_S	Makefile	/^LN_S = ln -s$/;"	m
+LN_S	doc/Makefile	/^LN_S = ln -s$/;"	m
+LN_S	lessons/Makefile	/^LN_S = ln -s$/;"	m
+LN_S	m4/Makefile	/^LN_S = ln -s$/;"	m
+LN_S	src/Makefile	/^LN_S = ln -s$/;"	m
+LN_S	tools/Makefile	/^LN_S = ln -s$/;"	m
+LTLIBICONV	Makefile	/^LTLIBICONV = $/;"	m
+LTLIBICONV	doc/Makefile	/^LTLIBICONV = $/;"	m
+LTLIBICONV	lessons/Makefile	/^LTLIBICONV = $/;"	m
+LTLIBICONV	m4/Makefile	/^LTLIBICONV = $/;"	m
+LTLIBICONV	src/Makefile	/^LTLIBICONV = $/;"	m
+LTLIBICONV	tools/Makefile	/^LTLIBICONV = $/;"	m
+LTLIBINTL	Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	doc/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	lessons/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	m4/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	src/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBINTL	tools/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	doc/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	lessons/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	m4/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	tools/Makefile	/^LTLIBOBJS = $/;"	m
+MAINTAINERCLEANFILES	src/Makefile	/^MAINTAINERCLEANFILES = gtypist.1$/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing makeinfo$/;"	m
+MAKEINFO	doc/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing makeinfo$/;"	m
+MAKEINFO	lessons/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing makeinfo$/;"	m
+MAKEINFO	m4/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing makeinfo$/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing makeinfo$/;"	m
+MAKEINFO	tools/Makefile	/^MAKEINFO = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/missing makeinfo$/;"	m
+MAKEINFOHTML	doc/Makefile	/^MAKEINFOHTML = $(MAKEINFO) --html$/;"	m
+MANS	Makefile	/^MANS = $(man_MANS)$/;"	m
+MANS	src/Makefile	/^MANS = $(man_MANS)$/;"	m
+MAX	src/gtypist.c	144;"	d	file:
+MAX_SCR_LINE	src/script.h	65;"	d
+MAX_WIN_LINE	src/script.h	67;"	d
+MESSAGE_LINE	src/gtypist.c	76;"	d	file:
+MIN	src/gtypist.c	143;"	d	file:
+MIN_SCR_LINE	src/script.h	66;"	d
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	doc/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	lessons/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	m4/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	po/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	tools/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MODE_DRILL	src/gtypist.c	/^char *MODE_DRILL;$/;"	v
+MODE_QUERY	src/gtypist.c	/^char *MODE_QUERY;$/;"	v
+MODE_SPEEDTEST	src/gtypist.c	/^char *MODE_SPEEDTEST;$/;"	v
+MODE_TUTORIAL	src/gtypist.c	/^char *MODE_TUTORIAL;$/;"	v
+MSGCONV	po/Makefile	/^MSGCONV = msgconv$/;"	m
+MSGFILTER	po/Makefile	/^MSGFILTER = msgfilter$/;"	m
+MSGFMT	Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	doc/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	lessons/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	m4/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	po/Makefile	/^MSGFMT = $(MSGFMT_$(USE_MSGCTXT))$/;"	m
+MSGFMT	src/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT	tools/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_	po/Makefile	/^MSGFMT_ = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_015	Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_015	doc/Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_015	lessons/Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_015	m4/Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_015	src/Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_015	tools/Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_no	po/Makefile	/^MSGFMT_no = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_yes	po/Makefile	/^MSGFMT_yes = \/usr\/bin\/msgfmt$/;"	m
+MSGID_BUGS_ADDRESS	po/Makefile	/^MSGID_BUGS_ADDRESS =$/;"	m
+MSGINIT	po/Makefile	/^MSGINIT = msginit$/;"	m
+MSGMERGE	Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	doc/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	lessons/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	m4/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	po/Makefile	/^MSGMERGE = msgmerge$/;"	m
+MSGMERGE	src/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE	tools/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MSGMERGE_OPTIONS	po/Makefile	/^MSGMERGE_OPTIONS =$/;"	m
+MSGMERGE_UPDATE	po/Makefile	/^MSGMERGE_UPDATE = \/usr\/bin\/msgmerge --update$/;"	m
+MenuNode	src/cursmenu.c	/^MenuNode;$/;"	t	typeref:struct:_MenuNode	file:
+NFKEYS	src/gtypist.c	184;"	d	file:
+NLHASH	src/script.h	76;"	d
+NONOPTION_P	src/getopt.c	524;"	d	file:
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	doc/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	lessons/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	m4/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	tools/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	doc/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	lessons/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	m4/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	tools/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NO_SKIP_MSG	src/gtypist.c	/^char *NO_SKIP_MSG;$/;"	v
+NROFF	Makefile	/^NROFF = nroff$/;"	m
+NROFF	src/Makefile	/^NROFF = nroff$/;"	m
+NULL	src/getopt1.c	62;"	d	file:
+NUM_COLOURS	src/gtypist.c	134;"	d	file:
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	doc/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	lessons/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	m4/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	tools/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = gtypist$/;"	m
+PACKAGE	config.h	170;"	d
+PACKAGE	doc/Makefile	/^PACKAGE = gtypist$/;"	m
+PACKAGE	lessons/Makefile	/^PACKAGE = gtypist$/;"	m
+PACKAGE	m4/Makefile	/^PACKAGE = gtypist$/;"	m
+PACKAGE	po/Makefile	/^PACKAGE = gtypist$/;"	m
+PACKAGE	src/Makefile	/^PACKAGE = gtypist$/;"	m
+PACKAGE	tools/Makefile	/^PACKAGE = gtypist$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = bug-gtypist@gnu.org$/;"	m
+PACKAGE_BUGREPORT	config.h	173;"	d
+PACKAGE_BUGREPORT	doc/Makefile	/^PACKAGE_BUGREPORT = bug-gtypist@gnu.org$/;"	m
+PACKAGE_BUGREPORT	lessons/Makefile	/^PACKAGE_BUGREPORT = bug-gtypist@gnu.org$/;"	m
+PACKAGE_BUGREPORT	m4/Makefile	/^PACKAGE_BUGREPORT = bug-gtypist@gnu.org$/;"	m
+PACKAGE_BUGREPORT	po/Makefile	/^PACKAGE_BUGREPORT = bug-gtypist@gnu.org$/;"	m
+PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = bug-gtypist@gnu.org$/;"	m
+PACKAGE_BUGREPORT	tools/Makefile	/^PACKAGE_BUGREPORT = bug-gtypist@gnu.org$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = GNU Typist$/;"	m
+PACKAGE_NAME	config.h	176;"	d
+PACKAGE_NAME	doc/Makefile	/^PACKAGE_NAME = GNU Typist$/;"	m
+PACKAGE_NAME	lessons/Makefile	/^PACKAGE_NAME = GNU Typist$/;"	m
+PACKAGE_NAME	m4/Makefile	/^PACKAGE_NAME = GNU Typist$/;"	m
+PACKAGE_NAME	src/Makefile	/^PACKAGE_NAME = GNU Typist$/;"	m
+PACKAGE_NAME	tools/Makefile	/^PACKAGE_NAME = GNU Typist$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = GNU Typist 2.9.5$/;"	m
+PACKAGE_STRING	config.h	179;"	d
+PACKAGE_STRING	doc/Makefile	/^PACKAGE_STRING = GNU Typist 2.9.5$/;"	m
+PACKAGE_STRING	lessons/Makefile	/^PACKAGE_STRING = GNU Typist 2.9.5$/;"	m
+PACKAGE_STRING	m4/Makefile	/^PACKAGE_STRING = GNU Typist 2.9.5$/;"	m
+PACKAGE_STRING	src/Makefile	/^PACKAGE_STRING = GNU Typist 2.9.5$/;"	m
+PACKAGE_STRING	tools/Makefile	/^PACKAGE_STRING = GNU Typist 2.9.5$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = gtypist$/;"	m
+PACKAGE_TARNAME	config.h	182;"	d
+PACKAGE_TARNAME	doc/Makefile	/^PACKAGE_TARNAME = gtypist$/;"	m
+PACKAGE_TARNAME	lessons/Makefile	/^PACKAGE_TARNAME = gtypist$/;"	m
+PACKAGE_TARNAME	m4/Makefile	/^PACKAGE_TARNAME = gtypist$/;"	m
+PACKAGE_TARNAME	src/Makefile	/^PACKAGE_TARNAME = gtypist$/;"	m
+PACKAGE_TARNAME	tools/Makefile	/^PACKAGE_TARNAME = gtypist$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = http:\/\/www.gnu.org\/software\/gtypist\/$/;"	m
+PACKAGE_URL	config.h	185;"	d
+PACKAGE_URL	doc/Makefile	/^PACKAGE_URL = http:\/\/www.gnu.org\/software\/gtypist\/$/;"	m
+PACKAGE_URL	lessons/Makefile	/^PACKAGE_URL = http:\/\/www.gnu.org\/software\/gtypist\/$/;"	m
+PACKAGE_URL	m4/Makefile	/^PACKAGE_URL = http:\/\/www.gnu.org\/software\/gtypist\/$/;"	m
+PACKAGE_URL	src/Makefile	/^PACKAGE_URL = http:\/\/www.gnu.org\/software\/gtypist\/$/;"	m
+PACKAGE_URL	tools/Makefile	/^PACKAGE_URL = http:\/\/www.gnu.org\/software\/gtypist\/$/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 2.9.5$/;"	m
+PACKAGE_VERSION	config.h	188;"	d
+PACKAGE_VERSION	doc/Makefile	/^PACKAGE_VERSION = 2.9.5$/;"	m
+PACKAGE_VERSION	lessons/Makefile	/^PACKAGE_VERSION = 2.9.5$/;"	m
+PACKAGE_VERSION	m4/Makefile	/^PACKAGE_VERSION = 2.9.5$/;"	m
+PACKAGE_VERSION	src/Makefile	/^PACKAGE_VERSION = 2.9.5$/;"	m
+PACKAGE_VERSION	tools/Makefile	/^PACKAGE_VERSION = 2.9.5$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	doc/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	lessons/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	m4/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	tools/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PDFS	doc/Makefile	/^PDFS = gtypist.pdf gtypist.cs.pdf gtypist.es.pdf$/;"	m
+PERMUTE	src/getopt.c	/^    REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon1	file:
+POFILES	po/Makefile	/^POFILES =  cs.po de.po es.po eu.po fi.po fr.po nl.po pl.po ru.po tr.po zh_CN.po zh_TW.po$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	doc/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	lessons/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	m4/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	tools/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	doc/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	lessons/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	m4/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	tools/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	Makefile	/^POSUB = po$/;"	m
+POSUB	doc/Makefile	/^POSUB = po$/;"	m
+POSUB	lessons/Makefile	/^POSUB = po$/;"	m
+POSUB	m4/Makefile	/^POSUB = po$/;"	m
+POSUB	src/Makefile	/^POSUB = po$/;"	m
+POSUB	tools/Makefile	/^POSUB = po$/;"	m
+POTFILES	po/Makefile	/^POTFILES = \\$/;"	m
+POW_LIB	Makefile	/^POW_LIB = $/;"	m
+POW_LIB	doc/Makefile	/^POW_LIB = $/;"	m
+POW_LIB	lessons/Makefile	/^POW_LIB = $/;"	m
+POW_LIB	m4/Makefile	/^POW_LIB = $/;"	m
+POW_LIB	src/Makefile	/^POW_LIB = $/;"	m
+POW_LIB	tools/Makefile	/^POW_LIB = $/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	doc/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	lessons/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	m4/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	tools/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	doc/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	lessons/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	m4/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	tools/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	src/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PSS	doc/Makefile	/^PSS = gtypist.ps gtypist.cs.ps gtypist.es.ps$/;"	m
+QUERY_N	src/gtypist.c	91;"	d	file:
+QUERY_Y	src/gtypist.c	90;"	d	file:
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	doc/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	lessons/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	m4/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	src/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	tools/Makefile	/^RANLIB = ranlib$/;"	m
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive cscopelist-recursive \\$/;"	m
+REPEAT_EXIT_MSG	src/gtypist.c	/^char *REPEAT_EXIT_MSG;$/;"	v
+REPEAT_NEXT_EXIT_MSG	src/gtypist.c	/^char *REPEAT_NEXT_EXIT_MSG;$/;"	v
+REQUIRE_ORDER	src/getopt.c	/^    REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon1	file:
+RETSIGTYPE	config.h	191;"	d
+RETURN_CHARACTER	src/gtypist.c	68;"	d	file:
+RETURN_IN_ORDER	src/getopt.c	/^    REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon1	file:
+RNE	src/gtypist.c	/^wchar_t *RNE;$/;"	v
+SCRIPTS	Makefile	/^SCRIPTS = $(dist_bin_SCRIPTS)$/;"	m
+SCRIPT_H	src/script.h	23;"	d
+SCR_COMMAND	src/script.h	28;"	d
+SCR_DATA	src/script.h	30;"	d
+SCR_SEP	src/script.h	29;"	d
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	doc/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	lessons/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	m4/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	tools/Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	doc/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	lessons/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	m4/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	po/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	tools/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SKIPBACK_VIA_F_MSG	src/gtypist.c	/^char *SKIPBACK_VIA_F_MSG;$/;"	v
+SOURCES	Makefile	/^SOURCES =$/;"	m
+SOURCES	doc/Makefile	/^SOURCES =$/;"	m
+SOURCES	lessons/Makefile	/^SOURCES =$/;"	m
+SOURCES	m4/Makefile	/^SOURCES =$/;"	m
+SOURCES	src/Makefile	/^SOURCES = $(gtypist_SOURCES)$/;"	m
+SOURCES	tools/Makefile	/^SOURCES =$/;"	m
+SPEED_ADJ_CPM	src/gtypist.c	/^char *SPEED_ADJ_CPM;$/;"	v
+SPEED_ADJ_WPM	src/gtypist.c	/^char *SPEED_ADJ_WPM;$/;"	v
+SPEED_BEST_CPM	src/gtypist.c	/^char *SPEED_BEST_CPM;$/;"	v
+SPEED_BEST_NEW_MSG	src/gtypist.c	/^char *SPEED_BEST_NEW_MSG;$/;"	v
+SPEED_BEST_WPM	src/gtypist.c	/^char *SPEED_BEST_WPM;$/;"	v
+SPEED_LINE	src/gtypist.c	81;"	d	file:
+SPEED_PCT_ERROR	src/gtypist.c	/^char *SPEED_PCT_ERROR;$/;"	v
+SPEED_RAW_CPM	src/gtypist.c	/^char *SPEED_RAW_CPM;$/;"	v
+SPEED_RAW_WPM	src/gtypist.c	/^char *SPEED_RAW_WPM;$/;"	v
+STDC_HEADERS	config.h	202;"	d
+STRING_NL	src/script.h	62;"	d
+STRIP	Makefile	/^STRIP = $/;"	m
+STRIP	doc/Makefile	/^STRIP = $/;"	m
+STRIP	lessons/Makefile	/^STRIP = $/;"	m
+STRIP	m4/Makefile	/^STRIP = $/;"	m
+STRIP	src/Makefile	/^STRIP = $/;"	m
+STRIP	tools/Makefile	/^STRIP = $/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = m4 po lessons tools doc src$/;"	m
+SWAP_FLAGS	src/getopt.c	278;"	d	file:
+SWAP_FLAGS	src/getopt.c	286;"	d	file:
+TEXI2DVI	doc/Makefile	/^TEXI2DVI = texi2dvi$/;"	m
+TEXI2PDF	doc/Makefile	/^TEXI2PDF = $(TEXI2DVI) --pdf --batch$/;"	m
+TEXINFOS	doc/Makefile	/^TEXINFOS = gtypist.texi gtypist.cs.texi gtypist.es.texi$/;"	m
+T_TOP_LINE	src/gtypist.c	78;"	d	file:
+UPDATEPOFILES	po/Makefile	/^UPDATEPOFILES =  cs.po-update de.po-update es.po-update eu.po-update fi.po-update fr.po-update nl.po-update pl.po-update ru.po-update tr.po-update zh_CN.po-update zh_TW.po-update$/;"	m
+USE_MSGCTXT	po/Makefile	/^USE_MSGCTXT = no$/;"	m
+USE_NLS	Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	doc/Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	lessons/Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	m4/Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	src/Makefile	/^USE_NLS = yes$/;"	m
+USE_NLS	tools/Makefile	/^USE_NLS = yes$/;"	m
+UTF8_H	src/utf8.h	21;"	d
+VERSION	Makefile	/^VERSION = 2.9.5$/;"	m
+VERSION	config.h	226;"	d
+VERSION	doc/Makefile	/^VERSION = 2.9.5$/;"	m
+VERSION	lessons/Makefile	/^VERSION = 2.9.5$/;"	m
+VERSION	m4/Makefile	/^VERSION = 2.9.5$/;"	m
+VERSION	po/Makefile	/^VERSION = 2.9.5$/;"	m
+VERSION	src/Makefile	/^VERSION = 2.9.5$/;"	m
+VERSION	tools/Makefile	/^VERSION = 2.9.5$/;"	m
+WAIT_MESSAGE	src/gtypist.c	/^char *WAIT_MESSAGE;$/;"	v
+XGETTEXT	Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	doc/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	lessons/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	m4/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	po/Makefile	/^XGETTEXT = $(XGETTEXT_$(USE_MSGCTXT))$/;"	m
+XGETTEXT	src/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT	tools/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_	po/Makefile	/^XGETTEXT_ = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_015	Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_015	doc/Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_015	lessons/Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_015	m4/Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_015	src/Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_015	tools/Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_EXTRA_OPTIONS	Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m
+XGETTEXT_EXTRA_OPTIONS	doc/Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m
+XGETTEXT_EXTRA_OPTIONS	lessons/Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m
+XGETTEXT_EXTRA_OPTIONS	m4/Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m
+XGETTEXT_EXTRA_OPTIONS	src/Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m
+XGETTEXT_EXTRA_OPTIONS	tools/Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m
+XGETTEXT_OPTIONS	po/Makefile	/^XGETTEXT_OPTIONS = --keyword=_ --keyword=N_$/;"	m
+XGETTEXT_no	po/Makefile	/^XGETTEXT_no = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_yes	po/Makefile	/^XGETTEXT_yes = \/usr\/bin\/xgettext$/;"	m
+YACC	Makefile	/^YACC = bison -y$/;"	m
+YACC	doc/Makefile	/^YACC = bison -y$/;"	m
+YACC	lessons/Makefile	/^YACC = bison -y$/;"	m
+YACC	m4/Makefile	/^YACC = bison -y$/;"	m
+YACC	src/Makefile	/^YACC = bison -y$/;"	m
+YACC	tools/Makefile	/^YACC = bison -y$/;"	m
+YFLAGS	Makefile	/^YFLAGS = $/;"	m
+YFLAGS	doc/Makefile	/^YFLAGS = $/;"	m
+YFLAGS	lessons/Makefile	/^YFLAGS = $/;"	m
+YFLAGS	m4/Makefile	/^YFLAGS = $/;"	m
+YFLAGS	src/Makefile	/^YFLAGS = $/;"	m
+YFLAGS	tools/Makefile	/^YFLAGS = $/;"	m
+YN	src/gtypist.c	/^wchar_t *YN;$/;"	v
+_	src/cursmenu.c	38;"	d	file:
+_	src/error.c	34;"	d	file:
+_	src/getopt.c	84;"	d	file:
+_	src/getopt.c	86;"	d	file:
+_	src/gtypist.c	56;"	d	file:
+_	src/script.c	38;"	d	file:
+_	src/utf8.c	38;"	d	file:
+_ALL_SOURCE	config.h	206;"	d
+_GETOPT_H	src/getopt.h	21;"	d
+_GNU_SOURCE	config.h	210;"	d
+_LIBGETTEXT_H	src/gettext.h	18;"	d
+_LIBGETTEXT_HAVE_VARIABLE_SIZE_ARRAYS	src/gettext.h	179;"	d
+_LIBGETTEXT_HAVE_VARIABLE_SIZE_ARRAYS	src/gettext.h	181;"	d
+_MenuNode	src/cursmenu.c	/^typedef struct _MenuNode$/;"	s	file:
+_NO_PROTO	src/getopt.c	28;"	d	file:
+_POSIX_PTHREAD_SEMANTICS	config.h	214;"	d
+_TANDEM_SOURCE	config.h	218;"	d
+_XOPEN_SOURCE_EXTENDED	src/utf8.h	24;"	d
+__EXTENSIONS__	config.h	222;"	d
+__getopt_initialized	src/getopt.c	/^int __getopt_initialized = 0;$/;"	v
+__last_label	src/script.c	/^char *__last_label = NULL;$/;"	v
+__update_last_label	src/script.c	/^void __update_last_label(const char *label)$/;"	f
+_getopt_initialize	src/getopt.c	/^static const char *_getopt_initialize(argc, argv, optstring)$/;"	f	file:
+_getopt_internal	src/getopt.c	/^int _getopt_internal(argc, argv, optstring, longopts, longind, long_only)$/;"	f
+abs_builddir	Makefile	/^abs_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_builddir	doc/Makefile	/^abs_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/doc$/;"	m
+abs_builddir	lessons/Makefile	/^abs_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/lessons$/;"	m
+abs_builddir	m4/Makefile	/^abs_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/m4$/;"	m
+abs_builddir	src/Makefile	/^abs_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/src$/;"	m
+abs_builddir	tools/Makefile	/^abs_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/tools$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_srcdir	doc/Makefile	/^abs_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/doc$/;"	m
+abs_srcdir	lessons/Makefile	/^abs_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/lessons$/;"	m
+abs_srcdir	m4/Makefile	/^abs_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/m4$/;"	m
+abs_srcdir	src/Makefile	/^abs_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/src$/;"	m
+abs_srcdir	tools/Makefile	/^abs_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/tools$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_builddir	doc/Makefile	/^abs_top_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_builddir	lessons/Makefile	/^abs_top_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_builddir	m4/Makefile	/^abs_top_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_builddir	src/Makefile	/^abs_top_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_builddir	tools/Makefile	/^abs_top_builddir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_srcdir	doc/Makefile	/^abs_top_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_srcdir	lessons/Makefile	/^abs_top_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_srcdir	m4/Makefile	/^abs_top_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+abs_top_srcdir	tools/Makefile	/^abs_top_srcdir = \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	doc/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	lessons/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	m4/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	tools/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_fn_c_check_func	configure	/^ac_fn_c_check_func ()$/;"	f
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_check_header_mongrel	configure	/^ac_fn_c_check_header_mongrel ()$/;"	f
+ac_fn_c_check_type	configure	/^ac_fn_c_check_type ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+aix_post_process_depfile	depcomp	/^aix_post_process_depfile ()$/;"	f
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__ELCFILES	tools/Makefile	/^am__ELCFILES = $(am__ELFILES:.el=.elc)$/;"	m
+am__ELFILES	tools/Makefile	/^am__ELFILES = gtypist-mode.el$/;"	m
+am__TEXINFO_TEX_DIR	doc/Makefile	/^am__TEXINFO_TEX_DIR = $(srcdir)$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m
+am__aclocal_m4_deps	doc/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m
+am__aclocal_m4_deps	lessons/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m
+am__aclocal_m4_deps	m4/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m
+am__aclocal_m4_deps	src/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m
+am__aclocal_m4_deps	tools/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m
+am__base_list	Makefile	/^am__base_list = \\$/;"	m
+am__base_list	doc/Makefile	/^am__base_list = \\$/;"	m
+am__base_list	lessons/Makefile	/^am__base_list = \\$/;"	m
+am__base_list	src/Makefile	/^am__base_list = \\$/;"	m
+am__base_list	tools/Makefile	/^am__base_list = \\$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	doc/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	lessons/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	m4/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	tools/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	doc/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	lessons/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	m4/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	tools/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	doc/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	lessons/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	m4/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	tools/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__define_uniq_tagged_files	Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__define_uniq_tagged_files	src/Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__define_uniq_tagged_files	tools/Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__depfiles_maybe	src/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__distuninstallcheck_listfiles	Makefile	/^am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \\$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	doc/Makefile	/^am__include = include$/;"	m
+am__include	lessons/Makefile	/^am__include = include$/;"	m
+am__include	m4/Makefile	/^am__include = include$/;"	m
+am__include	src/Makefile	/^am__include = include$/;"	m
+am__include	tools/Makefile	/^am__include = include$/;"	m
+am__install_max	Makefile	/^am__install_max = 40$/;"	m
+am__install_max	doc/Makefile	/^am__install_max = 40$/;"	m
+am__install_max	lessons/Makefile	/^am__install_max = 40$/;"	m
+am__install_max	src/Makefile	/^am__install_max = 40$/;"	m
+am__install_max	tools/Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)" "$(DESTDIR)$(man1dir)"$/;"	m
+am__installdirs	doc/Makefile	/^am__installdirs = "$(DESTDIR)$(infodir)"$/;"	m
+am__installdirs	lessons/Makefile	/^am__installdirs = "$(DESTDIR)$(pkgdatadir)"$/;"	m
+am__installdirs	src/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)" "$(DESTDIR)$(man1dir)"$/;"	m
+am__installdirs	tools/Makefile	/^am__installdirs = "$(DESTDIR)$(lispdir)"$/;"	m
+am__is_gnu_make	Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	doc/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	lessons/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	m4/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	src/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	tools/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	doc/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	lessons/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	m4/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	tools/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	doc/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	lessons/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	m4/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	src/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	tools/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	doc/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	lessons/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	m4/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	src/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	tools/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_running_with_option	Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	doc/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	lessons/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	m4/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	src/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	tools/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__mv	src/Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_list	doc/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_list	lessons/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_list	src/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_list	tools/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip	doc/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip	lessons/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip	src/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip	tools/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__nobase_strip_setup	doc/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__nobase_strip_setup	lessons/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__nobase_strip_setup	src/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__nobase_strip_setup	tools/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__post_remove_distdir	Makefile	/^am__post_remove_distdir = $(am__remove_distdir)$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	doc/Makefile	/^am__quote = $/;"	m
+am__quote	lessons/Makefile	/^am__quote = $/;"	m
+am__quote	m4/Makefile	/^am__quote = $/;"	m
+am__quote	src/Makefile	/^am__quote = $/;"	m
+am__quote	tools/Makefile	/^am__quote = $/;"	m
+am__recursive_targets	Makefile	/^am__recursive_targets = \\$/;"	m
+am__relativize	Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__strip_dir	Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__strip_dir	doc/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__strip_dir	lessons/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__strip_dir	src/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__strip_dir	tools/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tagged_files	Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) \\$/;"	m
+am__tagged_files	doc/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	lessons/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	m4/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	src/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	tools/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	doc/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	lessons/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	m4/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	tools/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__uninstall_files_from_dir	Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uninstall_files_from_dir	doc/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uninstall_files_from_dir	lessons/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uninstall_files_from_dir	src/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uninstall_files_from_dir	tools/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uniquify_input	Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__uniquify_input	src/Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__uniquify_input	tools/Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	doc/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	lessons/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	m4/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	tools/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__v_CCLD_	src/Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_0	src/Makefile	/^am__v_CCLD_0 = @echo "  CCLD    " $@;$/;"	m
+am__v_CCLD_1	src/Makefile	/^am__v_CCLD_1 = $/;"	m
+am__v_CC_	src/Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_0	src/Makefile	/^am__v_CC_0 = @echo "  CC      " $@;$/;"	m
+am__v_CC_1	src/Makefile	/^am__v_CC_1 = $/;"	m
+am__v_DVIPS_	doc/Makefile	/^am__v_DVIPS_ = $(am__v_DVIPS_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_DVIPS_0	doc/Makefile	/^am__v_DVIPS_0 = @echo "  DVIPS   " $@;$/;"	m
+am__v_DVIPS_1	doc/Makefile	/^am__v_DVIPS_1 = $/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	doc/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	lessons/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	m4/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	src/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	tools/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	doc/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	lessons/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	m4/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	src/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	tools/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_1	Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	doc/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	lessons/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	m4/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	src/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	tools/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_INFOHTML_	doc/Makefile	/^am__v_INFOHTML_ = $(am__v_INFOHTML_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_INFOHTML_0	doc/Makefile	/^am__v_INFOHTML_0 = @echo "  INFOHTML" $@;$/;"	m
+am__v_INFOHTML_1	doc/Makefile	/^am__v_INFOHTML_1 = $/;"	m
+am__v_MAKEINFO_	doc/Makefile	/^am__v_MAKEINFO_ = $(am__v_MAKEINFO_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_MAKEINFO_0	doc/Makefile	/^am__v_MAKEINFO_0 = @echo "  MAKEINFO" $@;$/;"	m
+am__v_MAKEINFO_1	doc/Makefile	/^am__v_MAKEINFO_1 = $/;"	m
+am__v_P_	Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	doc/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	lessons/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	m4/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	src/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	tools/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_0	Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	doc/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	lessons/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	m4/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	src/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	tools/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_1	Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	doc/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	lessons/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	m4/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	src/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	tools/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_TEXI2DVI_	doc/Makefile	/^am__v_TEXI2DVI_ = $(am__v_TEXI2DVI_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_TEXI2DVI_0	doc/Makefile	/^am__v_TEXI2DVI_0 = @echo "  TEXI2DVI" $@;$/;"	m
+am__v_TEXI2DVI_1	doc/Makefile	/^am__v_TEXI2DVI_1 = $/;"	m
+am__v_TEXI2PDF_	doc/Makefile	/^am__v_TEXI2PDF_ = $(am__v_TEXI2PDF_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_TEXI2PDF_0	doc/Makefile	/^am__v_TEXI2PDF_0 = @echo "  TEXI2PDF" $@;$/;"	m
+am__v_TEXI2PDF_1	doc/Makefile	/^am__v_TEXI2PDF_1 = $/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	doc/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	lessons/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	m4/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	src/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	tools/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	doc/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	lessons/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	m4/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	src/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	tools/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_1	Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	doc/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	lessons/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	m4/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	src/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	tools/Makefile	/^am__v_at_1 = $/;"	m
+am__v_texidevnull_	doc/Makefile	/^am__v_texidevnull_ = $(am__v_texidevnull_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_texidevnull_0	doc/Makefile	/^am__v_texidevnull_0 = > \/dev\/null$/;"	m
+am__v_texidevnull_1	doc/Makefile	/^am__v_texidevnull_1 = $/;"	m
+am__v_texinfo_	doc/Makefile	/^am__v_texinfo_ = $(am__v_texinfo_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_texinfo_0	doc/Makefile	/^am__v_texinfo_0 = -q$/;"	m
+am__v_texinfo_1	doc/Makefile	/^am__v_texinfo_1 = $/;"	m
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj	doc/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj	lessons/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj	src/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj	tools/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__vpath_adj_setup	doc/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__vpath_adj_setup	lessons/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__vpath_adj_setup	src/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__vpath_adj_setup	tools/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_gtypist_OBJECTS	src/Makefile	/^am_gtypist_OBJECTS = gtypist.$(OBJEXT) cursmenu.$(OBJEXT) \\$/;"	m
+append_menu_history	src/cursmenu.c	/^static void append_menu_history(const char *label)$/;"	f	file:
+argv0	src/error.c	/^char *argv0 = NULL;$/;"	v
+as_fn_append	config.status	/^  as_fn_append ()$/;"	f
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	config.status	/^  as_fn_arith ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	config.status	/^as_fn_error ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_executable_p	config.status	/^as_fn_executable_p ()$/;"	f
+as_fn_executable_p	configure	/^as_fn_executable_p ()$/;"	f
+as_fn_exit	config.status	/^as_fn_exit ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	config.status	/^as_fn_mkdir_p ()$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	config.status	/^as_fn_set_status ()$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	config.status	/^as_fn_unset ()$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+b:current_syntax	tools/gtypist.vim	/^let b:current_syntax = "gtypist"$/;"	v
+banner	src/gtypist.c	/^void banner(const char *text)$/;"	f
+bin_PROGRAMS	src/Makefile	/^bin_PROGRAMS = gtypist$(EXEEXT)$/;"	m
+bind_F12	src/gtypist.c	/^void bind_F12(const char *label)$/;"	f
+bind_textdomain_codeset	src/gettext.h	88;"	d
+bind_textdomain_codeset	src/gettext.h	89;"	d
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	doc/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	lessons/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	m4/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	tools/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindtextdomain	src/gettext.h	85;"	d
+bindtextdomain	src/gettext.h	86;"	d
+bool	src/gtypist.c	72;"	d	file:
+buffer_command	src/script.c	/^char *buffer_command(FILE * script, char *line)$/;"	f
+build	Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	doc/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	lessons/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	m4/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	src/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	tools/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	doc/Makefile	/^build_alias = $/;"	m
+build_alias	lessons/Makefile	/^build_alias = $/;"	m
+build_alias	m4/Makefile	/^build_alias = $/;"	m
+build_alias	src/Makefile	/^build_alias = $/;"	m
+build_alias	tools/Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	doc/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	lessons/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	m4/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	src/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	tools/Makefile	/^build_cpu = x86_64$/;"	m
+build_label_index	src/script.c	/^void build_label_index(FILE * script)$/;"	f
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_os	doc/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	lessons/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	m4/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	src/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	tools/Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	doc/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	lessons/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	m4/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	src/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	tools/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	doc/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	lessons/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	m4/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	src/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	tools/Makefile	/^build_vendor = unknown$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	doc/Makefile	/^builddir = .$/;"	m
+builddir	lessons/Makefile	/^builddir = .$/;"	m
+builddir	m4/Makefile	/^builddir = .$/;"	m
+builddir	src/Makefile	/^builddir = .$/;"	m
+builddir	tools/Makefile	/^builddir = .$/;"	m
+catcher	src/gtypist.c	/^static void catcher(int signal)$/;"	f	file:
+characters	tools/ktouch2typ.pl	/^sub characters {$/;"	s
+check_script_file_with_current_encoding	src/script.c	/^void check_script_file_with_current_encoding(FILE * script)$/;"	f
+cl_banner_bg_colour	src/gtypist.c	/^static int cl_banner_bg_colour = 0;    \/\/ since we display them in$/;"	v	file:
+cl_banner_fg_colour	src/gtypist.c	/^static int cl_banner_fg_colour = 6;    \/\/ inverse video, fg is bg$/;"	v	file:
+cl_bgcolour	src/gtypist.c	/^static int cl_bgcolour = 0;        \/* bg colour *\/$/;"	v	file:
+cl_colour	src/gtypist.c	/^static bool cl_colour = FALSE;    \/* set if -c given *\/$/;"	v	file:
+cl_curs_flash	src/gtypist.c	/^static int cl_curs_flash = 10;    \/* cursor flash period *\/$/;"	v	file:
+cl_default_error_max	src/gtypist.c	/^static float cl_default_error_max = 3.0;    \/* maximum error percentage *\/$/;"	v	file:
+cl_error_max_specified	src/gtypist.c	/^static bool cl_error_max_specified = FALSE;    \/* is --error-max specified? *\/$/;"	v	file:
+cl_fgcolour	src/gtypist.c	/^static int cl_fgcolour = 7;        \/* fg colour *\/$/;"	v	file:
+cl_menu_title_colour	src/gtypist.c	/^static int cl_menu_title_colour = 7;$/;"	v	file:
+cl_no_skip	src/gtypist.c	/^static bool cl_no_skip = FALSE;    \/* forbid the user to *\/$/;"	v	file:
+cl_notimer	src/gtypist.c	/^static bool cl_notimer = FALSE;    \/* no timings in drills *\/$/;"	v	file:
+cl_personal_best	src/gtypist.c	/^static bool cl_personal_best = FALSE;    \/* track personal best speeds *\/$/;"	v	file:
+cl_prog_name_colour	src/gtypist.c	/^static int cl_prog_name_colour = 5;    \/\/ and vice versa.$/;"	v	file:
+cl_prog_version_colour	src/gtypist.c	/^static int cl_prog_version_colour = 1;$/;"	v	file:
+cl_rev_video_errors	src/gtypist.c	/^static bool cl_rev_video_errors = FALSE;    \/* reverse video for errors *\/$/;"	v	file:
+cl_scoring_cpm	src/gtypist.c	/^static bool cl_scoring_cpm = FALSE;    \/* Chars-per-minute scoring *\/$/;"	v	file:
+cl_silent	src/gtypist.c	/^static bool cl_silent = FALSE;    \/* no beep on errors *\/$/;"	v	file:
+cl_start_label	src/gtypist.c	/^static char *cl_start_label = NULL;    \/* initial lesson start point *\/$/;"	v	file:
+cl_term_cursor	src/gtypist.c	/^static bool cl_term_cursor = FALSE;    \/* don't do s\/w cursor *\/$/;"	v	file:
+cl_wp_emu	src/gtypist.c	/^static bool cl_wp_emu = FALSE;    \/* do wp-like stuff *\/$/;"	v	file:
+colour_array	src/gtypist.c	/^static short colour_array[] = {$/;"	v	file:
+const	src/getopt.c	39;"	d	file:
+const	src/getopt1.c	31;"	d	file:
+convertFromUTF8	src/utf8.c	/^wchar_t *convertFromUTF8(const char *UTF8Text)$/;"	f
+convertUTF8ToCurrentEncoding	src/utf8.c	/^char *convertUTF8ToCurrentEncoding(const char *UTF8Input)$/;"	f
+convert_lesson	tools/ktouchOLD2typ.pl	/^sub convert_lesson($**)$/;"	s
+convert_lesson	tools/tt2typ.pl	/^sub convert_lesson($$*)$/;"	s
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	doc/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	lessons/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	m4/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	po/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	tools/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	doc/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	lessons/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	m4/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	po/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	tools/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+dcgettext	src/gettext.h	69;"	d
+dcgettext	src/gettext.h	70;"	d
+dcngettext	src/gettext.h	80;"	d
+dcngettext	src/gettext.h	81;"	d
+dcnpgettext	src/gettext.h	136;"	d
+dcnpgettext_expr	src/gettext.h	/^static const char *dcnpgettext_expr(const char *domain, const char *msgctxt, const char *msgid, const char *msgid_plural, unsigned long int n, int category)$/;"	f
+dcpgettext	src/gettext.h	125;"	d
+dcpgettext_expr	src/gettext.h	/^static const char *dcpgettext_expr(const char *domain, const char *msgctxt, const char *msgid, int category)$/;"	f
+depcomp	src/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+dgettext	src/gettext.h	67;"	d
+dgettext	src/gettext.h	68;"	d
+did_gtypist_syntax_inits	tools/gtypist.vim	/^  let did_gtypist_syntax_inits = 1$/;"	v
+display_speed	src/gtypist.c	/^static void display_speed(int total_chars, double elapsed_time, int errcount)$/;"	f	file:
+dist_bin_SCRIPTS	Makefile	/^dist_bin_SCRIPTS = typefortune$/;"	m
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distdir	po/Makefile	/^distdir = $(top_builddir)\/$(PACKAGE)-$(VERSION)\/$(subdir)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+dngettext	src/gettext.h	77;"	d
+dngettext	src/gettext.h	78;"	d
+dnpgettext	src/gettext.h	134;"	d
+dnpgettext_expr	src/gettext.h	229;"	d
+do_bell	src/gtypist.c	/^void do_bell()$/;"	f
+do_clear	src/gtypist.c	/^static void do_clear(FILE * script, char *line)$/;"	f	file:
+do_drill	src/gtypist.c	/^static void do_drill(FILE * script, char *line)$/;"	f	file:
+do_error_max_set	src/gtypist.c	/^static void do_error_max_set(FILE * script, char *line)$/;"	f	file:
+do_exit	src/script.c	/^void do_exit(FILE * script)$/;"	f
+do_goto	src/gtypist.c	/^static void do_goto(FILE * script, char *line, bool flag)$/;"	f	file:
+do_instruction	src/gtypist.c	/^static void do_instruction(FILE * script, char *line)$/;"	f	file:
+do_keybind	src/gtypist.c	/^static void do_keybind(FILE * script, char *line)$/;"	f	file:
+do_menu	src/cursmenu.c	/^char *do_menu(FILE * script, char *line)$/;"	f
+do_on_failure_label_set	src/gtypist.c	/^static void do_on_failure_label_set(FILE * script, char *line)$/;"	f	file:
+do_query	src/gtypist.c	/^static bool do_query(FILE * script, char *line)$/;"	f	file:
+do_query_repeat	src/gtypist.c	/^static char do_query_repeat(FILE * script, bool allow_next)$/;"	f	file:
+do_query_simple	src/gtypist.c	/^static bool do_query_simple(char *text)$/;"	f	file:
+do_speedtest	src/gtypist.c	/^static void do_speedtest(FILE * script, char *line)$/;"	f	file:
+do_tutorial	src/gtypist.c	/^static void do_tutorial(FILE * script, char *line)$/;"	f	file:
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	doc/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	lessons/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	m4/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	tools/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dpgettext	src/gettext.h	123;"	d
+dpgettext_expr	src/gettext.h	190;"	d
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	doc/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	lessons/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	m4/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	tools/Makefile	/^dvidir = ${docdir}$/;"	m
+end_element	tools/ktouch2typ.pl	/^sub end_element {$/;"	s
+error	doc/mdate-sh	/^error ()$/;"	f
+exchange	src/getopt.c	/^static void exchange(argv)$/;"	f	file:
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	doc/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	lessons/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	m4/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	po/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	tools/Makefile	/^exec_prefix = ${prefix}$/;"	m
+fatal_error	src/error.c	/^void fatal_error(const char *message, const char *line)$/;"	f
+first_nonopt	src/getopt.c	/^static int first_nonopt;$/;"	v	file:
+fkey_bindings	src/gtypist.c	/^static char *fkey_bindings[NFKEYS] = { NULL, NULL, NULL, NULL, NULL, NULL,$/;"	v	file:
+flag	src/getopt.h	/^        int *flag;$/;"	m	struct:option
+func_cl_dashL	compile	/^func_cl_dashL ()$/;"	f
+func_cl_dashl	compile	/^func_cl_dashl ()$/;"	f
+func_cl_wrapper	compile	/^func_cl_wrapper ()$/;"	f
+func_file_conv	compile	/^func_file_conv ()$/;"	f
+generate_jump_table	tools/gtypist.pm	/^sub generate_jump_table($*)$/;"	s
+generate_menu	tools/gtypist.pm	/^sub generate_menu($$*@)$/;"	s
+getAbsoluteFilename	tools/gtypist.pm	/^sub getAbsoluteFilename($)$/;"	s
+getBanner	tools/gtypist.pm	/^sub getBanner($)$/;"	s
+getBanner	typefortune	/^sub getBanner($)$/;"	s
+get_best_speed	src/gtypist.c	/^bool get_best_speed(const char *script_filename, const char *excersise_label, double *adjusted_cpm)$/;"	f
+get_script_line	src/script.c	/^void get_script_line(FILE * script, char *line)$/;"	f
+get_widech	src/utf8.c	/^int get_widech(int *c)$/;"	f
+getch_fl	src/gtypist.c	/^static int getch_fl(int cursor_char)$/;"	f	file:
+getopt	src/getopt.c	/^int getopt(argc, argv, optstring)$/;"	f
+getopt_long	src/getopt1.c	/^int getopt_long(argc, argv, options, long_options, opt_index)$/;"	f
+getopt_long_only	src/getopt1.c	/^int getopt_long_only(argc, argv, options, long_options, opt_index)$/;"	f
+gettext	src/gettext.h	30;"	d
+gettext	src/gettext.h	31;"	d
+gettext	src/gettext.h	65;"	d
+gettext	src/gettext.h	66;"	d
+gettext_noop	src/gettext.h	107;"	d
+gettextsrcdir	po/Makefile	/^gettextsrcdir = $(datadir)\/gettext\/po$/;"	m
+give_advice	missing	/^give_advice ()$/;"	f
+global_error_max	src/gtypist.c	/^static float global_error_max = -1.0;$/;"	v	file:
+global_error_max_persistent	src/gtypist.c	/^static bool global_error_max_persistent = FALSE;$/;"	v	file:
+global_home_env	src/gtypist.c	/^static char *global_home_env = NULL;$/;"	v	file:
+global_label_list	src/script.c	/^struct label_entry *global_label_list[NLHASH];$/;"	v	typeref:struct:label_entry
+global_line_counter	src/script.c	/^int global_line_counter = 0;$/;"	v
+global_on_failure_label	src/gtypist.c	/^static struct label_entry *global_on_failure_label = NULL;$/;"	v	typeref:struct:label_entry	file:
+global_on_failure_label_persistent	src/gtypist.c	/^static bool global_on_failure_label_persistent = FALSE;$/;"	v	file:
+global_prior_command	src/gtypist.c	/^static char global_prior_command = C_CONT;$/;"	v	file:
+global_resp_flag	src/gtypist.c	/^static bool global_resp_flag = TRUE;$/;"	v	file:
+global_script_filename	src/gtypist.c	/^static char *global_script_filename = NULL;$/;"	v	file:
+gtypist	tools/gtypist.pm	/^package gtypist;$/;"	p
+gtypist-mode	tools/gtypist-mode.el	/^(defun gtypist-mode()$/;"	f
+gtypist-mode-font-lock-keywords	tools/gtypist-mode.el	/^(defconst gtypist-mode-font-lock-keywords$/;"	f
+gtypist-mode-fortune-to-drill	tools/gtypist-mode.el	/^(defun gtypist-mode-fortune-to-drill(prefix)$/;"	f
+gtypist-mode-get-list-of-labels	tools/gtypist-mode.el	/^(defun gtypist-mode-get-list-of-labels()$/;"	f
+gtypist-mode-goto-label	tools/gtypist-mode.el	/^(defun gtypist-mode-goto-label()$/;"	f
+gtypist-mode-in-drill-text-p	tools/gtypist-mode.el	/^(defun gtypist-mode-in-drill-text-p()$/;"	f
+gtypist-mode-indent-line	tools/gtypist-mode.el	/^(defun gtypist-mode-indent-line()$/;"	f
+gtypist-mode-info	tools/gtypist-mode.el	/^(defun gtypist-mode-info(prefix)$/;"	f
+gtypist-mode-insert-banner	tools/gtypist-mode.el	/^(defun gtypist-mode-insert-banner(text)$/;"	f
+gtypist-mode-insert-hrule	tools/gtypist-mode.el	/^(defun gtypist-mode-insert-hrule()$/;"	f
+gtypist-mode-map	tools/gtypist-mode.el	/^(defvar gtypist-mode-map nil "Keymap for gtypist-mode.")$/;"	f
+gtypist-mode-new-lesson	tools/gtypist-mode.el	/^(defun gtypist-mode-new-lesson(id)$/;"	f
+gtypist-mode-next-label	tools/gtypist-mode.el	/^(defun gtypist-mode-next-label()$/;"	f
+gtypist-mode-syntax-table	tools/gtypist-mode.el	/^(defvar gtypist-mode-syntax-table nil "Syntax-table for gtypist-mode.")$/;"	f
+gtypist_DEPENDENCIES	src/Makefile	/^gtypist_DEPENDENCIES =$/;"	m
+gtypist_LDADD	src/Makefile	/^gtypist_LDADD =  $/;"	m
+gtypist_OBJECTS	src/Makefile	/^gtypist_OBJECTS = $(am_gtypist_OBJECTS)$/;"	m
+gtypist_SOURCES	src/Makefile	/^gtypist_SOURCES = gtypist.c cursmenu.c script.c error.c getopt.c getopt1.c \\$/;"	m
+gtypist_TEXINFOS	doc/Makefile	/^gtypist_TEXINFOS = gpl.texi fdl.texi$/;"	m
+has_arg	src/getopt.h	/^        int has_arg;$/;"	m	struct:option
+hash_label	src/script.c	/^int hash_label(char *label)$/;"	f
+host	Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	doc/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	lessons/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	m4/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	src/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	tools/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	doc/Makefile	/^host_alias = $/;"	m
+host_alias	lessons/Makefile	/^host_alias = $/;"	m
+host_alias	m4/Makefile	/^host_alias = $/;"	m
+host_alias	src/Makefile	/^host_alias = $/;"	m
+host_alias	tools/Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	doc/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	lessons/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	m4/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	src/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	tools/Makefile	/^host_cpu = x86_64$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_os	doc/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	lessons/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	m4/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	src/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	tools/Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	doc/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	lessons/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	m4/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	src/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	tools/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	doc/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	lessons/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	m4/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	src/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	tools/Makefile	/^host_vendor = unknown$/;"	m
+html_docs	doc/Makefile	/^html_docs = gtypist.html gtypist.cs.html gtypist.es.html$/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	doc/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	lessons/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	m4/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	tools/Makefile	/^htmldir = ${docdir}$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	doc/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	lessons/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	m4/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	tools/Makefile	/^includedir = ${prefix}\/include$/;"	m
+indent_to	src/gtypist.c	/^static void indent_to(int n)$/;"	f	file:
+info_TEXINFOS	doc/Makefile	/^info_TEXINFOS = gtypist.texi gtypist.cs.texi gtypist.es.texi$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	doc/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	lessons/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	m4/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	tools/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/install-sh$/;"	m
+install_sh	doc/Makefile	/^install_sh = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/install-sh$/;"	m
+install_sh	lessons/Makefile	/^install_sh = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/install-sh$/;"	m
+install_sh	m4/Makefile	/^install_sh = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/install-sh$/;"	m
+install_sh	po/Makefile	/^install_sh = $(SHELL) ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/install-sh$/;"	m
+install_sh	src/Makefile	/^install_sh = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/install-sh$/;"	m
+install_sh	tools/Makefile	/^install_sh = ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	doc/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	lessons/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	m4/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	tools/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	doc/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	lessons/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	m4/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	tools/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	doc/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	lessons/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	m4/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	tools/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+isBlank	tools/gtypist.pm	/^sub isBlank($) { return $_[0] =~ \/^[ \\t]*$\/; }$/;"	s
+isBlankorComment	tools/gtypist.pm	/^sub isBlankorComment($) { return isBlank($_[0]) || isComment($_[0]); }$/;"	s
+isComment	tools/gtypist.pm	/^sub isComment($) { return $_[0] =~ \/^[ \\t]*\\#.*$\/; }$/;"	s
+isUTF8Locale	src/gtypist.c	/^int isUTF8Locale;                \/* does the current locale have a UTF-8 encoding? *\/$/;"	v
+is_error_too_high	src/gtypist.c	/^static int is_error_too_high(int chars_typed, int errors)$/;"	f	file:
+iswideupper	src/utf8.c	/^int iswideupper(wchar_t c)$/;"	f
+label	src/cursmenu.c	/^    char *label;$/;"	m	struct:_MenuNode	file:
+label	src/script.h	/^    char *label;                \/* label string *\/$/;"	m	struct:label_entry
+label_entry	src/script.h	/^struct label_entry$/;"	s
+last_node	src/cursmenu.c	/^static MenuNode *start_node = NULL, *last_node = NULL;$/;"	v	file:
+last_nonopt	src/getopt.c	/^static int last_nonopt;$/;"	v	file:
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	doc/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	lessons/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	m4/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	tools/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	doc/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	lessons/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	m4/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	tools/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+line	src/cursmenu.c	/^    int line;$/;"	m	struct:_MenuNode	file:
+line_count	src/script.h	/^    int line_count;                \/* line number in script *\/$/;"	m	struct:label_entry
+line_is_empty	src/script.c	/^static int line_is_empty(const char *line)$/;"	f	file:
+lispLISP_INSTALL	tools/Makefile	/^lispLISP_INSTALL = $(INSTALL_DATA)$/;"	m
+lisp_LISP	tools/Makefile	/^lisp_LISP = gtypist-mode.el$/;"	m
+lispdir	Makefile	/^lispdir = ${datadir}\/emacs\/site-lisp$/;"	m
+lispdir	doc/Makefile	/^lispdir = ${datadir}\/emacs\/site-lisp$/;"	m
+lispdir	lessons/Makefile	/^lispdir = ${datadir}\/emacs\/site-lisp$/;"	m
+lispdir	m4/Makefile	/^lispdir = ${datadir}\/emacs\/site-lisp$/;"	m
+lispdir	src/Makefile	/^lispdir = ${datadir}\/emacs\/site-lisp$/;"	m
+lispdir	tools/Makefile	/^lispdir = ${datadir}\/emacs\/site-lisp$/;"	m
+locale_encoding	src/gtypist.c	/^char *locale_encoding;            \/* current locale's encoding *\/$/;"	v
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	doc/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	lessons/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	m4/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	po/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	tools/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	doc/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	lessons/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	m4/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	tools/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+main	config.guess	/^		main()$/;"	f
+main	config.guess	/^	main ()$/;"	f
+main	src/getopt.c	/^int main(argc, argv)$/;"	f
+main	src/getopt1.c	/^int main(argc, argv)$/;"	f
+main	src/gtypist.c	/^int main(int argc, char **argv)$/;"	f
+make_dummy_depfile	depcomp	/^make_dummy_depfile ()$/;"	f
+man1dir	Makefile	/^man1dir = $(mandir)\/man1$/;"	m
+man1dir	src/Makefile	/^man1dir = $(mandir)\/man1$/;"	m
+man_MANS	Makefile	/^man_MANS = typefortune.1$/;"	m
+man_MANS	src/Makefile	/^man_MANS = gtypist.1$/;"	m
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	doc/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	lessons/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	m4/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	tools/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+max	src/cursmenu.c	42;"	d	file:
+min	src/cursmenu.c	43;"	d	file:
+mkdir_p	Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	doc/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	lessons/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	m4/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	po/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	src/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	tools/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	doc/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	lessons/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	m4/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	po/Makefile	/^mkinstalldirs = $(SHELL) ${SHELL} \/root\/workspace\/exercise\/tools\/gtypist\/srcpkg\/gtypist-2.9.5\/install-sh -d$/;"	m
+mkinstalldirs	src/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	tools/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mvwideaddstr	src/utf8.c	/^void mvwideaddstr(int y, int x, const char *UTF8Text)$/;"	f
+my_index	src/getopt.c	/^static char *my_index(str, chr)$/;"	f	file:
+my_index	src/getopt.c	198;"	d	file:
+name	src/getopt.h	/^        const char *name;$/;"	m	struct:option
+new	tools/ktouch2typ.pl	/^sub new {$/;"	s
+next	src/cursmenu.c	/^    struct _MenuNode *next;$/;"	m	struct:_MenuNode	typeref:struct:_MenuNode::_MenuNode	file:
+next	src/script.h	/^    struct label_entry *next;    \/* pointer to next element *\/$/;"	m	struct:label_entry	typeref:struct:label_entry::label_entry
+nextchar	src/getopt.c	/^static char *nextchar;$/;"	v	file:
+ngettext	src/gettext.h	33;"	d
+ngettext	src/gettext.h	34;"	d
+ngettext	src/gettext.h	72;"	d
+ngettext	src/gettext.h	73;"	d
+no_argument	src/getopt.h	96;"	d
+node_delete	src/cursmenu.c	/^static void node_delete(MenuNode * mn)$/;"	f	file:
+node_new	src/cursmenu.c	/^static MenuNode *node_new()$/;"	f	file:
+nonoption_flags_len	src/getopt.c	/^static int nonoption_flags_len;$/;"	v	file:
+nonoption_flags_max_len	src/getopt.c	/^static int nonoption_flags_max_len;$/;"	v	file:
+npgettext	src/gettext.h	128;"	d
+npgettext	src/gettext.h	131;"	d
+npgettext_aux	src/gettext.h	/^static const char *npgettext_aux(const char *domain, const char *msg_ctxt_id, const char *msgid, const char *msgid_plural, unsigned long int n, int category)$/;"	f
+npgettext_expr	src/gettext.h	227;"	d
+numhead0 #1	doc/texinfo.tex	/^\\outer\\parseargdef\\chapter{\\numhead0{#1}} % normally numhead0 calls chapterzzz$/;"	c
+offset	src/script.h	/^    long offset;                \/* offset into file *\/$/;"	m	struct:label_entry
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	doc/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	lessons/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	m4/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	tools/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+open_script	src/gtypist.c	/^FILE *open_script(const char *filename)$/;"	f
+optarg	src/getopt.c	/^char *optarg = NULL;$/;"	v
+opterr	src/getopt.c	/^int opterr = 1;$/;"	v
+optind	src/getopt.c	/^int optind = 1;$/;"	v
+option	src/getopt.h	/^    struct option$/;"	s
+optional_argument	src/getopt.h	98;"	d
+optopt	src/getopt.c	/^int optopt = '?';$/;"	v
+ordering	src/getopt.c	/^} ordering;$/;"	v	typeref:enum:__anon1	file:
+original_argc	src/getopt.c	/^static int original_argc;$/;"	v	file:
+original_argv	src/getopt.c	/^static char *const *original_argv;$/;"	v	file:
+parse_cmdline	src/gtypist.c	/^static void parse_cmdline(int argc, char **argv)$/;"	f	file:
+parse_file	src/gtypist.c	/^static void parse_file(FILE * script, char *label)$/;"	f	file:
+partzzz #1	doc/texinfo.tex	/^\\outer\\parseargdef\\part{\\partzzz{#1}}$/;"	p
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	doc/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	lessons/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	m4/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	tools/Makefile	/^pdfdir = ${docdir}$/;"	m
+pfkeys	src/gtypist.c	/^static char pfkeys[NFKEYS] = { 'Q' - CTRL_OFFSET, 'W' - CTRL_OFFSET, 'E' - CTRL_OFFSET, 'R' - CTRL_OFFSET,$/;"	v	file:
+pgettext	src/gettext.h	117;"	d
+pgettext	src/gettext.h	120;"	d
+pgettext_aux	src/gettext.h	/^static const char *pgettext_aux(const char *domain, const char *msg_ctxt_id, const char *msgid, int category)$/;"	f
+pgettext_expr	src/gettext.h	188;"	d
+pkgdata_DATA	lessons/Makefile	/^pkgdata_DATA = gtypist.typ \\$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/gtypist$/;"	m
+pkgdatadir	doc/Makefile	/^pkgdatadir = $(datadir)\/gtypist$/;"	m
+pkgdatadir	lessons/Makefile	/^pkgdatadir = $(datadir)\/gtypist$/;"	m
+pkgdatadir	m4/Makefile	/^pkgdatadir = $(datadir)\/gtypist$/;"	m
+pkgdatadir	src/Makefile	/^pkgdatadir = $(datadir)\/gtypist$/;"	m
+pkgdatadir	tools/Makefile	/^pkgdatadir = $(datadir)\/gtypist$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/gtypist$/;"	m
+pkgincludedir	doc/Makefile	/^pkgincludedir = $(includedir)\/gtypist$/;"	m
+pkgincludedir	lessons/Makefile	/^pkgincludedir = $(includedir)\/gtypist$/;"	m
+pkgincludedir	m4/Makefile	/^pkgincludedir = $(includedir)\/gtypist$/;"	m
+pkgincludedir	src/Makefile	/^pkgincludedir = $(includedir)\/gtypist$/;"	m
+pkgincludedir	tools/Makefile	/^pkgincludedir = $(includedir)\/gtypist$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/gtypist$/;"	m
+pkglibdir	doc/Makefile	/^pkglibdir = $(libdir)\/gtypist$/;"	m
+pkglibdir	lessons/Makefile	/^pkglibdir = $(libdir)\/gtypist$/;"	m
+pkglibdir	m4/Makefile	/^pkglibdir = $(libdir)\/gtypist$/;"	m
+pkglibdir	src/Makefile	/^pkglibdir = $(libdir)\/gtypist$/;"	m
+pkglibdir	tools/Makefile	/^pkglibdir = $(libdir)\/gtypist$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/gtypist$/;"	m
+pkglibexecdir	doc/Makefile	/^pkglibexecdir = $(libexecdir)\/gtypist$/;"	m
+pkglibexecdir	lessons/Makefile	/^pkglibexecdir = $(libexecdir)\/gtypist$/;"	m
+pkglibexecdir	m4/Makefile	/^pkglibexecdir = $(libexecdir)\/gtypist$/;"	m
+pkglibexecdir	src/Makefile	/^pkglibexecdir = $(libexecdir)\/gtypist$/;"	m
+pkglibexecdir	tools/Makefile	/^pkglibexecdir = $(libexecdir)\/gtypist$/;"	m
+posixly_correct	src/getopt.c	/^static char *posixly_correct;$/;"	v	file:
+prefix	Makefile	/^prefix = \/usr\/local\/gtypist$/;"	m
+prefix	doc/Makefile	/^prefix = \/usr\/local\/gtypist$/;"	m
+prefix	lessons/Makefile	/^prefix = \/usr\/local\/gtypist$/;"	m
+prefix	m4/Makefile	/^prefix = \/usr\/local\/gtypist$/;"	m
+prefix	po/Makefile	/^prefix = \/usr\/local\/gtypist$/;"	m
+prefix	src/Makefile	/^prefix = \/usr\/local\/gtypist$/;"	m
+prefix	tools/Makefile	/^prefix = \/usr\/local\/gtypist$/;"	m
+prepare_to_go_back	src/cursmenu.c	/^static void prepare_to_go_back(FILE * script)$/;"	f	file:
+print_help	src/gtypist.c	/^static void print_help()$/;"	f	file:
+print_usage_item	src/gtypist.c	/^static void print_usage_item(char *op, char *lop, char *help, int col_op, int col_lop, int col_help, int last_col)$/;"	f	file:
+program_details	missing	/^program_details ()$/;"	f
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	doc/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	lessons/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	m4/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	tools/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	doc/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	lessons/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	m4/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	tools/Makefile	/^psdir = ${docdir}$/;"	m
+put_best_speed	src/gtypist.c	/^void put_best_speed(const char *script_filename, const char *excersise_label, double adjusted_cpm)$/;"	f
+read_lesson_index	tools/tt2typ.pl	/^sub read_lesson_index($)$/;"	s
+required_argument	src/getopt.h	97;"	d
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	doc/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	lessons/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	m4/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	tools/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+seek_label	src/script.c	/^void seek_label(FILE * script, char *label, char *ref_line)$/;"	f
+set_base_from	depcomp	/^set_base_from ()$/;"	f
+set_dir_from	depcomp	/^set_dir_from ()$/;"	f
+setlocale	src/gettext.h	96;"	d
+setlocale	src/gettext.h	97;"	d
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	doc/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	lessons/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	m4/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	tools/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	doc/Makefile	/^srcdir = .$/;"	m
+srcdir	lessons/Makefile	/^srcdir = .$/;"	m
+srcdir	m4/Makefile	/^srcdir = .$/;"	m
+srcdir	po/Makefile	/^srcdir = .$/;"	m
+srcdir	src/Makefile	/^srcdir = .$/;"	m
+srcdir	tools/Makefile	/^srcdir = .$/;"	m
+start_element	tools/ktouch2typ.pl	/^sub start_element {$/;"	s
+start_node	src/cursmenu.c	/^static MenuNode *start_node = NULL, *last_node = NULL;$/;"	v	file:
+store_args_and_env	src/getopt.c	/^static void __attribute__ ((unused)) store_args_and_env(int argc, char *const *argv)$/;"	f	file:
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	doc/Makefile	/^subdir = doc$/;"	m
+subdir	lessons/Makefile	/^subdir = lessons$/;"	m
+subdir	m4/Makefile	/^subdir = m4$/;"	m
+subdir	po/Makefile	/^subdir = po$/;"	m
+subdir	src/Makefile	/^subdir = src$/;"	m
+subdir	tools/Makefile	/^subdir = tools$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	doc/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	lessons/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	m4/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	tools/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | BZIP2=$${BZIP2--9} bzip2 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | XZ_OPT=$${XZ_OPT--e} xz -c >$(distdir).tar.xz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzip -c $${LZIP_OPT--9} >$(distdir).tar.lz$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	doc/Makefile	/^target_alias = $/;"	m
+target_alias	lessons/Makefile	/^target_alias = $/;"	m
+target_alias	m4/Makefile	/^target_alias = $/;"	m
+target_alias	src/Makefile	/^target_alias = $/;"	m
+target_alias	tools/Makefile	/^target_alias = $/;"	m
+textdomain	src/gettext.h	83;"	d
+textdomain	src/gettext.h	84;"	d
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	doc/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	lessons/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	m4/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	src/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	tools/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	doc/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	lessons/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	m4/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	po/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	src/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	tools/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	doc/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	lessons/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	m4/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	po/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	src/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	tools/Makefile	/^top_srcdir = ..$/;"	m
+towideupper	src/utf8.c	/^wchar_t towideupper(wchar_t c)$/;"	f
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	doc/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	lessons/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	m4/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	tools/Makefile	/^transform = $(program_transform_name)$/;"	m
+trim	tools/ktouch2typ.pl	/^sub trim($)$/;"	s
+user_is_always_sure	src/gtypist.c	/^static bool user_is_always_sure = FALSE;$/;"	v	file:
+utf8len	src/utf8.c	/^int utf8len(const char *UTF8Text)$/;"	f
+val	src/getopt.h	/^        int val;$/;"	m	struct:option
+wait_user	src/gtypist.c	/^static bool wait_user(FILE * script, char *message, char *mode)$/;"	f	file:
+wideaddch	src/utf8.c	/^void wideaddch(wchar_t c)$/;"	f
+wideaddch_rev	src/utf8.c	/^void wideaddch_rev(wchar_t c)$/;"	f
+wideaddstr	src/utf8.c	/^void wideaddstr(const char *UTF8Text)$/;"	f
+wideaddstr_rev	src/utf8.c	/^void wideaddstr_rev(const char *UTF8Text)$/;"	f
+widen	src/utf8.c	/^wchar_t *widen(const char *text)$/;"	f
+writeLesson	tools/ktouch2typ.pl	/^sub writeLesson($$)$/;"	s
