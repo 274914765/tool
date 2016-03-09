@@ -1,0 +1,50 @@
+Steps for releasing a new CGDB version, follow these in order.
+
+--------------------------------------------------------------------------------
+All of the steps below are automated by autorelease.sh, just check to make
+sure that it worked properly.
+
+- Run autorelease.sh
+  ./autorelease.sh
+  - It prompts for version, put in the version, for example: 0.6.8
+
+- Look at tar file in releasedir to make sure it has the correct version.
+  untar it and run to make sure it shows the correct version and that it runs.
+
+- Ensure doc/htdocs/download.php has correct version set in the definition
+  of 'LATEST' at the top of the file.
+  You can do 'git diff' and notice only the NEWS file and the
+  download.php file modified.
+
+- Verify documentation is correct. cgdb.pdf, cgdb.html, cgdb.text, 
+  cgdb-split.html and cgdb.info.
+
+--------------------------------------------------------------------------------
+These steps are manual.
+
+- Commit all currently modified files.
+
+- Update documentation in website
+  - cd release
+  - ./scripts/update_docs.sh
+
+ ** At this point, you should be ready to release, there is no going back.
+
+- Put a release on sourceforge.net/projects/cgdb
+  mkdir /home/frs/project/c/cg/cgdb/cgdb-0.6.5
+  scp cgdb-0.6.5.tar.gz bobbybrasko,cgdb@frs.sourceforge.net:/home/frs/project/c/cg/cgdb/cgdb/cgdb-0.6.5
+
+- Go into releasedir and run upload.sh to upload all the files.
+
+- Ensure tag is written. If the version is cgdb-0.3.3, name the tag
+  cgdb-0_3_3.
+
+- Test website by looking at it and attempting to download file.
+
+- Download and test the new version from sourceforge.
+
+- Announce the release on freshmeat
+
+- Announce the release on cgdb-announce@lists.sourceforge.net
+  with email from releasedir/cgdb.email.
+  Subject: CGDB 0.Major.Minor released
